@@ -1,0 +1,11 @@
+{
+  "botToken": "ボットトークン",
+  "botTokenDescription": "Botfather から提供されたトークンを入力してください。",
+  "enableBotNotifications": "ボット通知を有効にする",
+  "enableBotNotificationsDescription": "有効にすると、ボットは Telegram にリンクされた管理者やユーザーに基本的な通知を送信します。",
+  "groupURL": "グループ URL",
+  "groupURLDescription": "入力後、ユーザーサイドに表示されるか、必要に応じて使用されます。",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "保存に成功しました"
+}

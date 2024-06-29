@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay APP ID",
+  "alipayPrivateKey": "Alipay Private Key",
+  "alipayPublicKey": "Alipay Public Key",
+  "enable": "Enable",
+  "enableDescription": "Enable this payment method",
+  "feePercent": "Percentage Fee (optional)",
+  "feePercentDescription": "Add a fee on top of the order amount",
+  "fixedFee": "Fixed Fee (optional)",
+  "fixedFeeDescription": "Add a fixed fee on top of the order amount",
+  "goodsName": "Custom Product Name",
+  "goodsNamePlaceholder": "This will appear in the Alipay bill",
+  "iconUrl": "Icon URL (optional)",
+  "iconUrlDescription": "Used for frontend display",
+  "inputPlaceholder": "Please enter",
+  "notifyUrl": "Custom Notification Domain (optional)",
+  "notifyUrlDescription": "Gateway notifications will be sent to this domain",
+  "saveSuccess": "Save Successful",
+  "showName": "Display Name",
+  "showNameDescription": "Used for frontend display"
+}

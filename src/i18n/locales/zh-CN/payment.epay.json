@@ -1,0 +1,19 @@
+{
+  "enable": "启用",
+  "enableDescription": "启用此支付方式",
+  "feePercent": "百分比费用（可选）",
+  "feePercentDescription": "在订单金额之上添加费用",
+  "fixedFee": "固定费用（可选）",
+  "fixedFeeDescription": "在订单金额之上添加固定费用",
+  "iconUrl": "图标 URL（可选）",
+  "iconUrlDescription": "用于前端显示",
+  "inputPlaceholder": "请输入",
+  "key": "键",
+  "notifyUrl": "自定义通知域（可选）",
+  "notifyUrlDescription": "网关通知将发送到此域",
+  "pid": "PID",
+  "saveSuccess": "保存成功",
+  "showName": "显示名称",
+  "showNameDescription": "用于前端显示",
+  "url": "URL"
+}

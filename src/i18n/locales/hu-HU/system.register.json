@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "E-mail Suffix Engedélyezett Listája",
+  "emailSuffixWhitelistDescription": "Amint engedélyezve van, csak az engedélyezett listában szereplő végződéssel rendelkező e-mailek regisztrálhatnak.",
+  "emailVerification": "E-mail Hitelesítés",
+  "emailVerificationDescription": "Amint engedélyezve van, a felhasználóknak ellenőrizniük kell az e-mail címüket.",
+  "ipRegistrationLimit": "IP Regisztrációs Korlát",
+  "ipRegistrationLimitDescription": "Amint engedélyezve van, azok az IP-címek, amelyek megfelelnek a szabálykövetelményeknek, nem regisztrálhatnak. Kérjük, vegye figyelembe, hogy az IP meghatározása problémákat okozhat a CDN vagy az előtéri proxyk miatt.",
+  "penaltyTime": "Büntetési Idő (perc)",
+  "penaltyTimeDescription": "A felhasználóknak meg kell várniuk, amíg lejár a büntetési idő, mielőtt újra regisztrálhatnak.",
+  "registrationLimitCount": "Regisztrációs Korlát Száma",
+  "registrationLimitCountDescription": "Engedélyezze a büntetést a regisztrációs korlát elérését követően.",
+  "saveSuccess": "Sikeres Mentés",
+  "stopNewUserRegistration": "Új Felhasználó Regisztrációjának Megállítása",
+  "stopNewUserRegistrationDescription": "Amint engedélyezve van, senki sem tud regisztrálni.",
+  "trialRegistration": "Próbaverziós Regisztráció",
+  "trialRegistrationDescription": "Engedélyezze a próbaverziós regisztrációt. Kérjük, először módosítsa a próbacsomagot a termékkezelésben.",
+  "whitelistSuffixes": "Engedélyezett Végződések",
+  "whitelistSuffixesDescription": "Használva az e-mail hitelesítéshez, egy soronként.",
+  "whitelistSuffixesPlaceholder": "Kérjük, adja meg az e-mail végződéseket, egy soronként."
+}

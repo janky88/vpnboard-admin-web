@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Klucz komunikacji",
+  "communicationKeyDescription": "Klucz do komunikacji między węzłami, aby zapewnić, że dane nie zostaną przechwycone przez innych.",
+  "inputPlaceholder": "Proszę wprowadzić",
+  "nodePullInterval": "Interwał pobierania węzła",
+  "nodePullIntervalDescription": "Częstotliwość, z jaką węzeł pobiera dane z panelu. (w sekundach)",
+  "nodePushInterval": "Interwał wysyłania węzła",
+  "nodePushIntervalDescription": "Częstotliwość, z jaką węzeł wysyła dane do panelu.",
+  "saveSuccess": "Zapisano pomyślnie"
+}

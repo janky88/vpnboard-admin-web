@@ -1,0 +1,28 @@
+{
+  "actions": "Ações",
+  "announcementList": "Lista de Anúncios",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "confirmDelete": "Tem certeza de que deseja excluir?",
+  "content": "Conteúdo",
+  "create": "Criar",
+  "createAnnouncement": "Criar Anúncio",
+  "createSuccess": "Criado com sucesso",
+  "delete": "Excluir",
+  "deleteDescription": "Uma vez excluído, os dados não podem ser recuperados. Por favor, prossiga com cautela.",
+  "deleteSuccess": "Excluído com sucesso",
+  "edit": "Editar",
+  "editAnnouncement": "Editar Anúncio",
+  "enable": "Ativar",
+  "form": {
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "content": "Conteúdo",
+    "contentPlaceholder": "Por favor, insira o conteúdo do anúncio (suporta Markdown)",
+    "title": "Título",
+    "titlePlaceholder": "Por favor, insira"
+  },
+  "title": "Título",
+  "updateSuccess": "Atualizado com sucesso",
+  "updatedAt": "Atualizado em"
+}

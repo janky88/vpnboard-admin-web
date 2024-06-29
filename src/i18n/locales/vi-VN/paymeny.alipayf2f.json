@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "ID Ứng dụng Alipay",
+  "alipayPrivateKey": "Khóa Riêng Alipay",
+  "alipayPublicKey": "Khóa Công khai Alipay",
+  "enable": "Kích hoạt",
+  "enableDescription": "Kích hoạt phương thức thanh toán này",
+  "feePercent": "Phần trăm Phí (tùy chọn)",
+  "feePercentDescription": "Thêm một khoản phí lên trên số tiền đơn hàng",
+  "fixedFee": "Phí Cố định (tùy chọn)",
+  "fixedFeeDescription": "Thêm một khoản phí cố định lên trên số tiền đơn hàng",
+  "goodsName": "Tên Sản phẩm Tùy chỉnh",
+  "goodsNamePlaceholder": "Sẽ xuất hiện trên hóa đơn Alipay",
+  "iconUrl": "URL Biểu tượng (tùy chọn)",
+  "iconUrlDescription": "Được sử dụng cho hiển thị phía trước",
+  "inputPlaceholder": "Vui lòng nhập",
+  "notifyUrl": "Miền Thông báo Tùy chỉnh (tùy chọn)",
+  "notifyUrlDescription": "Thông báo cổng sẽ được gửi đến miền này",
+  "saveSuccess": "Lưu thành công",
+  "showName": "Tên Hiển thị",
+  "showNameDescription": "Được sử dụng cho hiển thị phía trước"
+}

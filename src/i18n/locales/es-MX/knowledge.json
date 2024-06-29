@@ -1,0 +1,28 @@
+{
+  "actions": "Acciones",
+  "cancel": "Cancelar",
+  "category": "Categoría",
+  "confirm": "Confirmar",
+  "confirmDelete": "¿Estás seguro de que deseas eliminar?",
+  "create": "Crear",
+  "createKnowledge": "Crear Conocimiento",
+  "createSuccess": "Creación exitosa",
+  "delete": "Eliminar",
+  "deleteDescription": "Una vez eliminado, los datos no se pueden recuperar. Por favor, procede con precaución.",
+  "deleteSuccess": "Eliminación exitosa",
+  "edit": "Editar",
+  "editKnowledge": "Editar Conocimiento",
+  "form": {
+    "cancel": "Cancelar",
+    "category": "Categoría",
+    "confirm": "Confirmar",
+    "content": "Contenido",
+    "title": "Título",
+    "titlePlaceholder": "Por favor ingresa"
+  },
+  "knowledgeList": "Lista de Conocimientos",
+  "show": "Mostrar",
+  "title": "Título",
+  "updateSuccess": "Actualización exitosa",
+  "updatedAt": "Actualizado en"
+}

@@ -1,0 +1,10 @@
+{
+  "communicationKey": "通信キー",
+  "communicationKeyDescription": "データが他者に傍受されないように、ノード間通信のためのキーです。",
+  "inputPlaceholder": "入力してください",
+  "nodePullInterval": "ノードプル間隔",
+  "nodePullIntervalDescription": "パネルからデータを取得するノードの頻度（秒単位）",
+  "nodePushInterval": "ノードプッシュ間隔",
+  "nodePushIntervalDescription": "ノードがパネルにデータを送信する頻度です。",
+  "saveSuccess": "保存が成功しました"
+}

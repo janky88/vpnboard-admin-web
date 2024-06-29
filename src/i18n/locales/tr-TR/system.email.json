@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "E-posta Şablonu",
+  "emailTemplateDescription": "E-posta şablonlarını nasıl özelleştireceğiniz hakkındaki belgelere göz atabilirsiniz",
+  "inputPlaceholder": "Lütfen girin",
+  "saveSuccess": "Başarıyla kaydedildi",
+  "selectPlaceholder": "Lütfen seçiniz",
+  "sendTestEmail": "Test E-postası Gönder",
+  "sendTestEmailDescription": "E-posta şu anda oturum açmış kullanıcının e-posta adresine gönderilecektir",
+  "senderAddress": "Gönderen Adresi",
+  "senderAddressDescription": "E-posta hizmet sağlayıcısı tarafından sağlanan gönderen adresi",
+  "smtpAccount": "SMTP Hesabı",
+  "smtpAccountDescription": "E-posta hizmet sağlayıcısı tarafından sağlanan hesap",
+  "smtpEncryptionMethod": "SMTP Şifreleme Yöntemi",
+  "smtpEncryptionMethodDescription": "Port 465 için genellikle SSL ve port 587 için genellikle TLS şifreleme yöntemidir",
+  "smtpPassword": "SMTP Şifresi",
+  "smtpPasswordDescription": "E-posta hizmet sağlayıcısı tarafından sağlanan şifre",
+  "smtpServerAddress": "SMTP Sunucu Adresi",
+  "smtpServerAddressDescription": "E-posta hizmet sağlayıcısı tarafından sağlanan hizmet adresi",
+  "smtpServerPort": "SMTP Sunucu Portu",
+  "smtpServerPortDescription": "Genellikle kullanılan portlar 25, 465, 587"
+}

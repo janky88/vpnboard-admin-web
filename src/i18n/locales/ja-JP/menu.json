@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "お知らせ管理",
+  "couponManagement": "クーポン管理",
+  "dashboard": "ダッシュボード",
+  "documentManagement": "ドキュメント管理",
+  "errorNoManager": "リクエストエラー：マネージャーがいません",
+  "finance": "ファイナンス",
+  "logout": "ログアウト",
+  "nodeManagement": "ノード管理",
+  "orderManagement": "注文管理",
+  "paymentConfig": "支払い設定",
+  "productManagement": "商品管理",
+  "server": "サーバー",
+  "settings": "設定",
+  "systemConfig": "システム設定",
+  "ticketManagement": "チケット管理",
+  "toggleNavigationMenu": "ナビゲーションメニューを切り替える",
+  "toggleUserMenu": "ユーザーメニューを切り替える",
+  "user": "ユーザー",
+  "userManagement": "ユーザー管理"
+}

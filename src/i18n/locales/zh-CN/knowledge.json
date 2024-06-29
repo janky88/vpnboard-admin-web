@@ -1,0 +1,28 @@
+{
+  "actions": "操作",
+  "cancel": "取消",
+  "category": "类别",
+  "confirm": "确认",
+  "confirmDelete": "您确定要删除吗？",
+  "create": "创建",
+  "createKnowledge": "创建知识",
+  "createSuccess": "创建成功",
+  "delete": "删除",
+  "deleteDescription": "一旦删除，数据将无法恢复。请谨慎操作。",
+  "deleteSuccess": "删除成功",
+  "edit": "编辑",
+  "editKnowledge": "编辑文档",
+  "form": {
+    "cancel": "取消",
+    "category": "类别",
+    "confirm": "确认",
+    "content": "内容",
+    "title": "标题",
+    "titlePlaceholder": "请输入"
+  },
+  "knowledgeList": "知识列表",
+  "show": "显示",
+  "title": "标题",
+  "updateSuccess": "更新成功",
+  "updatedAt": "更新于"
+}

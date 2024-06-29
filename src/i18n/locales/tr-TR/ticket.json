@@ -1,0 +1,18 @@
+{
+  "actions": "Eylemler",
+  "cancel": "İptal",
+  "close": "Kapat",
+  "closeSuccess": "Kapatma Başarılı",
+  "closeWarning": "Kapatıldıktan sonra bilet üzerinde işlem yapılamaz. Lütfen dikkatli olun.",
+  "closed": "Kapalı",
+  "confirm": "Onayla",
+  "confirmClose": "Kapatmak istediğinizden emin misiniz?",
+  "createdAt": "Oluşturulma Tarihi",
+  "inputPlaceholder": "Lütfen sorunuzu buraya yazın ve en kısa sürede cevaplayacağız.",
+  "open": "Açık",
+  "reply": "Cevapla",
+  "send": "Gönder",
+  "ticketList": "Bilet Listesi",
+  "title": "Başlık",
+  "updatedAt": "Güncellenme Tarihi"
+}

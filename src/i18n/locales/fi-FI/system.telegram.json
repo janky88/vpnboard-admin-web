@@ -1,0 +1,11 @@
+{
+  "botToken": "Botin tunnus",
+  "botTokenDescription": "Syötä Botfatherilta saamasi tunnus.",
+  "enableBotNotifications": "Ota botin ilmoitukset käyttöön",
+  "enableBotNotificationsDescription": "Kun tämä on otettu käyttöön, botti lähettää perusilmoituksia ylläpitäjille ja käyttäjille, jotka ovat linkittäneet Telegramin.",
+  "groupURL": "Ryhmän URL-osoite",
+  "groupURLDescription": "Täytön jälkeen se näkyy käyttäjäpuolella tai sitä käytetään tarvittaessa.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Tallennus onnistui"
+}

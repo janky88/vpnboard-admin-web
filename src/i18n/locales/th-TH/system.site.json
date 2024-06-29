@@ -1,0 +1,15 @@
+{
+  "logo": "โลโก้",
+  "logoDescription": "ใช้เพื่อแสดงที่จำเป็นต้องมีโลโก้",
+  "logoPlaceholder": "โปรดใส่ URL ของโลโก้ อย่าลงท้ายด้วย '/'",
+  "saveSuccess": "บันทึกสำเร็จ",
+  "siteDesc": "คำอธิบายเว็บไซต์",
+  "siteDescDescription": "ใช้เพื่อแสดงที่จำเป็นต้องมีคำอธิบายเว็บไซต์",
+  "siteDescPlaceholder": "โปรดใส่คำอธิบายเว็บไซต์",
+  "siteName": "ชื่อเว็บไซต์",
+  "siteNameDescription": "ใช้เพื่อแสดงที่จำเป็นต้องมีชื่อเว็บไซต์",
+  "siteNamePlaceholder": "โปรดใส่ชื่อเว็บไซต์",
+  "siteURL": "URL เว็บไซต์",
+  "siteURLDescription": "URL เว็บไซต์ปัจจุบัน จะถูกใช้ในที่อย่างเช่นอีเมล",
+  "siteURLPlaceholder": "โปรดใส่ URL เว็บไซต์ อย่าลงท้ายด้วย '/'"
+}

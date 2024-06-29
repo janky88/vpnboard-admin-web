@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "เทมเพลตอีเมล",
+  "emailTemplateDescription": "คุณสามารถตรวจสอบเอกสารปรับแต่งเทมเพลตอีเมลได้",
+  "inputPlaceholder": "โปรดใส่",
+  "saveSuccess": "บันทึกสำเร็จ",
+  "selectPlaceholder": "โปรดเลือก",
+  "sendTestEmail": "ส่งอีเมลทดสอบ",
+  "sendTestEmailDescription": "อีเมลจะถูกส่งไปยังอีเมลของผู้ใช้ที่เข้าสู่ระบบในปัจจุบัน",
+  "senderAddress": "ที่อยู่ผู้ส่ง",
+  "senderAddressDescription": "ที่อยู่ผู้ส่งที่ให้บริการโดยผู้ให้บริการอีเมล",
+  "smtpAccount": "บัญชี SMTP",
+  "smtpAccountDescription": "บัญชีที่ให้บริการโดยผู้ให้บริการอีเมล",
+  "smtpEncryptionMethod": "วิธีเข้ารหัส SMTP",
+  "smtpEncryptionMethodDescription": "วิธีเข้ารหัสสำหรับพอร์ต 465 โดยทั่วไปคือ SSL และสำหรับพอร์ต 587 โดยทั่วไปคือ TLS",
+  "smtpPassword": "รหัสผ่าน SMTP",
+  "smtpPasswordDescription": "รหัสผ่านที่ให้บริการโดยผู้ให้บริการอีเมล",
+  "smtpServerAddress": "ที่อยู่เซิร์ฟเวอร์ SMTP",
+  "smtpServerAddressDescription": "ที่อยู่บริการที่ให้บริการโดยผู้ให้บริการอีเมล",
+  "smtpServerPort": "พอร์ตเซิร์ฟเวอร์ SMTP",
+  "smtpServerPortDescription": "พอร์ตทั่วไปคือ 25, 465, 587"
+}

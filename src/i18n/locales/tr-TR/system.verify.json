@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Lütfen girin",
+  "loginVerificationCode": "Giriş Doğrulama Kodu",
+  "loginVerificationCodeDescription": "Giriş için insan doğrulaması",
+  "registrationVerificationCode": "Kayıt Doğrulama Kodu",
+  "registrationVerificationCodeDescription": "Kayıt için insan doğrulaması",
+  "resetPasswordVerificationCode": "Şifre Sıfırlama Doğrulama Kodu",
+  "resetPasswordVerificationCodeDescription": "Şifre sıfırlama için insan doğrulaması",
+  "saveSuccess": "Başarıyla kaydedildi",
+  "turnstileSecret": "Turnike Gizli",
+  "turnstileSecretDescription": "Cloudflare tarafından sağlanan Turnike Gizli",
+  "turnstileSiteKey": "Turnike Site Anahtarı",
+  "turnstileSiteKeyDescription": "Cloudflare tarafından sağlanan Turnike Site Anahtarı"
+}

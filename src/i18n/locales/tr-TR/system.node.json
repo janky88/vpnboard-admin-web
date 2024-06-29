@@ -1,0 +1,10 @@
+{
+  "communicationKey": "İletişim Anahtarı",
+  "communicationKeyDescription": "Verilerin başkaları tarafından ele geçirilmesini önlemek için düğüm iletişimi için anahtar.",
+  "inputPlaceholder": "Lütfen girin",
+  "nodePullInterval": "Düğüm Çekme Aralığı",
+  "nodePullIntervalDescription": "Düğümün panelden veri alış sıklığı. (saniye cinsinden)",
+  "nodePushInterval": "Düğüm İtme Aralığı",
+  "nodePushIntervalDescription": "Düğümün paneldeki verileri gönderme sıklığı.",
+  "saveSuccess": "Kaydetme başarılı"
+}

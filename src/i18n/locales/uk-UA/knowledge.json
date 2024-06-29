@@ -1,0 +1,28 @@
+{
+  "actions": "Дії",
+  "cancel": "Скасувати",
+  "category": "Категорія",
+  "confirm": "Підтвердити",
+  "confirmDelete": "Ви впевнені, що хочете видалити?",
+  "create": "Створити",
+  "createKnowledge": "Створити знання",
+  "createSuccess": "Створення успішне",
+  "delete": "Видалити",
+  "deleteDescription": "Після видалення дані не можна відновити. Будь ласка, дійте обережно.",
+  "deleteSuccess": "Видалення успішне",
+  "edit": "Редагувати",
+  "editKnowledge": "Редагувати знання",
+  "form": {
+    "cancel": "Скасувати",
+    "category": "Категорія",
+    "confirm": "Підтвердити",
+    "content": "Зміст",
+    "title": "Заголовок",
+    "titlePlaceholder": "Будь ласка, введіть"
+  },
+  "knowledgeList": "Список знань",
+  "show": "Показати",
+  "title": "Заголовок",
+  "updateSuccess": "Оновлення успішне",
+  "updatedAt": "Оновлено о"
+}

@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Hromadné smazání",
+    "cancel": "Zrušit",
+    "confirm": "Potvrdit",
+    "confirmDelete": "Jste si jisti, že chcete smazat tyto položky?",
+    "deleteDescription": "Po smazání nelze data obnovit. Pokračujte prosím opatrně.",
+    "goToFirstPage": "Jít na první stránku",
+    "goToLastPage": "Jít na poslední stránku",
+    "goToNextPage": "Jít na další stránku",
+    "goToPreviousPage": "Jít na předchozí stránku",
+    "noResults": "Žádné výsledky.",
+    "of": "z",
+    "page": "Stránka",
+    "selectAll": "Vybrat vše",
+    "selectRow": "Vybrat řádek",
+    "selectedItems": "Vybrané položky",
+    "totalItems": "Celkem položek"
+  },
+  "request.error": {
+    "40000": "Chyba klienta",
+    "40001": "Validace klienta selhala",
+    "41001": "Autentizace účtu selhala",
+    "41010": "Tento účet neexistuje",
+    "41011": "Účet byl zablokován",
+    "41012": "Nesprávné heslo",
+    "50000": "Chyba serveru",
+    "default": "Neznámá chyba",
+    "no.manager": "Tento účet správce je neoprávněně přihlášen"
+  }
+}

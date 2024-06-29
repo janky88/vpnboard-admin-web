@@ -1,0 +1,28 @@
+{
+  "actions": "Eylemler",
+  "cancel": "İptal",
+  "category": "Kategori",
+  "confirm": "Onayla",
+  "confirmDelete": "Silmek istediğinizden emin misiniz?",
+  "create": "Oluştur",
+  "createKnowledge": "Bilgi Oluştur",
+  "createSuccess": "Oluşturma başarılı",
+  "delete": "Sil",
+  "deleteDescription": "Bir kez silindiğinde, veriler kurtarılamaz. Lütfen dikkatli olun.",
+  "deleteSuccess": "Silme başarılı",
+  "edit": "Düzenle",
+  "editKnowledge": "Bilgiyi Düzenle",
+  "form": {
+    "cancel": "İptal",
+    "category": "Kategori",
+    "confirm": "Onayla",
+    "content": "İçerik",
+    "title": "Başlık",
+    "titlePlaceholder": "Lütfen girin"
+  },
+  "knowledgeList": "Bilgi Listesi",
+  "show": "Göster",
+  "title": "Başlık",
+  "updateSuccess": "Güncelleme başarılı",
+  "updatedAt": "Güncelleme Tarihi"
+}

@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Communication Key",
+  "communicationKeyDescription": "The key for node communication to ensure data is not intercepted by others.",
+  "inputPlaceholder": "Please enter",
+  "nodePullInterval": "Node Pull Interval",
+  "nodePullIntervalDescription": "The frequency at which the node retrieves data from the panel. (in seconds)",
+  "nodePushInterval": "Node Push Interval",
+  "nodePushIntervalDescription": "The frequency at which the node pushes data to the panel.",
+  "saveSuccess": "Save successful"
+}

@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "请输入",
+  "loginVerificationCode": "登录验证",
+  "loginVerificationCodeDescription": "登录阶段是否进行人机验证",
+  "registrationVerificationCode": "注册验证",
+  "registrationVerificationCodeDescription": "注册阶段是否进行人机验证",
+  "resetPasswordVerificationCode": "重置密码验证",
+  "resetPasswordVerificationCodeDescription": "重置密码阶段是否进行人机验证",
+  "saveSuccess": "保存成功",
+  "turnstileSecret": "Turnstile Secret",
+  "turnstileSecretDescription": "Cloudflare提供的Turnstile秘钥",
+  "turnstileSiteKey": "Turnstile Site Key",
+  "turnstileSiteKeyDescription": "Cloudflare提供的Turnstile站点密钥"
+}

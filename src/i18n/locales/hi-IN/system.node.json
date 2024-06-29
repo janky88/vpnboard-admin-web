@@ -1,0 +1,10 @@
+{
+  "communicationKey": "संचार कुंजी",
+  "communicationKeyDescription": "डेटा को दूसरों द्वारा अवरोधित न होने के लिए नोड संचार कुंजी।",
+  "inputPlaceholder": "कृपया दर्ज करें",
+  "nodePullInterval": "नोड पुल अंतराल",
+  "nodePullIntervalDescription": "वह अंतराल जिसमें नोड पैनल से डेटा प्राप्त करता है। (सेकंड में)",
+  "nodePushInterval": "नोड पुश अंतराल",
+  "nodePushIntervalDescription": "वह अंतराल जिसमें नोड पैनल को डेटा पुश करता है।",
+  "saveSuccess": "सहेजें सफल हुआ"
+}

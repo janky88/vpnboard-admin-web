@@ -1,0 +1,23 @@
+{
+  "add": "新增",
+  "app": "應用程式",
+  "appDescription": "配置應用程式的下載地址和導入規則。修改後請記得保存。",
+  "appDownloadURL": "應用程式下載網址",
+  "appIcon": "應用程式圖示",
+  "appName": "應用程式名稱",
+  "delete": "刪除",
+  "reset": "重設",
+  "save": "保存",
+  "saveSuccess": "保存成功",
+  "singleSubscriptionMode": "單一訂閱模式",
+  "singleSubscriptionModeDescription": "啟用單一訂閱模式。一旦啟用，將無法停用。所有使用者將保留僅限第一個有效套餐，其他套餐將轉換為餘額。",
+  "subscriptionPath": "訂閱路徑",
+  "subscriptionPathDescription": "用於訂閱。",
+  "subscriptionPathPlaceholder": "請輸入",
+  "subscriptionProtocol": "訂閱協議",
+  "subscriptionURL": "訂閱網址",
+  "subscriptionURLDescription": "用於訂閱。留空以使用網站網址。如果需要多個訂閱網址，請每行輸入一個。",
+  "subscriptionURLPlaceholder": "請輸入訂閱網址，不要以 '/' 結尾。多個域名請每行輸入一個。",
+  "wildcardResolution": "通配符解析",
+  "wildcardResolutionDescription": "用於訂閱。"
+}

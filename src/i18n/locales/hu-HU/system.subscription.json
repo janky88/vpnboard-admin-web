@@ -1,0 +1,23 @@
+{
+  "add": "Hozzáadás",
+  "app": "APP",
+  "appDescription": "Állítsa be az APP letöltési címét és az import szabályait. Ne felejtse el menteni a módosításokat.",
+  "appDownloadURL": "App Letöltési URL",
+  "appIcon": "App Ikon",
+  "appName": "App Neve",
+  "delete": "Törlés",
+  "reset": "Visszaállítás",
+  "save": "Mentés",
+  "saveSuccess": "Mentés sikeres",
+  "singleSubscriptionMode": "Egyszeres előfizetési mód",
+  "singleSubscriptionModeDescription": "Engedélyezze az egyszeres előfizetési módot. Miután engedélyezve lett, nem lehet letiltani. Az összes felhasználó csak az első érvényes csomagot fogja megtartani, a többi csomagot egyenleggé alakítják át.",
+  "subscriptionPath": "Előfizetési Útvonal",
+  "subscriptionPathDescription": "Felhasználva az előfizetéshez.",
+  "subscriptionPathPlaceholder": "Kérem, adja meg",
+  "subscriptionProtocol": "Előfizetési Protokoll",
+  "subscriptionURL": "Előfizetési URL",
+  "subscriptionURLDescription": "Felhasználva az előfizetéshez. Hagyja üresen az oldal URL-jének használatához. Ha több előfizetési URL-re van szükség, kérjük, adja meg őket soronként.",
+  "subscriptionURLPlaceholder": "Kérem, adja meg az előfizetési URL-t, ne végződjön '/'. Egy soronként egy domain.",
+  "wildcardResolution": "Vadkártya Felbontás",
+  "wildcardResolutionDescription": "Felhasználva az előfizetéshez."
+}

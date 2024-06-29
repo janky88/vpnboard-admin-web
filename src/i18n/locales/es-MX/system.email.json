@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Plantilla de Correo Electrónico",
+  "emailTemplateDescription": "Puedes consultar la documentación sobre cómo personalizar las plantillas de correo electrónico",
+  "inputPlaceholder": "Por favor ingresa",
+  "saveSuccess": "Guardado exitoso",
+  "selectPlaceholder": "Por favor selecciona",
+  "sendTestEmail": "Enviar Correo de Prueba",
+  "sendTestEmailDescription": "El correo se enviará al correo electrónico del usuario actualmente conectado",
+  "senderAddress": "Dirección del Remitente",
+  "senderAddressDescription": "Dirección del remitente proporcionada por el proveedor de servicios de correo electrónico",
+  "smtpAccount": "Cuenta SMTP",
+  "smtpAccountDescription": "Cuenta proporcionada por el proveedor de servicios de correo electrónico",
+  "smtpEncryptionMethod": "Método de Encriptación SMTP",
+  "smtpEncryptionMethodDescription": "El método de encriptación para el puerto 465 generalmente es SSL, y para el puerto 587 generalmente es TLS",
+  "smtpPassword": "Contraseña SMTP",
+  "smtpPasswordDescription": "Contraseña proporcionada por el proveedor de servicios de correo electrónico",
+  "smtpServerAddress": "Dirección del Servidor SMTP",
+  "smtpServerAddressDescription": "Dirección del servicio proporcionada por el proveedor de servicios de correo electrónico",
+  "smtpServerPort": "Puerto del Servidor SMTP",
+  "smtpServerPortDescription": "Los puertos comunes son 25, 465, 587"
+}

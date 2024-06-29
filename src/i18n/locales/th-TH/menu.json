@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "การจัดการประกาศ",
+  "couponManagement": "การจัดการคูปอง",
+  "dashboard": "แดชบอร์ด",
+  "documentManagement": "การจัดการเอกสาร",
+  "errorNoManager": "ข้อผิดพลาดในการร้องขอ: ไม่มีผู้จัดการ",
+  "finance": "การเงิน",
+  "logout": "ออกจากระบบ",
+  "nodeManagement": "การจัดการโหนด",
+  "orderManagement": "การจัดการคำสั่งซื้อ",
+  "paymentConfig": "การกำหนดค่าการชำระเงิน",
+  "productManagement": "การจัดการสินค้า",
+  "server": "เซิร์ฟเวอร์",
+  "settings": "การตั้งค่า",
+  "systemConfig": "การกำหนดค่าระบบ",
+  "ticketManagement": "การจัดการตั๋ว",
+  "toggleNavigationMenu": "สลับเมนูการนำทาง",
+  "toggleUserMenu": "สลับเมนูผู้ใช้",
+  "user": "ผู้ใช้",
+  "userManagement": "การจัดการผู้ใช้"
+}

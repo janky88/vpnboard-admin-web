@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "Email",
+    "invite": "Invitație",
+    "node": "Nod",
+    "register": "Înregistrare",
+    "site": "Site",
+    "subscription": "Abonament",
+    "telegram": "Telegram",
+    "tos": "Termeni și condiții",
+    "verify": "Verificare"
+  }
+}

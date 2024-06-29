@@ -1,0 +1,23 @@
+{
+  "add": "Přidat",
+  "app": "APLIKACE",
+  "appDescription": "Nastavte adresu stahování a pravidla importu aplikace. Po provedení změn nezapomeňte uložit.",
+  "appDownloadURL": "Adresa stahování aplikace",
+  "appIcon": "Ikona aplikace",
+  "appName": "Název aplikace",
+  "delete": "Smazat",
+  "reset": "Obnovit",
+  "save": "Uložit",
+  "saveSuccess": "Uložení úspěšné",
+  "singleSubscriptionMode": "Režim jednoho odběru",
+  "singleSubscriptionModeDescription": "Povolit režim jednoho odběru. Po povolení nelze vypnout. Všichni uživatelé budou mít pouze první platný balíček, ostatní balíčky budou převedeny na zůstatek.",
+  "subscriptionPath": "Cesta odběru",
+  "subscriptionPathDescription": "Používá se pro odběr.",
+  "subscriptionPathPlaceholder": "Prosím zadejte",
+  "subscriptionProtocol": "Protokol odběru",
+  "subscriptionURL": "URL odběru",
+  "subscriptionURLDescription": "Používá se pro odběr. Pokud chcete použít více URL odběru, zadejte každou na samostatný řádek.",
+  "subscriptionURLPlaceholder": "Prosím zadejte URL odběru, nekončete znakem '/'. Každá doména na samostatný řádek.",
+  "wildcardResolution": "Šablona řešení",
+  "wildcardResolutionDescription": "Používá se pro odběr."
+}

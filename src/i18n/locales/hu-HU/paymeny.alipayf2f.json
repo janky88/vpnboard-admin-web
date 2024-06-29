@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay alkalmazásazonosító",
+  "alipayPrivateKey": "Alipay privát kulcs",
+  "alipayPublicKey": "Alipay nyilvános kulcs",
+  "enable": "Engedélyezés",
+  "enableDescription": "Engedélyezze ezt a fizetési módot",
+  "feePercent": "Százalékos díj (opcionális)",
+  "feePercentDescription": "Adjon hozzá egy díjat az rendelés összege tetejére",
+  "fixedFee": "Fix díj (opcionális)",
+  "fixedFeeDescription": "Adjon hozzá egy fix díjat az rendelés összege tetejére",
+  "goodsName": "Egyedi terméknév",
+  "goodsNamePlaceholder": "Ez fog megjelenni az Alipay számlán",
+  "iconUrl": "Ikon URL (opcionális)",
+  "iconUrlDescription": "Felhasználva a frontend megjelenítéshez",
+  "inputPlaceholder": "Kérjük, írja be",
+  "notifyUrl": "Egyedi értesítési tartomány (opcionális)",
+  "notifyUrlDescription": "Az átjáró értesítései erre a tartományra lesznek elküldve",
+  "saveSuccess": "Sikeres mentés",
+  "showName": "Megjelenített név",
+  "showNameDescription": "Felhasználva a frontend megjelenítéshez"
+}

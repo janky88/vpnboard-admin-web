@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Nur Provision bei Erstkauf",
+  "commissionFirstTimeOnlyDescription": "Wenn aktiviert, wird die Provision nur bei der ersten Zahlung der eingeladenen Person generiert. Sie können einzelne Benutzer in der Benutzerverwaltung konfigurieren.",
+  "enableForcedInvite": "Erzwungene Einladung aktivieren",
+  "enableForcedInviteDescription": "Wenn aktiviert, können sich nur eingeladene Benutzer registrieren.",
+  "inputPlaceholder": "Bitte eingeben",
+  "inviteCommissionPercentage": "Einladungsprovisionsprozentsatz",
+  "inviteCommissionPercentageDescription": "Standardmäßiges globales Provisionsverteilungsverhältnis, Sie können individuelle Verhältnisse in der Benutzerverwaltung konfigurieren.",
+  "saveSuccess": "Speichern erfolgreich"
+}

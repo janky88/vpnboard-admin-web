@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Správa oznámení",
+  "couponManagement": "Správa kupónů",
+  "dashboard": "Nástěnka",
+  "documentManagement": "Správa dokumentů",
+  "errorNoManager": "Chyba požadavku: žádný manažer",
+  "finance": "Finance",
+  "logout": "Odhlásit se",
+  "nodeManagement": "Správa uzlů",
+  "orderManagement": "Správa objednávek",
+  "paymentConfig": "Konfigurace platby",
+  "productManagement": "Správa produktů",
+  "server": "Server",
+  "settings": "Nastavení",
+  "systemConfig": "Konfigurace systému",
+  "ticketManagement": "Správa lístků",
+  "toggleNavigationMenu": "Přepnout navigační menu",
+  "toggleUserMenu": "Přepnout uživatelské menu",
+  "user": "Uživatel",
+  "userManagement": "Správa uživatelů"
+}

@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Managementul Anunțurilor",
+  "couponManagement": "Managementul Cupoanelor",
+  "dashboard": "Tablou de bord",
+  "documentManagement": "Managementul Documentelor",
+  "errorNoManager": "Eroare la cerere: Fără manager",
+  "finance": "Finanțe",
+  "logout": "Deconectare",
+  "nodeManagement": "Managementul Nodurilor",
+  "orderManagement": "Managementul Comenzilor",
+  "paymentConfig": "Configurare Plăți",
+  "productManagement": "Managementul Produselor",
+  "server": "Server",
+  "settings": "Setări",
+  "systemConfig": "Configurare Sistem",
+  "ticketManagement": "Managementul Biletelor",
+  "toggleNavigationMenu": "Comutare meniu de navigare",
+  "toggleUserMenu": "Comutare meniu utilizator",
+  "user": "Utilizator",
+  "userManagement": "Managementul Utilizatorilor"
+}

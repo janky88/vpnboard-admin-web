@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Kérlek írd be",
+  "loginVerificationCode": "Bejelentkezési ellenőrző kód",
+  "loginVerificationCodeDescription": "Emberi ellenőrzés a bejelentkezéshez",
+  "registrationVerificationCode": "Regisztrációs ellenőrző kód",
+  "registrationVerificationCodeDescription": "Emberi ellenőrzés a regisztrációhoz",
+  "resetPasswordVerificationCode": "Jelszó visszaállítási ellenőrző kód",
+  "resetPasswordVerificationCodeDescription": "Emberi ellenőrzés a jelszó visszaállításához",
+  "saveSuccess": "Sikeres mentés",
+  "turnstileSecret": "Forgókapu titok",
+  "turnstileSecretDescription": "A Cloudflare által biztosított Forgókapu titok",
+  "turnstileSiteKey": "Forgókapu webhely kulcs",
+  "turnstileSiteKeyDescription": "A Cloudflare által biztosított Forgókapu webhely kulcs"
+}

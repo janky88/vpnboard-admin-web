@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "โปรดใส่",
+  "loginVerificationCode": "รหัสยืนยันการเข้าสู่ระบบ",
+  "loginVerificationCodeDescription": "การยืนยันตัวตนของมนุษย์สำหรับการเข้าสู่ระบบ",
+  "registrationVerificationCode": "รหัสยืนยันการลงทะเบียน",
+  "registrationVerificationCodeDescription": "การยืนยันตัวตนของมนุษย์สำหรับการลงทะเบียน",
+  "resetPasswordVerificationCode": "รหัสยืนยันการรีเซ็ตรหัสผ่าน",
+  "resetPasswordVerificationCodeDescription": "การยืนยันตัวตนของมนุษย์สำหรับการรีเซ็ตรหัสผ่าน",
+  "saveSuccess": "บันทึกสำเร็จ",
+  "turnstileSecret": "รหัสลับ Turnstile",
+  "turnstileSecretDescription": "รหัสลับ Turnstile ที่ Cloudflare จัดหา",
+  "turnstileSiteKey": "คีย์เว็บไซต์ Turnstile",
+  "turnstileSiteKeyDescription": "คีย์เว็บไซต์ Turnstile ที่ Cloudflare จัดหา"
+}

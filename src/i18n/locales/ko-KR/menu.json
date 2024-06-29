@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "공지사항 관리",
+  "couponManagement": "쿠폰 관리",
+  "dashboard": "대시보드",
+  "documentManagement": "문서 관리",
+  "errorNoManager": "요청 오류: 관리자 없음",
+  "finance": "금융",
+  "logout": "로그아웃",
+  "nodeManagement": "노드 관리",
+  "orderManagement": "주문 관리",
+  "paymentConfig": "결제 구성",
+  "productManagement": "제품 관리",
+  "server": "서버",
+  "settings": "설정",
+  "systemConfig": "시스템 구성",
+  "ticketManagement": "티켓 관리",
+  "toggleNavigationMenu": "네비게이션 메뉴 전환",
+  "toggleUserMenu": "사용자 메뉴 전환",
+  "user": "사용자",
+  "userManagement": "사용자 관리"
+}

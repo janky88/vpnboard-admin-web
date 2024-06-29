@@ -1,0 +1,28 @@
+{
+  "actions": "Hành động",
+  "announcementList": "Danh sách thông báo",
+  "cancel": "Hủy",
+  "confirm": "Xác nhận",
+  "confirmDelete": "Bạn có chắc chắn muốn xóa không?",
+  "content": "Nội dung",
+  "create": "Tạo",
+  "createAnnouncement": "Tạo thông báo",
+  "createSuccess": "Tạo thành công",
+  "delete": "Xóa",
+  "deleteDescription": "Sau khi xóa, dữ liệu sẽ không thể khôi phục. Vui lòng tiếp tục cẩn thận.",
+  "deleteSuccess": "Xóa thành công",
+  "edit": "Chỉnh sửa",
+  "editAnnouncement": "Chỉnh sửa thông báo",
+  "enable": "Kích hoạt",
+  "form": {
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "content": "Nội dung",
+    "contentPlaceholder": "Vui lòng nhập nội dung thông báo (hỗ trợ Markdown)",
+    "title": "Tiêu đề",
+    "titlePlaceholder": "Vui lòng nhập"
+  },
+  "title": "Tiêu đề",
+  "updateSuccess": "Cập nhật thành công",
+  "updatedAt": "Đã cập nhật lúc"
+}

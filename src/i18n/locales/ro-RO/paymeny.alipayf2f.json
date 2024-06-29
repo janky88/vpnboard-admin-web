@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "ID aplicație Alipay",
+  "alipayPrivateKey": "Cheie privată Alipay",
+  "alipayPublicKey": "Cheie publică Alipay",
+  "enable": "Activare",
+  "enableDescription": "Activați această metodă de plată",
+  "feePercent": "Taxă procentuală (opțional)",
+  "feePercentDescription": "Adăugați o taxă peste valoarea comenzii",
+  "fixedFee": "Taxă fixă (opțional)",
+  "fixedFeeDescription": "Adăugați o taxă fixă peste valoarea comenzii",
+  "goodsName": "Nume produs personalizat",
+  "goodsNamePlaceholder": "Acesta va apărea în factura Alipay",
+  "iconUrl": "URL icon (opțional)",
+  "iconUrlDescription": "Folosit pentru afișare pe frontend",
+  "inputPlaceholder": "Vă rugăm să introduceți",
+  "notifyUrl": "Domeniu notificare personalizat (opțional)",
+  "notifyUrlDescription": "Notificările gateway-ului vor fi trimise la acest domeniu",
+  "saveSuccess": "Salvare reușită",
+  "showName": "Nume afișat",
+  "showNameDescription": "Folosit pentru afișare pe frontend"
+}

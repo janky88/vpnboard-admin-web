@@ -1,0 +1,28 @@
+{
+  "actions": "Actions",
+  "announcementList": "Liste des annonces",
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "confirmDelete": "Êtes-vous sûr de vouloir supprimer ?",
+  "content": "Contenu",
+  "create": "Créer",
+  "createAnnouncement": "Créer une annonce",
+  "createSuccess": "Création réussie",
+  "delete": "Supprimer",
+  "deleteDescription": "Une fois supprimé, les données ne peuvent pas être récupérées. Veuillez procéder avec prudence.",
+  "deleteSuccess": "Suppression réussie",
+  "edit": "Éditer",
+  "editAnnouncement": "Éditer l'annonce",
+  "enable": "Activer",
+  "form": {
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "content": "Contenu",
+    "contentPlaceholder": "Veuillez saisir le contenu de l'annonce (prend en charge Markdown)",
+    "title": "Titre",
+    "titlePlaceholder": "Veuillez saisir"
+  },
+  "title": "Titre",
+  "updateSuccess": "Mise à jour réussie",
+  "updatedAt": "Mis à jour le"
+}

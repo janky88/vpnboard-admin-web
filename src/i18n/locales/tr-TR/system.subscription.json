@@ -1,0 +1,23 @@
+{
+  "add": "Ekle",
+  "app": "UYG",
+  "appDescription": "UYG'nin indirme adresini ve içe aktarma kurallarını yapılandırın. Değişiklik yaptıktan sonra kaydetmeyi unutmayın.",
+  "appDownloadURL": "Uygulama İndirme URL'si",
+  "appIcon": "Uygulama Simgesi",
+  "appName": "Uygulama Adı",
+  "delete": "Sil",
+  "reset": "Sıfırla",
+  "save": "Kaydet",
+  "saveSuccess": "Başarıyla kaydedildi",
+  "singleSubscriptionMode": "Tek Abonelik Modu",
+  "singleSubscriptionModeDescription": "Tek abonelik modunu etkinleştirin. Etkinleştirildikten sonra devre dışı bırakılamaz. Tüm kullanıcılar yalnızca ilk geçerli paketi korur ve diğer paketler dengeye dönüştürülür.",
+  "subscriptionPath": "Abonelik Yolu",
+  "subscriptionPathDescription": "Abonelik için kullanılır.",
+  "subscriptionPathPlaceholder": "Lütfen girin",
+  "subscriptionProtocol": "Abonelik Protokolü",
+  "subscriptionURL": "Abonelik URL'si",
+  "subscriptionURLDescription": "Abonelik için kullanılır. Site URL'sini kullanmak için boş bırakın. Birden fazla abonelik URL'si gerekiyorsa, lütfen her birini bir satırda girin.",
+  "subscriptionURLPlaceholder": "Lütfen abonelik URL'sini girin, '/' ile bitirmeyin. Birden fazla alan için her birini bir satırda girin.",
+  "wildcardResolution": "Joker Çözünürlük",
+  "wildcardResolutionDescription": "Abonelik için kullanılır."
+}

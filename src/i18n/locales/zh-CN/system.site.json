@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "用于显示需要徽标的位置。",
+  "logoPlaceholder": "请输入LOGO URL，不要以'/'结尾",
+  "saveSuccess": "保存成功",
+  "siteDesc": "站点描述",
+  "siteDescDescription": "用于显示需要站点描述的位置。",
+  "siteDescPlaceholder": "请输入站点描述",
+  "siteName": "站点名称",
+  "siteNameDescription": "用于显示需要站点名称的位置。",
+  "siteNamePlaceholder": "请输入站点名称",
+  "siteURL": "站点URL",
+  "siteURLDescription": "当前网站URL，将在诸如电子邮件之类的地方使用。",
+  "siteURLPlaceholder": "请输入站点URL，不要以'/'结尾"
+}

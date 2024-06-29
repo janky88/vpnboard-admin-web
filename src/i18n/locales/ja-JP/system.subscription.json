@@ -1,0 +1,23 @@
+{
+  "add": "追加",
+  "app": "アプリ",
+  "appDescription": "アプリのダウンロードアドレスとインポートルールを設定します。変更後は保存を忘れずに行ってください。",
+  "appDownloadURL": "アプリのダウンロードURL",
+  "appIcon": "アプリアイコン",
+  "appName": "アプリ名",
+  "delete": "削除",
+  "reset": "リセット",
+  "save": "保存",
+  "saveSuccess": "保存に成功しました",
+  "singleSubscriptionMode": "単一購読モード",
+  "singleSubscriptionModeDescription": "単一購読モードを有効にします。有効にした場合、無効なパッケージは削除され、他のパッケージは残高に変換されます。",
+  "subscriptionPath": "購読パス",
+  "subscriptionPathDescription": "購読に使用します。",
+  "subscriptionPathPlaceholder": "入力してください",
+  "subscriptionProtocol": "購読プロトコル",
+  "subscriptionURL": "購読URL",
+  "subscriptionURLDescription": "購読に使用します。サイトURLを使用する場合は空白のままにしてください。複数の購読URLが必要な場合は、1行に1つずつ入力してください。",
+  "subscriptionURLPlaceholder": "購読URLを入力してください。末尾に'/'を付けないでください。複数のドメインに対しては1行に1つずつ入力してください。",
+  "wildcardResolution": "ワイルドカード解決",
+  "wildcardResolutionDescription": "購読に使用します。"
+}

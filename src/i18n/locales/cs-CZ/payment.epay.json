@@ -1,0 +1,19 @@
+{
+  "enable": "Povolit",
+  "enableDescription": "Povolit tento platební způsob",
+  "feePercent": "Procentuální poplatek (volitelný)",
+  "feePercentDescription": "Přidejte poplatek na vrchol částky objednávky",
+  "fixedFee": "Fixní poplatek (volitelný)",
+  "fixedFeeDescription": "Přidejte fixní poplatek na vrchol částky objednávky",
+  "iconUrl": "URL ikony (volitelné)",
+  "iconUrlDescription": "Používá se pro zobrazení na frontendu",
+  "inputPlaceholder": "Prosím zadejte",
+  "key": "KLÍČ",
+  "notifyUrl": "Vlastní oznámení domény (volitelné)",
+  "notifyUrlDescription": "Oznámení brány budou odeslána na tuto doménu",
+  "pid": "PID",
+  "saveSuccess": "Uložení úspěšné",
+  "showName": "Zobrazit název",
+  "showNameDescription": "Používá se pro zobrazení na frontendu",
+  "url": "URL"
+}

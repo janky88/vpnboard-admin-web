@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Yalnızca İlk Satın Alma İçin Komisyon",
+  "commissionFirstTimeOnlyDescription": "Etkinleştirildiğinde, komisyon yalnızca davet edilen kişinin ilk ödemesinde oluşturulur. Kullanıcı yönetiminde bireysel kullanıcıları yapılandırabilirsiniz.",
+  "enableForcedInvite": "Zorunlu Davetiye Etkinleştir",
+  "enableForcedInviteDescription": "Etkinleştirildiğinde, yalnızca davet edilen kullanıcılar kayıt olabilir.",
+  "inputPlaceholder": "Lütfen girin",
+  "inviteCommissionPercentage": "Davet Komisyon Yüzdesi",
+  "inviteCommissionPercentageDescription": "Varsayılan küresel komisyon dağıtım oranı, bireysel oranları kullanıcı yönetiminde yapılandırabilirsiniz.",
+  "saveSuccess": "Kaydetme başarılı"
+}

@@ -1,0 +1,11 @@
+{
+  "botToken": "Bot Token",
+  "botTokenDescription": "Lütfen Botfather tarafından sağlanan belirteci girin.",
+  "enableBotNotifications": "Bot Bildirimlerini Etkinleştir",
+  "enableBotNotificationsDescription": "Etkinleştirildiğinde, bot, Telegram'a bağlanmış yöneticilere ve kullanıcılara temel bildirimler gönderecektir.",
+  "groupURL": "Grup URL'si",
+  "groupURLDescription": "Doldurduktan sonra, kullanıcı tarafında görüntülenecek veya gerektiğinde kullanılacaktır.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Kaydetme başarılı"
+}

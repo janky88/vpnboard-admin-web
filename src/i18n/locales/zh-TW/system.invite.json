@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "僅首次購買提成",
+  "commissionFirstTimeOnlyDescription": "啟用後，提成僅在被邀請人的首次付款時生成。您可以在使用者管理中配置個別使用者。",
+  "enableForcedInvite": "啟用強制邀請",
+  "enableForcedInviteDescription": "啟用後，僅被邀請的使用者可以註冊。",
+  "inputPlaceholder": "請輸入",
+  "inviteCommissionPercentage": "邀請提成百分比",
+  "inviteCommissionPercentageDescription": "默認全球提成分配比例，您可以在使用者管理中配置個別比例。",
+  "saveSuccess": "保存成功"
+}

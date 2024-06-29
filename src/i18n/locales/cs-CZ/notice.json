@@ -1,0 +1,28 @@
+{
+  "actions": "Akce",
+  "announcementList": "Seznam oznámení",
+  "cancel": "Zrušit",
+  "confirm": "Potvrdit",
+  "confirmDelete": "Jste si jistý, že chcete smazat?",
+  "content": "Obsah",
+  "create": "Vytvořit",
+  "createAnnouncement": "Vytvořit oznámení",
+  "createSuccess": "Vytvoření úspěšné",
+  "delete": "Smazat",
+  "deleteDescription": "Po smazání nelze data obnovit. Pokračujte prosím opatrně.",
+  "deleteSuccess": "Smazání úspěšné",
+  "edit": "Upravit",
+  "editAnnouncement": "Upravit oznámení",
+  "enable": "Povolit",
+  "form": {
+    "cancel": "Zrušit",
+    "confirm": "Potvrdit",
+    "content": "Obsah",
+    "contentPlaceholder": "Prosím zadejte obsah oznámení (podporuje Markdown)",
+    "title": "Titul",
+    "titlePlaceholder": "Prosím zadejte"
+  },
+  "title": "Titul",
+  "updateSuccess": "Aktualizace úspěšná",
+  "updatedAt": "Aktualizováno v"
+}

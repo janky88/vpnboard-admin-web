@@ -1,0 +1,19 @@
+{
+  "enable": "Activare",
+  "enableDescription": "Activați această metodă de plată",
+  "feePercent": "Taxă procentuală (opțional)",
+  "feePercentDescription": "Adăugați o taxă peste valoarea comenzii",
+  "fixedFee": "Taxă fixă (opțional)",
+  "fixedFeeDescription": "Adăugați o taxă fixă peste valoarea comenzii",
+  "iconUrl": "URL iconiță (opțional)",
+  "iconUrlDescription": "Folosit pentru afișare în interfața grafică",
+  "inputPlaceholder": "Vă rugăm să introduceți",
+  "key": "CHEIE",
+  "notifyUrl": "Domeniu de notificare personalizat (opțional)",
+  "notifyUrlDescription": "Notificările gateway-ului vor fi trimise la acest domeniu",
+  "pid": "PID",
+  "saveSuccess": "Salvare reușită",
+  "showName": "Nume afișat",
+  "showNameDescription": "Folosit pentru afișare în interfața grafică",
+  "url": "URL"
+}

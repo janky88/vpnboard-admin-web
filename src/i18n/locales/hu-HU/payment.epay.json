@@ -1,0 +1,19 @@
+{
+  "enable": "Engedélyezés",
+  "enableDescription": "Engedélyezze ezt a fizetési módot",
+  "feePercent": "Százalékos díj (opcionális)",
+  "feePercentDescription": "Adjon hozzá egy díjat az rendelés összege tetejére",
+  "fixedFee": "Fix díj (opcionális)",
+  "fixedFeeDescription": "Adjon hozzá egy fix díjat az rendelés összege tetejére",
+  "iconUrl": "Ikon URL (opcionális)",
+  "iconUrlDescription": "Felhasználva a frontend megjelenítéshez",
+  "inputPlaceholder": "Kérjük, írja be",
+  "key": "KULCS",
+  "notifyUrl": "Egyedi Értesítési Domain (opcionális)",
+  "notifyUrlDescription": "A fizetési értesítések erre a domainra lesznek elküldve",
+  "pid": "PID",
+  "saveSuccess": "Sikeres mentés",
+  "showName": "Megjelenített név",
+  "showNameDescription": "Felhasználva a frontend megjelenítéshez",
+  "url": "URL"
+}

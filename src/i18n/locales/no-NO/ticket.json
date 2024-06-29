@@ -1,0 +1,18 @@
+{
+  "actions": "Handlinger",
+  "cancel": "Avbryt",
+  "close": "Lukk",
+  "closeSuccess": "Lukking vellykket",
+  "closeWarning": "Når lukket, kan ikke billetten behandles. Vennligst fortsett forsiktig.",
+  "closed": "Lukket",
+  "confirm": "Bekreft",
+  "confirmClose": "Er du sikker på at du vil lukke?",
+  "createdAt": "Opprettet",
+  "inputPlaceholder": "Vennligst skriv spørsmålet ditt her, så svarer vi så snart som mulig.",
+  "open": "Åpen",
+  "reply": "Svar",
+  "send": "Send",
+  "ticketList": "Billetliste",
+  "title": "Tittel",
+  "updatedAt": "Oppdatert"
+}

@@ -1,0 +1,15 @@
+{
+  "logo": "LOGÓ",
+  "logoDescription": "Használva a logó helyének megjelenítésére.",
+  "logoPlaceholder": "Kérjük, adja meg a LOGÓ URL-jét, ne végződjön '/'-jel.",
+  "saveSuccess": "Sikeres mentés",
+  "siteDesc": "Webhely leírása",
+  "siteDescDescription": "Használva a webhely leírásának megjelenítésére.",
+  "siteDescPlaceholder": "Kérjük, adja meg a webhely leírását",
+  "siteName": "Webhely neve",
+  "siteNameDescription": "Használva a webhely nevének megjelenítésére.",
+  "siteNamePlaceholder": "Kérjük, adja meg a webhely nevét",
+  "siteURL": "Webhely URL",
+  "siteURLDescription": "Jelenlegi webhely URL, olyan helyeken lesz használva, mint az e-mailek.",
+  "siteURLPlaceholder": "Kérjük, adja meg a webhely URL-jét, ne végződjön '/'-jel"
+}

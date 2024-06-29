@@ -1,0 +1,15 @@
+{
+  "logo": "로고",
+  "logoDescription": "로고가 필요한 위치를 표시하는 데 사용됩니다.",
+  "logoPlaceholder": "로고 URL을 입력해주세요. 끝에 '/'를 붙이지 마세요.",
+  "saveSuccess": "저장 성공",
+  "siteDesc": "사이트 설명",
+  "siteDescDescription": "사이트 설명이 필요한 위치를 표시하는 데 사용됩니다.",
+  "siteDescPlaceholder": "사이트 설명을 입력해주세요",
+  "siteName": "사이트 이름",
+  "siteNameDescription": "사이트 이름이 필요한 위치를 표시하는 데 사용됩니다.",
+  "siteNamePlaceholder": "사이트 이름을 입력해주세요",
+  "siteURL": "사이트 URL",
+  "siteURLDescription": "현재 웹사이트 URL로, 이메일 등 여러 곳에서 사용됩니다.",
+  "siteURLPlaceholder": "사이트 URL을 입력해주세요. 끝에 '/'를 붙이지 마세요"
+}

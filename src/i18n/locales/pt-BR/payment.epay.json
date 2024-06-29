@@ -1,0 +1,19 @@
+{
+  "enable": "Ativar",
+  "enableDescription": "Ativar este método de pagamento",
+  "feePercent": "Taxa em Percentual (opcional)",
+  "feePercentDescription": "Adicionar uma taxa sobre o valor do pedido",
+  "fixedFee": "Taxa Fixa (opcional)",
+  "fixedFeeDescription": "Adicionar uma taxa fixa sobre o valor do pedido",
+  "iconUrl": "URL do Ícone (opcional)",
+  "iconUrlDescription": "Usado para exibição no frontend",
+  "inputPlaceholder": "Por favor, insira",
+  "key": "CHAVE",
+  "notifyUrl": "Domínio de Notificação Personalizado (opcional)",
+  "notifyUrlDescription": "Notificações do gateway serão enviadas para este domínio",
+  "pid": "PID",
+  "saveSuccess": "Salvo com Sucesso",
+  "showName": "Nome de Exibição",
+  "showNameDescription": "Usado para exibição no frontend",
+  "url": "URL"
+}

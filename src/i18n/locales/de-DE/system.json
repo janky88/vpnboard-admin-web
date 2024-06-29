@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "E-Mail",
+    "invite": "Einladen",
+    "node": "Knoten",
+    "register": "Registrieren",
+    "site": "Website",
+    "subscription": "Abonnement",
+    "telegram": "Telegram",
+    "tos": "Nutzungsbedingungen",
+    "verify": "Überprüfen"
+  }
+}

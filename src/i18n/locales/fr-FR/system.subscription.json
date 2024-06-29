@@ -1,0 +1,23 @@
+{
+  "add": "Ajouter",
+  "app": "APPLICATION",
+  "appDescription": "Configurer l'adresse de téléchargement et les règles d'importation de l'application. N'oubliez pas de sauvegarder après modification.",
+  "appDownloadURL": "URL de téléchargement de l'application",
+  "appIcon": "Icône de l'application",
+  "appName": "Nom de l'application",
+  "delete": "Supprimer",
+  "reset": "Réinitialiser",
+  "save": "Enregistrer",
+  "saveSuccess": "Enregistrement réussi",
+  "singleSubscriptionMode": "Mode d'abonnement unique",
+  "singleSubscriptionModeDescription": "Activer le mode d'abonnement unique. Une fois activé, il ne peut pas être désactivé. Tous les utilisateurs ne conserveront que le premier package valide, et les autres packages seront convertis en solde.",
+  "subscriptionPath": "Chemin d'abonnement",
+  "subscriptionPathDescription": "Utilisé pour l'abonnement.",
+  "subscriptionPathPlaceholder": "Veuillez saisir",
+  "subscriptionProtocol": "Protocole d'abonnement",
+  "subscriptionURL": "URL d'abonnement",
+  "subscriptionURLDescription": "Utilisé pour l'abonnement. Laissez vide pour utiliser l'URL du site. Si plusieurs URL d'abonnement sont nécessaires, veuillez en saisir une par ligne.",
+  "subscriptionURLPlaceholder": "Veuillez saisir l'URL d'abonnement, ne pas terminer par '/'. Une par ligne pour plusieurs domaines.",
+  "wildcardResolution": "Résolution de joker",
+  "wildcardResolutionDescription": "Utilisé pour l'abonnement."
+}

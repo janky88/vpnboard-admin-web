@@ -1,0 +1,28 @@
+{
+  "actions": "操作",
+  "cancel": "取消",
+  "category": "類別",
+  "confirm": "確認",
+  "confirmDelete": "您確定要刪除嗎？",
+  "create": "創建",
+  "createKnowledge": "創建知識",
+  "createSuccess": "創建成功",
+  "delete": "刪除",
+  "deleteDescription": "刪除後，數據將無法恢復。請謹慎操作。",
+  "deleteSuccess": "刪除成功",
+  "edit": "編輯",
+  "editKnowledge": "編輯知識",
+  "form": {
+    "cancel": "取消",
+    "category": "類別",
+    "confirm": "確認",
+    "content": "內容",
+    "title": "標題",
+    "titlePlaceholder": "請輸入"
+  },
+  "knowledgeList": "知識列表",
+  "show": "顯示",
+  "title": "標題",
+  "updateSuccess": "更新成功",
+  "updatedAt": "更新於"
+}

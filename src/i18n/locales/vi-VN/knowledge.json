@@ -1,0 +1,28 @@
+{
+  "actions": "Hành động",
+  "cancel": "Hủy",
+  "category": "Danh mục",
+  "confirm": "Xác nhận",
+  "confirmDelete": "Bạn có chắc chắn muốn xóa không?",
+  "create": "Tạo mới",
+  "createKnowledge": "Tạo Kiến thức",
+  "createSuccess": "Tạo thành công",
+  "delete": "Xóa",
+  "deleteDescription": "Sau khi xóa, dữ liệu sẽ không thể khôi phục. Vui lòng tiếp tục cẩn thận.",
+  "deleteSuccess": "Xóa thành công",
+  "edit": "Chỉnh sửa",
+  "editKnowledge": "Chỉnh sửa Kiến thức",
+  "form": {
+    "cancel": "Hủy",
+    "category": "Danh mục",
+    "confirm": "Xác nhận",
+    "content": "Nội dung",
+    "title": "Tiêu đề",
+    "titlePlaceholder": "Vui lòng nhập"
+  },
+  "knowledgeList": "Danh sách Kiến thức",
+  "show": "Hiển thị",
+  "title": "Tiêu đề",
+  "updateSuccess": "Cập nhật thành công",
+  "updatedAt": "Đã cập nhật lúc"
+}

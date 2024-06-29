@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Kommunikasjonsnøkkel",
+  "communicationKeyDescription": "Nøkkelen for nodens kommunikasjon for å sikre at data ikke blir avlyttet av andre.",
+  "inputPlaceholder": "Vennligst skriv inn",
+  "nodePullInterval": "Node Hentingsintervall",
+  "nodePullIntervalDescription": "Frekvensen som noden henter data fra panelet. (i sekunder)",
+  "nodePushInterval": "Node Skyveintervall",
+  "nodePushIntervalDescription": "Frekvensen som noden skyver data til panelet.",
+  "saveSuccess": "Lagring vellykket"
+}

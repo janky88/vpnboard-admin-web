@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "E-postmal",
+  "emailTemplateDescription": "Du kan sjekke dokumentasjonen om hvordan du tilpasser e-postmaler",
+  "inputPlaceholder": "Vennligst skriv inn",
+  "saveSuccess": "Lagring vellykket",
+  "selectPlaceholder": "Vennligst velg",
+  "sendTestEmail": "Send test-e-post",
+  "sendTestEmailDescription": "E-posten vil bli sendt til e-posten til den innloggede brukeren",
+  "senderAddress": "Avsenderadresse",
+  "senderAddressDescription": "Avsenderadresse levert av e-posttjenesteleverandøren",
+  "smtpAccount": "SMTP-konto",
+  "smtpAccountDescription": "Konto levert av e-posttjenesteleverandøren",
+  "smtpEncryptionMethod": "SMTP-krypteringsmetode",
+  "smtpEncryptionMethodDescription": "Krypteringsmetoden for port 465 er vanligvis SSL, og for port 587 er vanligvis TLS",
+  "smtpPassword": "SMTP-passord",
+  "smtpPasswordDescription": "Passord levert av e-posttjenesteleverandøren",
+  "smtpServerAddress": "SMTP-serveradresse",
+  "smtpServerAddressDescription": "Tjenesteadresse levert av e-posttjenesteleverandøren",
+  "smtpServerPort": "SMTP-serverport",
+  "smtpServerPortDescription": "Vanlige porter er 25, 465, 587"
+}

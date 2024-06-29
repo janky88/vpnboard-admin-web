@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Kommunikationsschlüssel",
+  "communicationKeyDescription": "Der Schlüssel für die Knotenkommunikation, um sicherzustellen, dass Daten nicht von anderen abgefangen werden.",
+  "inputPlaceholder": "Bitte eingeben",
+  "nodePullInterval": "Knoten-Abrufintervall",
+  "nodePullIntervalDescription": "Die Häufigkeit, mit der der Knoten Daten vom Panel abruft. (in Sekunden)",
+  "nodePushInterval": "Knoten-Push-Intervall",
+  "nodePushIntervalDescription": "Die Häufigkeit, mit der der Knoten Daten an das Panel sendet.",
+  "saveSuccess": "Speichern erfolgreich"
+}

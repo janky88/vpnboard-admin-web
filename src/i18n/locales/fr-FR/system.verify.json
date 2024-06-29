@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Veuillez saisir",
+  "loginVerificationCode": "Code de vérification de connexion",
+  "loginVerificationCodeDescription": "Vérification humaine pour la connexion",
+  "registrationVerificationCode": "Code de vérification d'inscription",
+  "registrationVerificationCodeDescription": "Vérification humaine pour l'inscription",
+  "resetPasswordVerificationCode": "Code de vérification de réinitialisation du mot de passe",
+  "resetPasswordVerificationCodeDescription": "Vérification humaine pour la réinitialisation du mot de passe",
+  "saveSuccess": "Enregistrement réussi",
+  "turnstileSecret": "Secret du tourniquet",
+  "turnstileSecretDescription": "Secret du tourniquet fourni par Cloudflare",
+  "turnstileSiteKey": "Clé de site du tourniquet",
+  "turnstileSiteKeyDescription": "Clé de site du tourniquet fournie par Cloudflare"
+}

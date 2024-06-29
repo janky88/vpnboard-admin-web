@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "कृपया दर्ज करें",
+  "loginVerificationCode": "लॉगिन सत्यापन कोड",
+  "loginVerificationCodeDescription": "लॉगिन के लिए मानव सत्यापन",
+  "registrationVerificationCode": "रजिस्ट्रेशन सत्यापन कोड",
+  "registrationVerificationCodeDescription": "रजिस्ट्रेशन के लिए मानव सत्यापन",
+  "resetPasswordVerificationCode": "पासवर्ड रीसेट सत्यापन कोड",
+  "resetPasswordVerificationCodeDescription": "पासवर्ड रीसेट के लिए मानव सत्यापन",
+  "saveSuccess": "सहेजें सफल",
+  "turnstileSecret": "टर्नस्टाइल रहस्य",
+  "turnstileSecretDescription": "क्लाउडफ्लेयर द्वारा प्रदान किया गया टर्नस्टाइल रहस्य",
+  "turnstileSiteKey": "टर्नस्टाइल साइट कुंजी",
+  "turnstileSiteKeyDescription": "क्लाउडफ्लेयर द्वारा प्रदान किया गया टर्नस्टाइल साइट कुंजी"
+}

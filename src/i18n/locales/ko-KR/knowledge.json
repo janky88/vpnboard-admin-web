@@ -1,0 +1,28 @@
+{
+  "actions": "작업",
+  "cancel": "취소",
+  "category": "카테고리",
+  "confirm": "확인",
+  "confirmDelete": "정말로 삭제하시겠습니까?",
+  "create": "생성",
+  "createKnowledge": "지식 생성",
+  "createSuccess": "생성 성공",
+  "delete": "삭제",
+  "deleteDescription": "한 번 삭제하면 데이터를 복구할 수 없습니다. 주의하여 진행하십시오.",
+  "deleteSuccess": "삭제 성공",
+  "edit": "편집",
+  "editKnowledge": "지식 편집",
+  "form": {
+    "cancel": "취소",
+    "category": "카테고리",
+    "confirm": "확인",
+    "content": "내용",
+    "title": "제목",
+    "titlePlaceholder": "입력해주세요"
+  },
+  "knowledgeList": "지식 목록",
+  "show": "보기",
+  "title": "제목",
+  "updateSuccess": "업데이트 성공",
+  "updatedAt": "업데이트 시간"
+}

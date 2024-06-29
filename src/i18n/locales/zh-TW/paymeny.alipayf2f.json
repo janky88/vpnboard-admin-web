@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "支付寶應用程式ID",
+  "alipayPrivateKey": "支付寶私鑰",
+  "alipayPublicKey": "支付寶公鑰",
+  "enable": "啟用",
+  "enableDescription": "啟用此付款方式",
+  "feePercent": "百分比費用（選填）",
+  "feePercentDescription": "在訂單金額之上增加費用",
+  "fixedFee": "固定費用（選填）",
+  "fixedFeeDescription": "在訂單金額之上增加固定費用",
+  "goodsName": "自訂產品名稱",
+  "goodsNamePlaceholder": "將顯示在支付寶帳單上",
+  "iconUrl": "圖示URL（選填）",
+  "iconUrlDescription": "用於前端顯示",
+  "inputPlaceholder": "請輸入",
+  "notifyUrl": "自訂通知域（選填）",
+  "notifyUrlDescription": "閘道通知將發送到此域",
+  "saveSuccess": "保存成功",
+  "showName": "顯示名稱",
+  "showNameDescription": "用於前端顯示"
+}

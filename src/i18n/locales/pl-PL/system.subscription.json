@@ -1,0 +1,23 @@
+{
+  "add": "Dodaj",
+  "app": "APLIKACJA",
+  "appDescription": "Skonfiguruj adres pobierania i zasady importu aplikacji. Pamiętaj, aby zapisać po dokonaniu zmian.",
+  "appDownloadURL": "URL pobierania aplikacji",
+  "appIcon": "Ikona aplikacji",
+  "appName": "Nazwa aplikacji",
+  "delete": "Usuń",
+  "reset": "Resetuj",
+  "save": "Zapisz",
+  "saveSuccess": "Zapisano pomyślnie",
+  "singleSubscriptionMode": "Tryb pojedynczej subskrypcji",
+  "singleSubscriptionModeDescription": "Włącz tryb pojedynczej subskrypcji. Po włączeniu nie można go wyłączyć. Wszyscy użytkownicy zachowają tylko pierwszy ważny pakiet, a inne pakiety zostaną przekształcone w saldo.",
+  "subscriptionPath": "Ścieżka subskrypcji",
+  "subscriptionPathDescription": "Używane do subskrypcji.",
+  "subscriptionPathPlaceholder": "Proszę wprowadzić",
+  "subscriptionProtocol": "Protokół subskrypcji",
+  "subscriptionURL": "URL subskrypcji",
+  "subscriptionURLDescription": "Używane do subskrypcji. Pozostaw puste, aby użyć adresu URL witryny. Jeśli potrzebne są różne adresy URL subskrypcji, wprowadź je jeden pod drugim.",
+  "subscriptionURLPlaceholder": "Proszę wprowadzić URL subskrypcji, nie kończąc na '/'. Jeden pod drugim dla wielu domen.",
+  "wildcardResolution": "Rozwiązanie dla symboli wieloznacznych",
+  "wildcardResolutionDescription": "Używane do subskrypcji."
+}

@@ -1,0 +1,18 @@
+{
+  "actions": "アクション",
+  "cancel": "キャンセル",
+  "close": "閉じる",
+  "closeSuccess": "閉じるのに成功しました",
+  "closeWarning": "一度閉じると、チケットを操作できなくなります。注意して続行してください。",
+  "closed": "閉じられた",
+  "confirm": "確認",
+  "confirmClose": "本当に閉じますか？",
+  "createdAt": "作成日時",
+  "inputPlaceholder": "ここに質問を入力してください。できるだけ早く返信いたします。",
+  "open": "オープン",
+  "reply": "返信",
+  "send": "送信",
+  "ticketList": "チケットリスト",
+  "title": "タイトル",
+  "updatedAt": "更新日時"
+}

@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Logonun nerede gerektiğini göstermek için kullanılır.",
+  "logoPlaceholder": "LÜTFEN LOGO URL'SİNİ GİRİN, '/' İLE SONLANDIRMAYIN",
+  "saveSuccess": "Başarıyla kaydedildi",
+  "siteDesc": "Site Açıklaması",
+  "siteDescDescription": "Site açıklamasının nerede gerektiğini göstermek için kullanılır.",
+  "siteDescPlaceholder": "Lütfen site açıklamasını girin",
+  "siteName": "Site Adı",
+  "siteNameDescription": "Site adının nerede gerektiğini göstermek için kullanılır.",
+  "siteNamePlaceholder": "Lütfen site adını girin",
+  "siteURL": "Site URL'si",
+  "siteURLDescription": "Mevcut web sitesi URL'si, e-postalar gibi yerlerde kullanılacaktır.",
+  "siteURLPlaceholder": "Lütfen site URL'sini girin, '/' İLE SONLANDIRMAYIN"
+}

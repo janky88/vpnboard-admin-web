@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Syötä",
+  "loginVerificationCode": "Kirjautumisen varmennuskoodi",
+  "loginVerificationCodeDescription": "Ihmisen varmennus kirjautumista varten",
+  "registrationVerificationCode": "Rekisteröitymisen varmennuskoodi",
+  "registrationVerificationCodeDescription": "Ihmisen varmennus rekisteröitymistä varten",
+  "resetPasswordVerificationCode": "Salasanan palautuksen varmennuskoodi",
+  "resetPasswordVerificationCodeDescription": "Ihmisen varmennus salasanan palautusta varten",
+  "saveSuccess": "Tallennus onnistui",
+  "turnstileSecret": "Turnstile-salaisuus",
+  "turnstileSecretDescription": "Cloudflare toimittama Turnstile-salaisuus",
+  "turnstileSiteKey": "Turnstile-sivun avain",
+  "turnstileSiteKeyDescription": "Cloudflare toimittama Turnstile-sivun avain"
+}

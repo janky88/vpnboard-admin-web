@@ -1,0 +1,11 @@
+{
+  "botToken": "बॉट टोकन",
+  "botTokenDescription": "कृपया बॉटफादर द्वारा प्रदान किया गया टोकन दर्ज करें।",
+  "enableBotNotifications": "बॉट सूचनाएँ सक्षम करें",
+  "enableBotNotificationsDescription": "एक बार सक्षम किया जाए, तो बॉट प्रशासकों और उपयोगकर्ताओं को मूल सूचनाएँ भेजेगा जिन्होंने टेलीग्राम से जुड़ा होगा।",
+  "groupURL": "समूह URL",
+  "groupURLDescription": "भरने के बाद, यह उपयोगकर्ता द्वारा दिखाया जाएगा या जहां आवश्यक हो वहां प्रयोग किया जाएगा।",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "सफलतापूर्वक सहेजें"
+}

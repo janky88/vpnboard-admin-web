@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay APP-ID",
+  "alipayPrivateKey": "Alipay Privat Nøkkel",
+  "alipayPublicKey": "Alipay Offentlig Nøkkel",
+  "enable": "Aktiver",
+  "enableDescription": "Aktiver denne betalingsmetoden",
+  "feePercent": "Prosentvis avgift (valgfritt)",
+  "feePercentDescription": "Legg til en avgift på toppen av bestillingsbeløpet",
+  "fixedFee": "Fast avgift (valgfritt)",
+  "fixedFeeDescription": "Legg til en fast avgift på toppen av bestillingsbeløpet",
+  "goodsName": "Tilpasset produktnavn",
+  "goodsNamePlaceholder": "Dette vil vises på Alipay-regningen",
+  "iconUrl": "Ikon-URL (valgfritt)",
+  "iconUrlDescription": "Brukes for visning på frontend",
+  "inputPlaceholder": "Vennligst skriv inn",
+  "notifyUrl": "Tilpasset varslingsdomene (valgfritt)",
+  "notifyUrlDescription": "Gateway-varsler vil bli sendt til dette domenet",
+  "saveSuccess": "Lagring vellykket",
+  "showName": "Visningsnavn",
+  "showNameDescription": "Brukes for visning på frontend"
+}

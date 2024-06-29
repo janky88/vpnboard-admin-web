@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Xóa hàng loạt",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "confirmDelete": "Bạn có chắc chắn muốn xóa các mục này không?",
+    "deleteDescription": "Sau khi xóa, dữ liệu sẽ không thể khôi phục. Vui lòng tiếp tục cẩn thận.",
+    "goToFirstPage": "Đi đến trang đầu tiên",
+    "goToLastPage": "Đi đến trang cuối cùng",
+    "goToNextPage": "Đi đến trang tiếp theo",
+    "goToPreviousPage": "Đi đến trang trước",
+    "noResults": "Không có kết quả.",
+    "of": "của",
+    "page": "Trang",
+    "selectAll": "Chọn tất cả",
+    "selectRow": "Chọn hàng",
+    "selectedItems": "Các mục đã chọn",
+    "totalItems": "Tổng số mục"
+  },
+  "request.error": {
+    "40000": "Lỗi của Khách hàng",
+    "40001": "Xác thực của Khách hàng không thành công",
+    "41001": "Xác thực Tài khoản không thành công",
+    "41010": "Tài khoản này không tồn tại",
+    "41011": "Tài khoản đã bị cấm",
+    "41012": "Sai Mật khẩu",
+    "50000": "Lỗi của Máy chủ",
+    "default": "Lỗi không xác định",
+    "no.manager": "Quản lý tài khoản này đang đăng nhập một cách bất hợp pháp"
+  }
+}

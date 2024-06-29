@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Ключ комунікації",
+  "communicationKeyDescription": "Ключ для комунікації вузла для забезпечення того, що дані не будуть перехоплені іншими.",
+  "inputPlaceholder": "Будь ласка, введіть",
+  "nodePullInterval": "Інтервал витягування вузла",
+  "nodePullIntervalDescription": "Частота, з якою вузол отримує дані з панелі. (у секундах)",
+  "nodePushInterval": "Інтервал відтискання вузла",
+  "nodePushIntervalDescription": "Частота, з якою вузол відправляє дані на панель.",
+  "saveSuccess": "Збереження успішне"
+}

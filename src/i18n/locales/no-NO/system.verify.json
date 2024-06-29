@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Vennligst skriv inn",
+  "loginVerificationCode": "Innloggingsverifiseringskode",
+  "loginVerificationCodeDescription": "Menneskelig verifisering for innlogging",
+  "registrationVerificationCode": "Registreringsverifiseringskode",
+  "registrationVerificationCodeDescription": "Menneskelig verifisering for registrering",
+  "resetPasswordVerificationCode": "Tilbakestill passord-verifiseringskode",
+  "resetPasswordVerificationCodeDescription": "Menneskelig verifisering for tilbakestilling av passord",
+  "saveSuccess": "Lagring vellykket",
+  "turnstileSecret": "Turnstile Hemmelighet",
+  "turnstileSecretDescription": "Cloudflare levert Turnstile Hemmelighet",
+  "turnstileSiteKey": "Turnstile Side Nøkkel",
+  "turnstileSiteKeyDescription": "Cloudflare levert Turnstile Side Nøkkel"
+}

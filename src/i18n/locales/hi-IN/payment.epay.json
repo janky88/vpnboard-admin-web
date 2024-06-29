@@ -1,0 +1,19 @@
+{
+  "enable": "सक्षम करें",
+  "enableDescription": "इस भुगतान विधि को सक्षम करें",
+  "feePercent": "प्रतिशत शुल्क (वैकल्पिक)",
+  "feePercentDescription": "आदेश राशि पर एक शुल्क जोड़ें",
+  "fixedFee": "निर्धारित शुल्क (वैकल्पिक)",
+  "fixedFeeDescription": "आदेश राशि पर एक निर्धारित शुल्क जोड़ें",
+  "iconUrl": "आइकन URL (वैकल्पिक)",
+  "iconUrlDescription": "फ्रंटएंड प्रदर्शन के लिए उपयोग किया जाता है",
+  "inputPlaceholder": "कृपया दर्ज करें",
+  "key": "कुंजी",
+  "notifyUrl": "कस्टम सूचना डोमेन (वैकल्पिक)",
+  "notifyUrlDescription": "गेटवे सूचनाएँ इस डोमेन पर भेजी जाएंगी",
+  "pid": "पीआईडी",
+  "saveSuccess": "सहेजें सफल",
+  "showName": "प्रदर्शन नाम",
+  "showNameDescription": "फ्रंटएंड प्रदर्शन के लिए उपयोग किया जाता है",
+  "url": "यूआरएल"
+}

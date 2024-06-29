@@ -1,0 +1,18 @@
+{
+  "actions": "Toiminnot",
+  "cancel": "Peruuta",
+  "close": "Sulje",
+  "closeSuccess": "Sulkeminen onnistui",
+  "closeWarning": "Kun lippu suljetaan, sitä ei voi enää käsitellä. Olethan varovainen.",
+  "closed": "Suljettu",
+  "confirm": "Vahvista",
+  "confirmClose": "Haluatko varmasti sulkea?",
+  "createdAt": "Luotu",
+  "inputPlaceholder": "Kirjoita kysymyksesi tähän, vastaamme mahdollisimman pian.",
+  "open": "Avaa",
+  "reply": "Vastaa",
+  "send": "Lähetä",
+  "ticketList": "Lippuluettelo",
+  "title": "Otsikko",
+  "updatedAt": "Päivitetty"
+}

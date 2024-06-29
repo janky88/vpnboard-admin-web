@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "Email",
+    "invite": "Meghívás",
+    "node": "Csomópont",
+    "register": "Regisztráció",
+    "site": "Oldal",
+    "subscription": "Előfizetés",
+    "telegram": "Telegram",
+    "tos": "Felhasználási feltételek",
+    "verify": "Ellenőrzés"
+  }
+}

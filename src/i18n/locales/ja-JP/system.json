@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "メール",
+    "invite": "招待",
+    "node": "ノード",
+    "register": "登録",
+    "site": "サイト",
+    "subscription": "サブスクリプション",
+    "telegram": "テレグラム",
+    "tos": "利用規約",
+    "verify": "確認"
+  }
+}

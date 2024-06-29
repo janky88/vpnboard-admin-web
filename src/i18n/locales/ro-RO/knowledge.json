@@ -1,0 +1,28 @@
+{
+  "actions": "Acțiuni",
+  "cancel": "Anulare",
+  "category": "Categorie",
+  "confirm": "Confirmare",
+  "confirmDelete": "Sunteți sigur că doriți să ștergeți?",
+  "create": "Creare",
+  "createKnowledge": "Creare Cunoștințe",
+  "createSuccess": "Creare reușită",
+  "delete": "Ștergere",
+  "deleteDescription": "Odată șters, datele nu pot fi recuperate. Vă rugăm să procedați cu atenție.",
+  "deleteSuccess": "Ștergere reușită",
+  "edit": "Editare",
+  "editKnowledge": "Editare Cunoștințe",
+  "form": {
+    "cancel": "Anulare",
+    "category": "Categorie",
+    "confirm": "Confirmare",
+    "content": "Conținut",
+    "title": "Titlu",
+    "titlePlaceholder": "Vă rugăm să introduceți"
+  },
+  "knowledgeList": "Listă de Cunoștințe",
+  "show": "Afișare",
+  "title": "Titlu",
+  "updateSuccess": "Actualizare reușită",
+  "updatedAt": "Actualizat la"
+}

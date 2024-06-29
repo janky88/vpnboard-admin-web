@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Šablona e-mailu",
+  "emailTemplateDescription": "Můžete si přečíst dokumentaci, jak upravit šablony e-mailů",
+  "inputPlaceholder": "Prosím zadejte",
+  "saveSuccess": "Uložení úspěšné",
+  "selectPlaceholder": "Prosím vyberte",
+  "sendTestEmail": "Odeslat testovací e-mail",
+  "sendTestEmailDescription": "E-mail bude odeslán na e-mail aktuálně přihlášeného uživatele",
+  "senderAddress": "Adresa odesílatele",
+  "senderAddressDescription": "Adresa odesílatele poskytnutá poskytovatelem e-mailových služeb",
+  "smtpAccount": "Účet SMTP",
+  "smtpAccountDescription": "Účet poskytnutý poskytovatelem e-mailových služeb",
+  "smtpEncryptionMethod": "Metoda šifrování SMTP",
+  "smtpEncryptionMethodDescription": "Metoda šifrování pro port 465 je obvykle SSL a pro port 587 je obvykle TLS",
+  "smtpPassword": "Heslo SMTP",
+  "smtpPasswordDescription": "Heslo poskytnuté poskytovatelem e-mailových služeb",
+  "smtpServerAddress": "Adresa SMTP serveru",
+  "smtpServerAddressDescription": "Adresa služby poskytnutá poskytovatelem e-mailových služeb",
+  "smtpServerPort": "Port SMTP serveru",
+  "smtpServerPortDescription": "Běžné porty jsou 25, 465, 587"
+}

@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Email Template",
+  "emailTemplateDescription": "You can check the documentation on how to customize email templates",
+  "inputPlaceholder": "Please enter",
+  "saveSuccess": "Save successful",
+  "selectPlaceholder": "Please select",
+  "sendTestEmail": "Send Test Email",
+  "sendTestEmailDescription": "The email will be sent to the currently logged in user's email",
+  "senderAddress": "Sender Address",
+  "senderAddressDescription": "Sender address provided by the email service provider",
+  "smtpAccount": "SMTP Account",
+  "smtpAccountDescription": "Account provided by the email service provider",
+  "smtpEncryptionMethod": "SMTP Encryption Method",
+  "smtpEncryptionMethodDescription": "The encryption method for port 465 is generally SSL, and for port 587 is generally TLS",
+  "smtpPassword": "SMTP Password",
+  "smtpPasswordDescription": "Password provided by the email service provider",
+  "smtpServerAddress": "SMTP Server Address",
+  "smtpServerAddressDescription": "Service address provided by the email service provider",
+  "smtpServerPort": "SMTP Server Port",
+  "smtpServerPortDescription": "Common ports are 25, 465, 587"
+}

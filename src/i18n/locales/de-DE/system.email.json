@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "E-Mail-Vorlage",
+  "emailTemplateDescription": "Sie können die Dokumentation überprüfen, wie Sie E-Mail-Vorlagen anpassen können",
+  "inputPlaceholder": "Bitte eingeben",
+  "saveSuccess": "Speichern erfolgreich",
+  "selectPlaceholder": "Bitte auswählen",
+  "sendTestEmail": "Test-E-Mail senden",
+  "sendTestEmailDescription": "Die E-Mail wird an die E-Mail-Adresse des aktuell angemeldeten Benutzers gesendet",
+  "senderAddress": "Absenderadresse",
+  "senderAddressDescription": "Vom E-Mail-Dienstanbieter bereitgestellte Absenderadresse",
+  "smtpAccount": "SMTP-Konto",
+  "smtpAccountDescription": "Vom E-Mail-Dienstanbieter bereitgestelltes Konto",
+  "smtpEncryptionMethod": "SMTP-Verschlüsselungsmethode",
+  "smtpEncryptionMethodDescription": "Die Verschlüsselungsmethode für Port 465 ist in der Regel SSL und für Port 587 in der Regel TLS",
+  "smtpPassword": "SMTP-Passwort",
+  "smtpPasswordDescription": "Vom E-Mail-Dienstanbieter bereitgestelltes Passwort",
+  "smtpServerAddress": "SMTP-Serveradresse",
+  "smtpServerAddressDescription": "Vom E-Mail-Dienstanbieter bereitgestellte Dienstadresse",
+  "smtpServerPort": "SMTP-Serverport",
+  "smtpServerPortDescription": "Gängige Ports sind 25, 465, 587"
+}

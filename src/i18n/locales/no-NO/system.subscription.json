@@ -1,0 +1,23 @@
+{
+  "add": "Legg til",
+  "app": "APP",
+  "appDescription": "Konfigurer nedlastingsadressen og importreglene for APPen. Husk å lagre etter endring.",
+  "appDownloadURL": "App-nedlastings-URL",
+  "appIcon": "App-ikon",
+  "appName": "App-navn",
+  "delete": "Slett",
+  "reset": "Tilbakestill",
+  "save": "Lagre",
+  "saveSuccess": "Lagring vellykket",
+  "singleSubscriptionMode": "Enkelt abonnementsmodus",
+  "singleSubscriptionModeDescription": "Aktiver enkelt abonnementsmodus. Når det er aktivert, kan det ikke deaktiveres. Alle brukere beholder bare den første gyldige pakken, og andre pakker vil bli konvertert til balanse.",
+  "subscriptionPath": "Abonnementssti",
+  "subscriptionPathDescription": "Brukes for abonnement.",
+  "subscriptionPathPlaceholder": "Vennligst skriv inn",
+  "subscriptionProtocol": "Abonnementsprotokoll",
+  "subscriptionURL": "Abonnements-URL",
+  "subscriptionURLDescription": "Brukes for abonnement. La stå tomt for å bruke nettstedets URL. Hvis flere abonnements-URLer er nødvendig, vennligst skriv inn en per linje.",
+  "subscriptionURLPlaceholder": "Vennligst skriv inn abonnements-URLen, ikke avslutt med '/'. En per linje for flere domener.",
+  "wildcardResolution": "Jokertegnsløsning",
+  "wildcardResolutionDescription": "Brukes for abonnement."
+}

@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "Lista Branca de Sufixos de Email",
+  "emailSuffixWhitelistDescription": "Uma vez ativado, apenas emails com os sufixos na lista serão permitidos para registro.",
+  "emailVerification": "Verificação de Email",
+  "emailVerificationDescription": "Quando ativado, os usuários precisarão verificar seu email.",
+  "ipRegistrationLimit": "Limite de Registro de IP",
+  "ipRegistrationLimitDescription": "Uma vez ativado, IPs que atendam aos requisitos da regra serão restritos de se registrar. Por favor, note que a determinação de IP pode causar problemas devido a CDN ou proxies de front-end.",
+  "penaltyTime": "Tempo de Penalidade (minutos)",
+  "penaltyTimeDescription": "Os usuários devem esperar o tempo de penalidade passar antes de poderem se registrar novamente.",
+  "registrationLimitCount": "Contagem de Limite de Registro",
+  "registrationLimitCountDescription": "Ativar penalidade após atingir o limite de registro.",
+  "saveSuccess": "Salvo com sucesso",
+  "stopNewUserRegistration": "Parar Registro de Novos Usuários",
+  "stopNewUserRegistrationDescription": "Quando ativado, ninguém poderá se registrar.",
+  "trialRegistration": "Registro de Teste",
+  "trialRegistrationDescription": "Ativar registro de teste. Por favor, modifique o pacote de teste na gestão de produtos primeiro.",
+  "whitelistSuffixes": "Sufixos da Lista Branca",
+  "whitelistSuffixesDescription": "Usado para verificação de email de registro, um por linha.",
+  "whitelistSuffixesPlaceholder": "Por favor, insira os sufixos de email, um por linha."
+}

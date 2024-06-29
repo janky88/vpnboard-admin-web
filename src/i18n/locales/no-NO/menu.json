@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Kunngjøringsadministrasjon",
+  "couponManagement": "Kupongadministrasjon",
+  "dashboard": "Dashbord",
+  "documentManagement": "Dokumentadministrasjon",
+  "errorNoManager": "Feil ved forespørsel: Ingen leder",
+  "finance": "Økonomi",
+  "logout": "Logg ut",
+  "nodeManagement": "Nodeadministrasjon",
+  "orderManagement": "Ordreadministrasjon",
+  "paymentConfig": "Betalingskonfigurasjon",
+  "productManagement": "Produktadministrasjon",
+  "server": "Server",
+  "settings": "Innstillinger",
+  "systemConfig": "Systemkonfigurasjon",
+  "ticketManagement": "Billettadministrasjon",
+  "toggleNavigationMenu": "Veksle navigasjonsmeny",
+  "toggleUserMenu": "Veksle brukermeny",
+  "user": "Bruker",
+  "userManagement": "Brukeradministrasjon"
+}

@@ -1,0 +1,28 @@
+{
+  "actions": "Handlinger",
+  "announcementList": "Kunngjøringsliste",
+  "cancel": "Avbryt",
+  "confirm": "Bekreft",
+  "confirmDelete": "Er du sikker på at du vil slette?",
+  "content": "Innhold",
+  "create": "Opprett",
+  "createAnnouncement": "Opprett kunngjøring",
+  "createSuccess": "Opprettelse vellykket",
+  "delete": "Slett",
+  "deleteDescription": "Når det er slettet, kan data ikke gjenopprettes. Vennligst fortsett forsiktig.",
+  "deleteSuccess": "Sletting vellykket",
+  "edit": "Rediger",
+  "editAnnouncement": "Rediger kunngjøring",
+  "enable": "Aktiver",
+  "form": {
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "content": "Innhold",
+    "contentPlaceholder": "Vennligst skriv inn kunngjøringsinnholdet (støtter Markdown)",
+    "title": "Tittel",
+    "titlePlaceholder": "Vennligst skriv inn"
+  },
+  "title": "Tittel",
+  "updateSuccess": "Oppdatering vellykket",
+  "updatedAt": "Oppdatert kl"
+}

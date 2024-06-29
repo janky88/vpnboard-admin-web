@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Được sử dụng để hiển thị logo khi cần thiết.",
+  "logoPlaceholder": "Vui lòng nhập URL LOGO, không kết thúc bằng '/'",
+  "saveSuccess": "Lưu thành công",
+  "siteDesc": "Mô tả Trang web",
+  "siteDescDescription": "Được sử dụng để hiển thị mô tả trang web khi cần thiết.",
+  "siteDescPlaceholder": "Vui lòng nhập mô tả trang web",
+  "siteName": "Tên Trang web",
+  "siteNameDescription": "Được sử dụng để hiển thị tên trang web khi cần thiết.",
+  "siteNamePlaceholder": "Vui lòng nhập tên trang web",
+  "siteURL": "URL Trang web",
+  "siteURLDescription": "URL trang web hiện tại, sẽ được sử dụng ở các nơi như email.",
+  "siteURLPlaceholder": "Vui lòng nhập URL trang web, không kết thúc bằng '/'"
+}

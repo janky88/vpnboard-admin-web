@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "ID do Aplicativo Alipay",
+  "alipayPrivateKey": "Chave Privada Alipay",
+  "alipayPublicKey": "Chave Pública Alipay",
+  "enable": "Ativar",
+  "enableDescription": "Ativar este método de pagamento",
+  "feePercent": "Taxa em Percentual (opcional)",
+  "feePercentDescription": "Adicionar uma taxa sobre o valor do pedido",
+  "fixedFee": "Taxa Fixa (opcional)",
+  "fixedFeeDescription": "Adicionar uma taxa fixa sobre o valor do pedido",
+  "goodsName": "Nome do Produto Personalizado",
+  "goodsNamePlaceholder": "Isso aparecerá na fatura do Alipay",
+  "iconUrl": "URL do Ícone (opcional)",
+  "iconUrlDescription": "Usado para exibição na interface",
+  "inputPlaceholder": "Por favor, insira",
+  "notifyUrl": "Domínio de Notificação Personalizado (opcional)",
+  "notifyUrlDescription": "As notificações do gateway serão enviadas para este domínio",
+  "saveSuccess": "Salvo com Sucesso",
+  "showName": "Nome de Exibição",
+  "showNameDescription": "Usado para exibição na interface"
+}

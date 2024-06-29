@@ -1,0 +1,18 @@
+{
+  "actions": "Hành động",
+  "cancel": "Hủy",
+  "close": "Đóng",
+  "closeSuccess": "Đóng thành công",
+  "closeWarning": "Sau khi đóng, vé không thể được xử lý. Vui lòng tiếp tục cẩn thận.",
+  "closed": "Đã đóng",
+  "confirm": "Xác nhận",
+  "confirmClose": "Bạn có chắc muốn đóng không?",
+  "createdAt": "Được tạo lúc",
+  "inputPlaceholder": "Vui lòng nhập câu hỏi của bạn ở đây và chúng tôi sẽ trả lời sớm nhất có thể.",
+  "open": "Mở",
+  "reply": "Trả lời",
+  "send": "Gửi",
+  "ticketList": "Danh sách vé",
+  "title": "Tiêu đề",
+  "updatedAt": "Được cập nhật lúc"
+}

@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Quản lý Thông báo",
+  "couponManagement": "Quản lý Phiếu giảm giá",
+  "dashboard": "Bảng điều khiển",
+  "documentManagement": "Quản lý Tài liệu",
+  "errorNoManager": "Lỗi yêu cầu: Không có quản lý",
+  "finance": "Tài chính",
+  "logout": "Đăng xuất",
+  "nodeManagement": "Quản lý Node",
+  "orderManagement": "Quản lý Đơn hàng",
+  "paymentConfig": "Cấu hình Thanh toán",
+  "productManagement": "Quản lý Sản phẩm",
+  "server": "Máy chủ",
+  "settings": "Cài đặt",
+  "systemConfig": "Cấu hình Hệ thống",
+  "ticketManagement": "Quản lý Ticket",
+  "toggleNavigationMenu": "Chuyển đổi menu điều hướng",
+  "toggleUserMenu": "Chuyển đổi menu người dùng",
+  "user": "Người dùng",
+  "userManagement": "Quản lý Người dùng"
+}

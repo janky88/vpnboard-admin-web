@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Bitte eingeben",
+  "loginVerificationCode": "Anmeldebestätigungscode",
+  "loginVerificationCodeDescription": "Menschliche Überprüfung für die Anmeldung",
+  "registrationVerificationCode": "Registrierungsbestätigungscode",
+  "registrationVerificationCodeDescription": "Menschliche Überprüfung für die Registrierung",
+  "resetPasswordVerificationCode": "Passwortrücksetzungsbestätigungscode",
+  "resetPasswordVerificationCodeDescription": "Menschliche Überprüfung für das Zurücksetzen des Passworts",
+  "saveSuccess": "Speichern erfolgreich",
+  "turnstileSecret": "Drehkreuzgeheimnis",
+  "turnstileSecretDescription": "Von Cloudflare bereitgestelltes Drehkreuzgeheimnis",
+  "turnstileSiteKey": "Drehkreuz-Site-Schlüssel",
+  "turnstileSiteKeyDescription": "Von Cloudflare bereitgestellter Drehkreuz-Site-Schlüssel"
+}

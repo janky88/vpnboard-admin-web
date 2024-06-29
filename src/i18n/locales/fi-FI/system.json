@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "Sähköposti",
+    "invite": "Kutsu",
+    "node": "Solmu",
+    "register": "Rekisteröidy",
+    "site": "Sivusto",
+    "subscription": "Tilaus",
+    "telegram": "Telegram",
+    "tos": "Käyttöehdot",
+    "verify": "Vahvista"
+  }
+}

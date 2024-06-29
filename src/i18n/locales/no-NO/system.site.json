@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Brukes til å vise hvor logoen er nødvendig.",
+  "logoPlaceholder": "Vennligst skriv inn LOGO-URL, ikke avslutt med '/'",
+  "saveSuccess": "Lagring vellykket",
+  "siteDesc": "Nettstedsbeskrivelse",
+  "siteDescDescription": "Brukes til å vise hvor nettstedsbeskrivelsen er nødvendig.",
+  "siteDescPlaceholder": "Vennligst skriv inn nettstedsbeskrivelsen",
+  "siteName": "Nettstedsnavn",
+  "siteNameDescription": "Brukes til å vise hvor nettstedsnavnet er nødvendig.",
+  "siteNamePlaceholder": "Vennligst skriv inn nettstedsnavnet",
+  "siteURL": "Nettsteds-URL",
+  "siteURLDescription": "Gjeldende nettsteds-URL, vil bli brukt på steder som e-poster.",
+  "siteURLPlaceholder": "Vennligst skriv inn nettsteds-URL, ikke avslutt med '/'"
+}

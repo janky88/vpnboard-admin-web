@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Gestión de Anuncios",
+  "couponManagement": "Gestión de Cupones",
+  "dashboard": "Tablero",
+  "documentManagement": "Gestión de Documentos",
+  "errorNoManager": "Error de solicitud: No hay gerente",
+  "finance": "Finanzas",
+  "logout": "Cerrar sesión",
+  "nodeManagement": "Gestión de Nodos",
+  "orderManagement": "Gestión de Pedidos",
+  "paymentConfig": "Configuración de Pagos",
+  "productManagement": "Gestión de Productos",
+  "server": "Servidor",
+  "settings": "Configuración",
+  "systemConfig": "Configuración del Sistema",
+  "ticketManagement": "Gestión de Tickets",
+  "toggleNavigationMenu": "Alternar menú de navegación",
+  "toggleUserMenu": "Alternar menú de usuario",
+  "user": "Usuario",
+  "userManagement": "Gestión de Usuarios"
+}

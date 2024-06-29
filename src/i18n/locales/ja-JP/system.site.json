@@ -1,0 +1,15 @@
+{
+  "logo": "ロゴ",
+  "logoDescription": "ロゴが必要な場所に表示されます。",
+  "logoPlaceholder": "ロゴのURLを入力してください。末尾に'/'を付けないでください。",
+  "saveSuccess": "保存に成功しました",
+  "siteDesc": "サイトの説明",
+  "siteDescDescription": "サイトの説明が必要な場所に表示されます。",
+  "siteDescPlaceholder": "サイトの説明を入力してください",
+  "siteName": "サイト名",
+  "siteNameDescription": "サイト名が必要な場所に表示されます。",
+  "siteNamePlaceholder": "サイト名を入力してください",
+  "siteURL": "サイトのURL",
+  "siteURLDescription": "現在のウェブサイトのURLで、メールなどで使用されます。",
+  "siteURLPlaceholder": "サイトのURLを入力してください。末尾に'/'を付けないでください。"
+}

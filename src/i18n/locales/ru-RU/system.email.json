@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Шаблон электронной почты",
+  "emailTemplateDescription": "Вы можете ознакомиться с документацией по настройке шаблонов электронной почты",
+  "inputPlaceholder": "Пожалуйста, введите",
+  "saveSuccess": "Сохранение успешно",
+  "selectPlaceholder": "Пожалуйста, выберите",
+  "sendTestEmail": "Отправить тестовое письмо",
+  "sendTestEmailDescription": "Письмо будет отправлено на электронный адрес текущего пользователя",
+  "senderAddress": "Адрес отправителя",
+  "senderAddressDescription": "Адрес отправителя, предоставленный поставщиком услуг электронной почты",
+  "smtpAccount": "Учетная запись SMTP",
+  "smtpAccountDescription": "Учетная запись, предоставленная поставщиком услуг электронной почты",
+  "smtpEncryptionMethod": "Метод шифрования SMTP",
+  "smtpEncryptionMethodDescription": "Метод шифрования для порта 465 обычно SSL, а для порта 587 обычно TLS",
+  "smtpPassword": "Пароль SMTP",
+  "smtpPasswordDescription": "Пароль, предоставленный поставщиком услуг электронной почты",
+  "smtpServerAddress": "Адрес сервера SMTP",
+  "smtpServerAddressDescription": "Адрес службы, предоставленный поставщиком услуг электронной почты",
+  "smtpServerPort": "Порт сервера SMTP",
+  "smtpServerPortDescription": "Обычные порты: 25, 465, 587"
+}

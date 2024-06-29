@@ -1,0 +1,28 @@
+{
+  "actions": "Akce",
+  "cancel": "Zrušit",
+  "category": "Kategorie",
+  "confirm": "Potvrdit",
+  "confirmDelete": "Jste si jistý, že chcete smazat?",
+  "create": "Vytvořit",
+  "createKnowledge": "Vytvořit znalost",
+  "createSuccess": "Vytvoření úspěšné",
+  "delete": "Smazat",
+  "deleteDescription": "Po smazání nelze data obnovit. Pokračujte prosím opatrně.",
+  "deleteSuccess": "Smazání úspěšné",
+  "edit": "Upravit",
+  "editKnowledge": "Upravit znalost",
+  "form": {
+    "cancel": "Zrušit",
+    "category": "Kategorie",
+    "confirm": "Potvrdit",
+    "content": "Obsah",
+    "title": "Název",
+    "titlePlaceholder": "Prosím zadejte"
+  },
+  "knowledgeList": "Seznam znalostí",
+  "show": "Zobrazit",
+  "title": "Název",
+  "updateSuccess": "Aktualizace úspěšná",
+  "updatedAt": "Aktualizováno v"
+}

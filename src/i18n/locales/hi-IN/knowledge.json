@@ -1,0 +1,28 @@
+{
+  "actions": "क्रियाएँ",
+  "cancel": "रद्द करें",
+  "category": "श्रेणी",
+  "confirm": "पुष्टि करें",
+  "confirmDelete": "क्या आप वाकई हटाना चाहते हैं?",
+  "create": "बनाएं",
+  "createKnowledge": "ज्ञान बनाएं",
+  "createSuccess": "सफलतापूर्वक बनाया गया",
+  "delete": "हटाएं",
+  "deleteDescription": "एक बार हटाने के बाद, डेटा को पुनः प्राप्त नहीं किया जा सकता। कृपया सावधानी से आगे बढ़ें।",
+  "deleteSuccess": "हटाने में सफल",
+  "edit": "संपादित करें",
+  "editKnowledge": "ज्ञान संपादित करें",
+  "form": {
+    "cancel": "रद्द करें",
+    "category": "श्रेणी",
+    "confirm": "पुष्टि करें",
+    "content": "सामग्री",
+    "title": "शीर्षक",
+    "titlePlaceholder": "कृपया दर्ज करें"
+  },
+  "knowledgeList": "ज्ञान सूची",
+  "show": "दिखाएं",
+  "title": "शीर्षक",
+  "updateSuccess": "अपडेट सफल",
+  "updatedAt": "अपडेट किया गया"
+}

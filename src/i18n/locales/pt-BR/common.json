@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Excluir em lote",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "confirmDelete": "Tem certeza de que deseja excluir esses itens?",
+    "deleteDescription": "Uma vez excluídos, os dados não podem ser recuperados. Por favor, prossiga com cautela.",
+    "goToFirstPage": "Ir para a primeira página",
+    "goToLastPage": "Ir para a última página",
+    "goToNextPage": "Ir para a próxima página",
+    "goToPreviousPage": "Ir para a página anterior",
+    "noResults": "Sem resultados.",
+    "of": "de",
+    "page": "Página",
+    "selectAll": "Selecionar tudo",
+    "selectRow": "Selecionar linha",
+    "selectedItems": "Itens selecionados",
+    "totalItems": "Total de itens"
+  },
+  "request.error": {
+    "40000": "Erro do Cliente",
+    "40001": "Falha na Validação do Cliente",
+    "41001": "Falha na Autenticação da Conta",
+    "41010": "Esta Conta Não Existe",
+    "41011": "Conta foi Banida",
+    "41012": "Senha Incorreta",
+    "50000": "Erro do Servidor",
+    "default": "Erro Desconhecido",
+    "no.manager": "Este gerente de conta está logado ilegalmente"
+  }
+}

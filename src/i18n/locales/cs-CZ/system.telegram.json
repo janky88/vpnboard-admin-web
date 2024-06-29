@@ -1,0 +1,11 @@
+{
+  "botToken": "Token robota",
+  "botTokenDescription": "Zadejte prosím token poskytnutý Botfatherem.",
+  "enableBotNotifications": "Povolit oznámení od robota",
+  "enableBotNotificationsDescription": "Po povolení bude robot zasílat základní oznámení administrátorům a uživatelům, kteří mají propojený Telegram.",
+  "groupURL": "URL skupiny",
+  "groupURLDescription": "Po vyplnění bude zobrazena na straně uživatele nebo použita tam, kde je potřeba.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Uložení úspěšné"
+}

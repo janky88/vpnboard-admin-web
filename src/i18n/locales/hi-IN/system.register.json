@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "ईमेल सफ़िक्स सफ़ेद सूची",
+  "emailSuffixWhitelistDescription": "एक बार सक्षम किया जाए, केवल सूची में सफ़िक्स वाले ईमेल को पंजीकरण करने की अनुमति दी जाएगी।",
+  "emailVerification": "ईमेल सत्यापन",
+  "emailVerificationDescription": "एक बार सक्षम किया जाए, उपयोगकर्ताओं को अपना ईमेल सत्यापित करना होगा।",
+  "ipRegistrationLimit": "आईपी पंजीकरण सीमा",
+  "ipRegistrationLimitDescription": "एक बार सक्षम किया जाए, नियम आवश्यकताओं को पूरा करने वाली आईपी को पंजीकरण से रोका जाएगा। कृपया ध्यान दें कि सीडीएन या फ्रंट-एंड प्रॉक्सी के कारण आईपी निर्धारण समस्याएँ उत्पन्न कर सकती हैं।",
+  "penaltyTime": "दंड समय (मिनट)",
+  "penaltyTimeDescription": "उपयोगकर्ताओं को पंजीकरण करने से पहले दंड समय का इंतजार करना होगा।",
+  "registrationLimitCount": "पंजीकरण सीमा गणना",
+  "registrationLimitCountDescription": "पंजीकरण सीमा तक पहुंचने के बाद दंड सक्षम करें।",
+  "saveSuccess": "सहेजें सफल",
+  "stopNewUserRegistration": "नए उपयोगकर्ता पंजीकरण रोकें",
+  "stopNewUserRegistrationDescription": "एक बार सक्षम किया जाए, किसी को भी पंजीकरण करने की अनुमति नहीं होगी।",
+  "trialRegistration": "परीक्षण पंजीकरण",
+  "trialRegistrationDescription": "परीक्षण पंजीकरण सक्षम करें। कृपया पहले उत्पाद प्रबंधन में परीक्षण पैकेज को संशोधित करें।",
+  "whitelistSuffixes": "सफेद सूची सफ़िक्स",
+  "whitelistSuffixesDescription": "पंजीकरण ईमेल सत्यापन के लिए उपयोग किया जाता है, प्रति पंक्ति एक।",
+  "whitelistSuffixesPlaceholder": "कृपया ईमेल सफ़िक्स दर्ज करें, प्रति पंक्ति।"
+}

@@ -1,0 +1,19 @@
+{
+  "enable": "Enable",
+  "enableDescription": "Enable this payment method",
+  "feePercent": "Percentage Fee (optional)",
+  "feePercentDescription": "Add a fee on top of the order amount",
+  "fixedFee": "Fixed Fee (optional)",
+  "fixedFeeDescription": "Add a fixed fee on top of the order amount",
+  "iconUrl": "Icon URL (optional)",
+  "iconUrlDescription": "Used for frontend display",
+  "inputPlaceholder": "Please enter",
+  "key": "KEY",
+  "notifyUrl": "Custom Notification Domain (optional)",
+  "notifyUrlDescription": "Gateway notifications will be sent to this domain",
+  "pid": "PID",
+  "saveSuccess": "Save Successful",
+  "showName": "Display Name",
+  "showNameDescription": "Used for frontend display",
+  "url": "URL"
+}

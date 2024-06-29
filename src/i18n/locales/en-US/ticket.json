@@ -1,0 +1,18 @@
+{
+  "actions": "Actions",
+  "cancel": "Cancel",
+  "close": "Close",
+  "closeSuccess": "Close Successful",
+  "closeWarning": "Once closed, the ticket cannot be operated on. Please proceed with caution.",
+  "closed": "Closed",
+  "confirm": "Confirm",
+  "confirmClose": "Are you sure you want to close?",
+  "createdAt": "Created At",
+  "inputPlaceholder": "Please enter your question here and we will reply as soon as possible.",
+  "open": "Open",
+  "reply": "Reply",
+  "send": "Send",
+  "ticketList": "Ticket List",
+  "title": "Title",
+  "updatedAt": "Updated At"
+}

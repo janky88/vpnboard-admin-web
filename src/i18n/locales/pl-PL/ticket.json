@@ -1,0 +1,18 @@
+{
+  "actions": "Akcje",
+  "cancel": "Anuluj",
+  "close": "Zamknij",
+  "closeSuccess": "Zamknięcie udane",
+  "closeWarning": "Po zamknięciu zgłoszenia nie można na nim operować. Proszę postępować ostrożnie.",
+  "closed": "Zamknięte",
+  "confirm": "Potwierdź",
+  "confirmClose": "Czy na pewno chcesz zamknąć?",
+  "createdAt": "Utworzono",
+  "inputPlaceholder": "Proszę wprowadzić pytanie tutaj, a odpowiemy tak szybko, jak to możliwe.",
+  "open": "Otwórz",
+  "reply": "Odpowiedz",
+  "send": "Wyślij",
+  "ticketList": "Lista zgłoszeń",
+  "title": "Tytuł",
+  "updatedAt": "Zaktualizowano"
+}

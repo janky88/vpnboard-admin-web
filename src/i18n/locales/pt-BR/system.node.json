@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Chave de Comunicação",
+  "communicationKeyDescription": "A chave para a comunicação entre nós para garantir que os dados não sejam interceptados por outros.",
+  "inputPlaceholder": "Por favor, insira",
+  "nodePullInterval": "Intervalo de Puxar do Nó",
+  "nodePullIntervalDescription": "A frequência com que o nó recupera dados do painel. (em segundos)",
+  "nodePushInterval": "Intervalo de Empurrar do Nó",
+  "nodePushIntervalDescription": "A frequência com que o nó envia dados para o painel.",
+  "saveSuccess": "Salvo com sucesso"
+}

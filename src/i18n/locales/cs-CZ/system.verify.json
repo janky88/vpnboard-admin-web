@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Prosím zadejte",
+  "loginVerificationCode": "Ověřovací kód přihlášení",
+  "loginVerificationCodeDescription": "Ověření člověka při přihlášení",
+  "registrationVerificationCode": "Ověřovací kód registrace",
+  "registrationVerificationCodeDescription": "Ověření člověka při registraci",
+  "resetPasswordVerificationCode": "Ověřovací kód obnovení hesla",
+  "resetPasswordVerificationCodeDescription": "Ověření člověka při obnovení hesla",
+  "saveSuccess": "Uložení úspěšné",
+  "turnstileSecret": "Turniketové tajemství",
+  "turnstileSecretDescription": "Cloudflare poskytlo turniketové tajemství",
+  "turnstileSiteKey": "Turniketový klíč webu",
+  "turnstileSiteKeyDescription": "Cloudflare poskytlo turniketový klíč webu"
+}

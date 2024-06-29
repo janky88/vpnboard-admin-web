@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "邮件模板",
+  "emailTemplateDescription": "您可以查看文档以了解如何自定义电子邮件模板",
+  "inputPlaceholder": "请输入",
+  "saveSuccess": "保存成功",
+  "selectPlaceholder": "请选择",
+  "sendTestEmail": "发送测试邮件",
+  "sendTestEmailDescription": "邮件将发送到当前登录用户的邮箱",
+  "senderAddress": "发件人地址",
+  "senderAddressDescription": "电子邮件服务提供商提供的发件人地址",
+  "smtpAccount": "SMTP账号",
+  "smtpAccountDescription": "电子邮件服务提供商提供的账号",
+  "smtpEncryptionMethod": "SMTP加密方法",
+  "smtpEncryptionMethodDescription": "端口465通常为SSL，端口587通常为TLS",
+  "smtpPassword": "SMTP密码",
+  "smtpPasswordDescription": "电子邮件服务提供商提供的密码",
+  "smtpServerAddress": "SMTP服务器地址",
+  "smtpServerAddressDescription": "电子邮件服务提供商提供的服务器地址",
+  "smtpServerPort": "SMTP服务器端口",
+  "smtpServerPortDescription": "常用端口为25、465、587"
+}

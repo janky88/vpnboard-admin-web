@@ -1,0 +1,23 @@
+{
+  "add": "जोड़ें",
+  "app": "ऐप",
+  "appDescription": "ऐप के डाउनलोड पते और आयात नियम कॉन्फ़िगर करें। संशोधन के बाद सहेजना न भूलें।",
+  "appDownloadURL": "ऐप डाउनलोड URL",
+  "appIcon": "ऐप आइकन",
+  "appName": "ऐप का नाम",
+  "delete": "हटाएं",
+  "reset": "रीसेट",
+  "save": "सहेजें",
+  "saveSuccess": "सहेजना सफल",
+  "singleSubscriptionMode": "एकल सदस्यता मोड",
+  "singleSubscriptionModeDescription": "एकल सदस्यता मोड सक्षम करें। एक बार सक्षम करने के बाद, इसे अक्षम नहीं किया जा सकता। सभी उपयोगकर्ता केवल पहले मान्य पैकेज को रखेंगे, और अन्य पैकेज को शेष राशि में परिवर्तित कर दिया जाएगा।",
+  "subscriptionPath": "सदस्यता पथ",
+  "subscriptionPathDescription": "सदस्यता के लिए उपयोग किया जाता है।",
+  "subscriptionPathPlaceholder": "कृपया दर्ज करें",
+  "subscriptionProtocol": "सदस्यता प्रोटोकॉल",
+  "subscriptionURL": "सदस्यता URL",
+  "subscriptionURLDescription": "सदस्यता के लिए उपयोग किया जाता है। साइट URL का उपयोग करने के लिए रिक्त छोड़ें। यदि कई सदस्यता URL की आवश्यकता है, तो कृपया प्रति पंक्ति एक दर्ज करें।",
+  "subscriptionURLPlaceholder": "कृपया सदस्यता URL दर्ज करें, '/' से समाप्त न करें। कई डोमेनों के लिए प्रति पंक्ति एक।",
+  "wildcardResolution": "वाइल्डकार्ड संक्षेपण",
+  "wildcardResolutionDescription": "सदस्यता के लिए उपयोग किया जाता है।"
+}

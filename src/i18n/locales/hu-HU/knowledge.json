@@ -1,0 +1,28 @@
+{
+  "actions": "Műveletek",
+  "cancel": "Mégse",
+  "category": "Kategória",
+  "confirm": "Megerősít",
+  "confirmDelete": "Biztosan törölni szeretné?",
+  "create": "Létrehozás",
+  "createKnowledge": "Tudás létrehozása",
+  "createSuccess": "Létrehozás sikeres",
+  "delete": "Törlés",
+  "deleteDescription": "A törlés után az adatok nem állíthatók vissza. Kérjük, óvatosan folytassa.",
+  "deleteSuccess": "Törlés sikeres",
+  "edit": "Szerkesztés",
+  "editKnowledge": "Tudás szerkesztése",
+  "form": {
+    "cancel": "Mégse",
+    "category": "Kategória",
+    "confirm": "Megerősít",
+    "content": "Tartalom",
+    "title": "Cím",
+    "titlePlaceholder": "Kérem, adja meg"
+  },
+  "knowledgeList": "Tudáslista",
+  "show": "Megjelenítés",
+  "title": "Cím",
+  "updateSuccess": "Frissítés sikeres",
+  "updatedAt": "Frissítve"
+}

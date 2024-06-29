@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "केवल पहली खरीद पर कमीशन",
+  "commissionFirstTimeOnlyDescription": "एक बार सक्षम करने पर, कमीशन केवल आमंत्रित व्यक्ति के पहले भुगतान पर ही उत्पन्न होगा। आप उपयोगकर्ता प्रबंधन में व्यक्तिगत उपयोगकर्ताओं को कॉन्फ़िगर कर सकते हैं।",
+  "enableForcedInvite": "बाध्य आमंत्रण सक्षम करें",
+  "enableForcedInviteDescription": "एक बार सक्षम करने पर, केवल आमंत्रित उपयोगकर्ता पंजीकरण कर सकते हैं।",
+  "inputPlaceholder": "कृपया दर्ज करें",
+  "inviteCommissionPercentage": "आमंत्रण कमीशन प्रतिशत",
+  "inviteCommissionPercentageDescription": "डिफ़ॉल्ट ग्लोबल कमीशन वितरण अनुपात, आप उपयोगकर्ता प्रबंधन में व्यक्तिगत अनुपात कॉन्फ़िगर कर सकते हैं।",
+  "saveSuccess": "सहेजें सफल"
+}

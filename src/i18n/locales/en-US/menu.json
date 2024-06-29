@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Announcement Management",
+  "couponManagement": "Coupon Management",
+  "dashboard": "Dashboard",
+  "documentManagement": "Document Management",
+  "errorNoManager": "Request error: No manager",
+  "finance": "Finance",
+  "logout": "Logout",
+  "nodeManagement": "Node Management",
+  "orderManagement": "Order Management",
+  "paymentConfig": "Payment Configuration",
+  "productManagement": "Product Management",
+  "server": "Server",
+  "settings": "Settings",
+  "systemConfig": "System Configuration",
+  "ticketManagement": "Ticket Management",
+  "toggleNavigationMenu": "Toggle navigation menu",
+  "toggleUserMenu": "Toggle user menu",
+  "user": "User",
+  "userManagement": "User Management"
+}

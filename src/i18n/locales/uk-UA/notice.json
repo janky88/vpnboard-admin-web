@@ -1,0 +1,28 @@
+{
+  "actions": "Дії",
+  "announcementList": "Список оголошень",
+  "cancel": "Скасувати",
+  "confirm": "Підтвердити",
+  "confirmDelete": "Ви впевнені, що хочете видалити?",
+  "content": "Зміст",
+  "create": "Створити",
+  "createAnnouncement": "Створити оголошення",
+  "createSuccess": "Створення успішне",
+  "delete": "Видалити",
+  "deleteDescription": "Після видалення дані не можна відновити. Будь ласка, дійте обережно.",
+  "deleteSuccess": "Видалення успішне",
+  "edit": "Редагувати",
+  "editAnnouncement": "Редагувати оголошення",
+  "enable": "Увімкнути",
+  "form": {
+    "cancel": "Скасувати",
+    "confirm": "Підтвердити",
+    "content": "Зміст",
+    "contentPlaceholder": "Будь ласка, введіть зміст оголошення (підтримує Markdown)",
+    "title": "Заголовок",
+    "titlePlaceholder": "Будь ласка, введіть"
+  },
+  "title": "Заголовок",
+  "updateSuccess": "Оновлення успішне",
+  "updatedAt": "Оновлено о"
+}

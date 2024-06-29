@@ -1,0 +1,19 @@
+{
+  "enable": "有効にする",
+  "enableDescription": "この支払い方法を有効にする",
+  "feePercent": "パーセンテージ手数料（任意）",
+  "feePercentDescription": "注文金額に手数料を追加",
+  "fixedFee": "固定手数料（任意）",
+  "fixedFeeDescription": "注文金額に固定手数料を追加",
+  "iconUrl": "アイコンのURL（任意）",
+  "iconUrlDescription": "フロントエンド表示用",
+  "inputPlaceholder": "入力してください",
+  "key": "キー",
+  "notifyUrl": "カスタム通知ドメイン（任意）",
+  "notifyUrlDescription": "ゲートウェイ通知はこのドメインに送信されます",
+  "pid": "PID",
+  "saveSuccess": "保存に成功しました",
+  "showName": "表示名",
+  "showNameDescription": "フロントエンド表示用",
+  "url": "URL"
+}

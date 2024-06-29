@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "E-posta Sone Beyaz Listesi",
+  "emailSuffixWhitelistDescription": "Etkinleştirildiğinde, listedeki sone sahip e-postaların kaydolmasına izin verilecektir.",
+  "emailVerification": "E-posta Doğrulama",
+  "emailVerificationDescription": "Etkinleştirildiğinde, kullanıcıların e-postalarını doğrulamaları gerekecektir.",
+  "ipRegistrationLimit": "IP Kayıt Sınırı",
+  "ipRegistrationLimitDescription": "Etkinleştirildiğinde, kural gereksinimlerini karşılayan IP'ler kayıt olmaktan kısıtlanacaktır. Lütfen IP belirleme, CDN veya ön uç proxy'lerinden kaynaklanan sorunlara neden olabilir.",
+  "penaltyTime": "Ceza Süresi (dakika)",
+  "penaltyTimeDescription": "Kullanıcıların tekrar kaydolabilmeleri için ceza süresinin dolmasını beklemeleri gerekmektedir.",
+  "registrationLimitCount": "Kayıt Sınır Sayısı",
+  "registrationLimitCountDescription": "Kayıt sınırına ulaşıldıktan sonra ceza uygulanmasını etkinleştir.",
+  "saveSuccess": "Başarıyla Kaydedildi",
+  "stopNewUserRegistration": "Yeni Kullanıcı Kaydını Durdur",
+  "stopNewUserRegistrationDescription": "Etkinleştirildiğinde, kimse kayıt olamayacaktır.",
+  "trialRegistration": "Deneme Kaydı",
+  "trialRegistrationDescription": "Deneme kaydını etkinleştir. Lütfen önce ürün yönetiminde deneme paketini değiştirin.",
+  "whitelistSuffixes": "Beyaz Liste Sone",
+  "whitelistSuffixesDescription": "Kayıt e-posta doğrulaması için kullanılır, her satırda bir tane.",
+  "whitelistSuffixesPlaceholder": "Lütfen e-posta sone ekleyin, her satırda bir tane."
+}

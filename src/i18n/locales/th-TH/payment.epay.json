@@ -1,0 +1,19 @@
+{
+  "enable": "เปิดใช้งาน",
+  "enableDescription": "เปิดใช้งานวิธีการชำระเงินนี้",
+  "feePercent": "ค่าธรรมเนียมเปอร์เซ็นต์ (ไม่บังคับ)",
+  "feePercentDescription": "เพิ่มค่าธรรมเนียมเหนือจำนวนคำสั่ง",
+  "fixedFee": "ค่าธรรมเนียมคงที่ (ไม่บังคับ)",
+  "fixedFeeDescription": "เพิ่มค่าธรรมเนียมคงที่เหนือจำนวนคำสั่ง",
+  "iconUrl": "URL ไอคอน (ไม่บังคับ)",
+  "iconUrlDescription": "ใช้สำหรับการแสดงผลด้านหน้า",
+  "inputPlaceholder": "โปรดใส่",
+  "key": "KEY",
+  "notifyUrl": "โดเมนการแจ้งเตือนที่กำหนดเอง (ไม่บังคับ)",
+  "notifyUrlDescription": "การแจ้งเตือนจะถูกส่งไปยังโดเมนนี้",
+  "pid": "PID",
+  "saveSuccess": "บันทึกสำเร็จ",
+  "showName": "ชื่อที่แสดง",
+  "showNameDescription": "ใช้สำหรับการแสดงผลด้านหน้า",
+  "url": "URL"
+}

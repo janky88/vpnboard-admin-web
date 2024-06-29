@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Sähköpostipohja",
+  "emailTemplateDescription": "Voit tarkistaa dokumentaation, miten mukautat sähköpostipohjia",
+  "inputPlaceholder": "Syötäthän",
+  "saveSuccess": "Tallennus onnistui",
+  "selectPlaceholder": "Valitse",
+  "sendTestEmail": "Lähetä testisähköposti",
+  "sendTestEmailDescription": "Sähköposti lähetetään kirjautuneen käyttäjän sähköpostiin",
+  "senderAddress": "Lähettäjän osoite",
+  "senderAddressDescription": "Sähköpostipalveluntarjoajan tarjoama lähettäjän osoite",
+  "smtpAccount": "SMTP-tili",
+  "smtpAccountDescription": "Sähköpostipalveluntarjoajan tarjoama tili",
+  "smtpEncryptionMethod": "SMTP-salausmenetelmä",
+  "smtpEncryptionMethodDescription": "Portin 465 salaustapa on yleensä SSL ja portin 587 salaustapa on yleensä TLS",
+  "smtpPassword": "SMTP-salasana",
+  "smtpPasswordDescription": "Sähköpostipalveluntarjoajan tarjoama salasana",
+  "smtpServerAddress": "SMTP-palvelimen osoite",
+  "smtpServerAddressDescription": "Sähköpostipalveluntarjoajan tarjoama palvelinosoite",
+  "smtpServerPort": "SMTP-palvelimen portti",
+  "smtpServerPortDescription": "Yleisiä portteja ovat 25, 465, 587"
+}

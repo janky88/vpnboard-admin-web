@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Eメールテンプレート",
+  "emailTemplateDescription": "Eメールテンプレートをカスタマイズする方法についてのドキュメントを確認できます",
+  "inputPlaceholder": "入力してください",
+  "saveSuccess": "保存に成功しました",
+  "selectPlaceholder": "選択してください",
+  "sendTestEmail": "テストEメールを送信",
+  "sendTestEmailDescription": "Eメールは現在ログインしているユーザーのメールアドレスに送信されます",
+  "senderAddress": "送信元アドレス",
+  "senderAddressDescription": "Eメールサービスプロバイダーが提供する送信元アドレス",
+  "smtpAccount": "SMTPアカウント",
+  "smtpAccountDescription": "Eメールサービスプロバイダーが提供するアカウント",
+  "smtpEncryptionMethod": "SMTP暗号化方式",
+  "smtpEncryptionMethodDescription": "ポート465の暗号化方式は一般的にSSLであり、ポート587の場合は一般的にTLSです",
+  "smtpPassword": "SMTPパスワード",
+  "smtpPasswordDescription": "Eメールサービスプロバイダーが提供するパスワード",
+  "smtpServerAddress": "SMTPサーバーアドレス",
+  "smtpServerAddressDescription": "Eメールサービスプロバイダーが提供するサービスアドレス",
+  "smtpServerPort": "SMTPサーバーポート",
+  "smtpServerPortDescription": "一般的なポートは25、465、587です"
+}

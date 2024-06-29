@@ -1,0 +1,28 @@
+{
+  "actions": "Műveletek",
+  "announcementList": "Hirdetés lista",
+  "cancel": "Mégse",
+  "confirm": "Megerősít",
+  "confirmDelete": "Biztosan törölni szeretné?",
+  "content": "Tartalom",
+  "create": "Létrehozás",
+  "createAnnouncement": "Hirdetés létrehozása",
+  "createSuccess": "Létrehozás sikeres",
+  "delete": "Törlés",
+  "deleteDescription": "A törlés után az adatok nem állíthatók vissza. Kérjük, óvatosan folytassa.",
+  "deleteSuccess": "Törlés sikeres",
+  "edit": "Szerkesztés",
+  "editAnnouncement": "Hirdetés szerkesztése",
+  "enable": "Engedélyezés",
+  "form": {
+    "cancel": "Mégse",
+    "confirm": "Megerősít",
+    "content": "Tartalom",
+    "contentPlaceholder": "Kérem, adja meg a hirdetés tartalmát (támogatja a Markdown-ot)",
+    "title": "Cím",
+    "titlePlaceholder": "Kérem, adja meg"
+  },
+  "title": "Cím",
+  "updateSuccess": "Frissítés sikeres",
+  "updatedAt": "Frissítve"
+}

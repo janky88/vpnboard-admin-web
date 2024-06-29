@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "이메일 접미사 화이트리스트",
+  "emailSuffixWhitelistDescription": "활성화된 경우, 목록에 있는 접미사를 가진 이메일만 등록할 수 있습니다.",
+  "emailVerification": "이메일 확인",
+  "emailVerificationDescription": "활성화된 경우, 사용자는 이메일 확인을 해야 합니다.",
+  "ipRegistrationLimit": "IP 등록 제한",
+  "ipRegistrationLimitDescription": "활성화된 경우, 규칙 요건을 충족하는 IP는 등록을 제한받을 수 있습니다. CDN이나 프론트엔드 프록시로 인해 IP 결정이 문제를 일으킬 수 있음을 주의하세요.",
+  "penaltyTime": "벌점 시간 (분)",
+  "penaltyTimeDescription": "사용자는 다시 등록하기 전에 벌점 시간이 경과해야 합니다.",
+  "registrationLimitCount": "등록 제한 횟수",
+  "registrationLimitCountDescription": "등록 한도에 도달하면 벌점이 활성화됩니다.",
+  "saveSuccess": "저장 성공",
+  "stopNewUserRegistration": "새 사용자 등록 중지",
+  "stopNewUserRegistrationDescription": "활성화된 경우, 누구도 등록할 수 없습니다.",
+  "trialRegistration": "체험 등록",
+  "trialRegistrationDescription": "체험 등록을 활성화합니다. 먼저 제품 관리에서 체험 패키지를 수정하세요.",
+  "whitelistSuffixes": "화이트리스트 접미사",
+  "whitelistSuffixesDescription": "등록 이메일 확인에 사용되며, 한 줄에 하나씩 입력하세요.",
+  "whitelistSuffixesPlaceholder": "이메일 접미사를 입력하세요. 한 줄에 하나씩 입력하세요."
+}

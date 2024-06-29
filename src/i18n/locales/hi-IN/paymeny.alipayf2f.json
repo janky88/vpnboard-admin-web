@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "एलीपे APP आईडी",
+  "alipayPrivateKey": "एलीपे निजी कुंजी",
+  "alipayPublicKey": "एलीपे सार्वजनिक कुंजी",
+  "enable": "सक्षम करें",
+  "enableDescription": "इस भुगतान विधि को सक्षम करें",
+  "feePercent": "प्रतिशत शुल्क (वैकल्पिक)",
+  "feePercentDescription": "आदेश राशि पर एक शुल्क जोड़ें",
+  "fixedFee": "निश्चित शुल्क (वैकल्पिक)",
+  "fixedFeeDescription": "आदेश राशि पर एक निश्चित शुल्क जोड़ें",
+  "goodsName": "कस्टम उत्पाद नाम",
+  "goodsNamePlaceholder": "यह एलीपे बिल में दिखाई देगा",
+  "iconUrl": "आइकन URL (वैकल्पिक)",
+  "iconUrlDescription": "फ्रंटएंड प्रदर्शन के लिए उपयोग किया जाता है",
+  "inputPlaceholder": "कृपया दर्ज करें",
+  "notifyUrl": "कस्टम सूचना डोमेन (वैकल्पिक)",
+  "notifyUrlDescription": "गेटवे सूचनाएं इस डोमेन पर भेजी जाएंगी",
+  "saveSuccess": "सहेजें सफल",
+  "showName": "प्रदर्शन नाम",
+  "showNameDescription": "फ्रंटएंड प्रदर्शन के लिए उपयोग किया जाता है"
+}

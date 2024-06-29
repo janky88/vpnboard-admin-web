@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Clave de comunicación",
+  "communicationKeyDescription": "La clave para la comunicación entre nodos para garantizar que los datos no sean interceptados por otros.",
+  "inputPlaceholder": "Por favor, introduzca",
+  "nodePullInterval": "Intervalo de extracción del nodo",
+  "nodePullIntervalDescription": "La frecuencia con la que el nodo recupera datos del panel. (en segundos)",
+  "nodePushInterval": "Intervalo de envío del nodo",
+  "nodePushIntervalDescription": "La frecuencia con la que el nodo envía datos al panel.",
+  "saveSuccess": "Guardado exitoso"
+}

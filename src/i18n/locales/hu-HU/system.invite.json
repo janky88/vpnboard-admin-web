@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Kizárólag az első vásárlásra vonatkozó jutalék",
+  "commissionFirstTimeOnlyDescription": "Amikor engedélyezve van, a jutalék csak az újonnan meghívott személy első fizetésén generálódik. Egyéni felhasználókat konfigurálhatsz a felhasználókezelésben.",
+  "enableForcedInvite": "Kényszerített meghívás engedélyezése",
+  "enableForcedInviteDescription": "Amikor engedélyezve van, csak meghívott felhasználók regisztrálhatnak.",
+  "inputPlaceholder": "Kérlek, add meg",
+  "inviteCommissionPercentage": "Meghívás jutalék százalék",
+  "inviteCommissionPercentageDescription": "Alapértelmezett globális jutalék elosztási arány, egyéni arányokat konfigurálhatsz a felhasználókezelésben.",
+  "saveSuccess": "Sikeres mentés"
+}

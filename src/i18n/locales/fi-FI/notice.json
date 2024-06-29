@@ -1,0 +1,28 @@
+{
+  "actions": "Toiminnot",
+  "announcementList": "Ilmoituslista",
+  "cancel": "Peruuta",
+  "confirm": "Vahvista",
+  "confirmDelete": "Haluatko varmasti poistaa?",
+  "content": "Sisältö",
+  "create": "Luoda",
+  "createAnnouncement": "Luo ilmoitus",
+  "createSuccess": "Luonti onnistui",
+  "delete": "Poista",
+  "deleteDescription": "Kun poistat, tietoja ei voi palauttaa. Jatka varovasti.",
+  "deleteSuccess": "Poisto onnistui",
+  "edit": "Muokkaa",
+  "editAnnouncement": "Muokkaa ilmoitusta",
+  "enable": "Ota käyttöön",
+  "form": {
+    "cancel": "Peruuta",
+    "confirm": "Vahvista",
+    "content": "Sisältö",
+    "contentPlaceholder": "Kirjoita ilmoituksen sisältö (tukee Markdownia)",
+    "title": "Otsikko",
+    "titlePlaceholder": "Ole hyvä ja kirjoita"
+  },
+  "title": "Otsikko",
+  "updateSuccess": "Päivitys onnistui",
+  "updatedAt": "Päivitetty"
+}

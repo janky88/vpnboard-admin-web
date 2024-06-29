@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Používá se k zobrazení, kde je logo potřeba.",
+  "logoPlaceholder": "Zadejte prosím URL LOGA, nekončete znakem '/'",
+  "saveSuccess": "Uložení úspěšné",
+  "siteDesc": "Popis stránky",
+  "siteDescDescription": "Používá se k zobrazení, kde je potřeba popis stránky.",
+  "siteDescPlaceholder": "Zadejte prosím popis stránky",
+  "siteName": "Název stránky",
+  "siteNameDescription": "Používá se k zobrazení, kde je potřeba název stránky.",
+  "siteNamePlaceholder": "Zadejte prosím název stránky",
+  "siteURL": "URL stránky",
+  "siteURLDescription": "Aktuální adresa webové stránky, bude použita například v e-mailech.",
+  "siteURLPlaceholder": "Zadejte prosím URL stránky, nekončete znakem '/'"
+}

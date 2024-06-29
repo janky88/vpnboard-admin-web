@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Șablon de email",
+  "emailTemplateDescription": "Puteți consulta documentația despre cum să personalizați șabloanele de email",
+  "inputPlaceholder": "Vă rugăm să introduceți",
+  "saveSuccess": "Salvare reușită",
+  "selectPlaceholder": "Vă rugăm să selectați",
+  "sendTestEmail": "Trimiteți email de test",
+  "sendTestEmailDescription": "Emailul va fi trimis la adresa de email a utilizatorului conectat în prezent",
+  "senderAddress": "Adresă expeditor",
+  "senderAddressDescription": "Adresa expeditorului furnizată de furnizorul de servicii de email",
+  "smtpAccount": "Cont SMTP",
+  "smtpAccountDescription": "Contul furnizat de furnizorul de servicii de email",
+  "smtpEncryptionMethod": "Metoda de criptare SMTP",
+  "smtpEncryptionMethodDescription": "Metoda de criptare pentru portul 465 este în general SSL, iar pentru portul 587 este în general TLS",
+  "smtpPassword": "Parolă SMTP",
+  "smtpPasswordDescription": "Parola furnizată de furnizorul de servicii de email",
+  "smtpServerAddress": "Adresă server SMTP",
+  "smtpServerAddressDescription": "Adresa serviciului furnizată de furnizorul de servicii de email",
+  "smtpServerPort": "Port server SMTP",
+  "smtpServerPortDescription": "Porturile comune sunt 25, 465, 587"
+}

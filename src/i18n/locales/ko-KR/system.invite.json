@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "첫 구매에 대해서만 커미션 지급",
+  "commissionFirstTimeOnlyDescription": "활성화된 경우, 커미션은 초대된 사람의 첫 결제에서만 생성됩니다. 사용자 관리에서 개별 사용자를 구성할 수 있습니다.",
+  "enableForcedInvite": "강제 초대 활성화",
+  "enableForcedInviteDescription": "활성화된 경우, 초대된 사용자만 등록할 수 있습니다.",
+  "inputPlaceholder": "입력해 주세요",
+  "inviteCommissionPercentage": "초대 커미션 비율",
+  "inviteCommissionPercentageDescription": "기본 글로벌 커미션 분배 비율로, 사용자 관리에서 개별 비율을 구성할 수 있습니다.",
+  "saveSuccess": "저장 성공"
+}

@@ -1,0 +1,11 @@
+{
+  "botToken": "โทเค็นบอท",
+  "botTokenDescription": "โปรดใส่โทเค็นที่ได้รับจาก Botfather",
+  "enableBotNotifications": "เปิดใช้งานการแจ้งเตือนจากบอท",
+  "enableBotNotificationsDescription": "เมื่อเปิดใช้งานแล้ว บอทจะส่งการแจ้งเตือนพื้นฐานถึงผู้ดูแลระบบและผู้ใช้ที่เชื่อมต่อกับเทเลแกรม",
+  "groupURL": "URL กลุ่ม",
+  "groupURLDescription": "หลังจากกรอกข้อมูลเสร็จ จะแสดงบนด้านผู้ใช้หรือใช้ตามที่ต้องการ",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "บันทึกสำเร็จ"
+}

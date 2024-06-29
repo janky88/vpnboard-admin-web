@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "입력해주세요",
+  "loginVerificationCode": "로그인 확인 코드",
+  "loginVerificationCodeDescription": "로그인을 위한 인간 확인",
+  "registrationVerificationCode": "등록 확인 코드",
+  "registrationVerificationCodeDescription": "등록을 위한 인간 확인",
+  "resetPasswordVerificationCode": "비밀번호 재설정 확인 코드",
+  "resetPasswordVerificationCodeDescription": "비밀번호 재설정을 위한 인간 확인",
+  "saveSuccess": "저장 성공",
+  "turnstileSecret": "턴스타일 비밀",
+  "turnstileSecretDescription": "Cloudflare에서 제공하는 턴스타일 비밀",
+  "turnstileSiteKey": "턴스타일 사이트 키",
+  "turnstileSiteKeyDescription": "Cloudflare에서 제공하는 턴스타일 사이트 키"
+}

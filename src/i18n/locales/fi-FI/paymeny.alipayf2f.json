@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay-sovelluksen tunniste",
+  "alipayPrivateKey": "Alipayn yksityinen avain",
+  "alipayPublicKey": "Alipayn julkinen avain",
+  "enable": "Ota käyttöön",
+  "enableDescription": "Ota tämä maksutapa käyttöön",
+  "feePercent": "Prosenttimaksu (valinnainen)",
+  "feePercentDescription": "Lisää maksu tilauksen määrän päälle",
+  "fixedFee": "Kiinteä maksu (valinnainen)",
+  "fixedFeeDescription": "Lisää kiinteä maksu tilauksen määrän päälle",
+  "goodsName": "Mukautettu tuotenimi",
+  "goodsNamePlaceholder": "Tämä näkyy Alipay-laskussa",
+  "iconUrl": "Kuvakkeen URL (valinnainen)",
+  "iconUrlDescription": "Käytetään etuosan näyttämiseen",
+  "inputPlaceholder": "Syötä",
+  "notifyUrl": "Mukautettu ilmoitusverkkotunnus (valinnainen)",
+  "notifyUrlDescription": "Portin ilmoitukset lähetetään tähän verkkotunnukseen",
+  "saveSuccess": "Tallennus onnistui",
+  "showName": "Näyttönimi",
+  "showNameDescription": "Käytetään etuosan näyttämiseen"
+}

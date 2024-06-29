@@ -1,0 +1,28 @@
+{
+  "actions": "操作",
+  "announcementList": "公告列表",
+  "cancel": "取消",
+  "confirm": "確認",
+  "confirmDelete": "您確定要刪除嗎？",
+  "content": "內容",
+  "create": "創建",
+  "createAnnouncement": "創建公告",
+  "createSuccess": "創建成功",
+  "delete": "刪除",
+  "deleteDescription": "刪除後，數據將無法恢復。請謹慎操作。",
+  "deleteSuccess": "刪除成功",
+  "edit": "編輯",
+  "editAnnouncement": "編輯公告",
+  "enable": "啟用",
+  "form": {
+    "cancel": "取消",
+    "confirm": "確認",
+    "content": "內容",
+    "contentPlaceholder": "請輸入公告內容（支持 Markdown）",
+    "title": "標題",
+    "titlePlaceholder": "請輸入"
+  },
+  "title": "標題",
+  "updateSuccess": "更新成功",
+  "updatedAt": "更新時間"
+}

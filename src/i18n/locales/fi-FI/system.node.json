@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Viestintäavain",
+  "communicationKeyDescription": "Avain solmujen väliseen viestintään varmistaakseen, ettei tietoja onnistuta kaappaamaan.",
+  "inputPlaceholder": "Syötäthän",
+  "nodePullInterval": "Solmun noutoväli",
+  "nodePullIntervalDescription": "Aika, jonka välein solmu hakee tietoja paneelista. (sekunneissa)",
+  "nodePushInterval": "Solmun työntöväli",
+  "nodePushIntervalDescription": "Aika, jonka välein solmu lähettää tietoja paneeliin.",
+  "saveSuccess": "Tallennus onnistui"
+}

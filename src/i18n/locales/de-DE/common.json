@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Stapel löschen",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "confirmDelete": "Möchten Sie diese Elemente wirklich löschen?",
+    "deleteDescription": "Einmal gelöscht, können die Daten nicht wiederhergestellt werden. Bitte fahren Sie vorsichtig fort.",
+    "goToFirstPage": "Zur ersten Seite gehen",
+    "goToLastPage": "Zur letzten Seite gehen",
+    "goToNextPage": "Zur nächsten Seite gehen",
+    "goToPreviousPage": "Zur vorherigen Seite gehen",
+    "noResults": "Keine Ergebnisse.",
+    "of": "von",
+    "page": "Seite",
+    "selectAll": "Alles auswählen",
+    "selectRow": "Zeile auswählen",
+    "selectedItems": "Ausgewählte Elemente",
+    "totalItems": "Gesamtanzahl"
+  },
+  "request.error": {
+    "40000": "Client Error",
+    "40001": "Client Validation Failed",
+    "41001": "Account Authentication Failed",
+    "41010": "Dieses Konto existiert nicht",
+    "41011": "Konto wurde gesperrt",
+    "41012": "Falsches Passwort",
+    "50000": "Serverfehler",
+    "default": "Unbekannter Fehler",
+    "no.manager": "Dieser Kontomanager ist illegal eingeloggt"
+  }
+}

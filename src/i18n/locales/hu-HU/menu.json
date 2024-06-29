@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Hirdetéskezelés",
+  "couponManagement": "Kuponkezelés",
+  "dashboard": "Irányítópult",
+  "documentManagement": "Dokumentumkezelés",
+  "errorNoManager": "Kérés hiba: Nincs menedzser",
+  "finance": "Pénzügy",
+  "logout": "Kijelentkezés",
+  "nodeManagement": "Node-kezelés",
+  "orderManagement": "Rendeléskezelés",
+  "paymentConfig": "Fizetési beállítások",
+  "productManagement": "Termékkezelés",
+  "server": "Szerver",
+  "settings": "Beállítások",
+  "systemConfig": "Rendszerbeállítások",
+  "ticketManagement": "Jegykezelés",
+  "toggleNavigationMenu": "Navigációs menü váltása",
+  "toggleUserMenu": "Felhasználói menü váltása",
+  "user": "Felhasználó",
+  "userManagement": "Felhasználókezelés"
+}

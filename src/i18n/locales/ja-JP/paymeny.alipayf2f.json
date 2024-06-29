@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "AlipayアプリID",
+  "alipayPrivateKey": "Alipayプライベートキー",
+  "alipayPublicKey": "Alipayパブリックキー",
+  "enable": "有効にする",
+  "enableDescription": "この支払い方法を有効にする",
+  "feePercent": "手数料のパーセンテージ（オプション）",
+  "feePercentDescription": "注文金額に手数料を追加します",
+  "fixedFee": "固定手数料（オプション）",
+  "fixedFeeDescription": "注文金額に固定手数料を追加します",
+  "goodsName": "カスタム製品名",
+  "goodsNamePlaceholder": "Alipayの請求書に表示されます",
+  "iconUrl": "アイコンURL（オプション）",
+  "iconUrlDescription": "フロントエンド表示用",
+  "inputPlaceholder": "入力してください",
+  "notifyUrl": "カスタム通知ドメイン（オプション）",
+  "notifyUrlDescription": "ゲートウェイ通知はこのドメインに送信されます",
+  "saveSuccess": "保存が成功しました",
+  "showName": "表示名",
+  "showNameDescription": "フロントエンド表示用"
+}

@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Ankündigungsverwaltung",
+  "couponManagement": "Gutscheinverwaltung",
+  "dashboard": "Dashboard",
+  "documentManagement": "Dokumentenverwaltung",
+  "errorNoManager": "Anforderungsfehler: Kein Manager",
+  "finance": "Finanzen",
+  "logout": "Abmelden",
+  "nodeManagement": "Knotenverwaltung",
+  "orderManagement": "Bestellverwaltung",
+  "paymentConfig": "Zahlungskonfiguration",
+  "productManagement": "Produktverwaltung",
+  "server": "Server",
+  "settings": "Einstellungen",
+  "systemConfig": "Systemkonfiguration",
+  "ticketManagement": "Ticketverwaltung",
+  "toggleNavigationMenu": "Navigationsmenü umschalten",
+  "toggleUserMenu": "Benutzermenü umschalten",
+  "user": "Benutzer",
+  "userManagement": "Benutzerverwaltung"
+}

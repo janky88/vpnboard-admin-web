@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "Danh sách Hậu tố Email",
+  "emailSuffixWhitelistDescription": "Khi được kích hoạt, chỉ các email có hậu tố trong danh sách sẽ được phép đăng ký.",
+  "emailVerification": "Xác minh Email",
+  "emailVerificationDescription": "Khi được kích hoạt, người dùng sẽ phải xác minh email của họ.",
+  "ipRegistrationLimit": "Giới Hạn Đăng ký IP",
+  "ipRegistrationLimitDescription": "Khi được kích hoạt, các IP đáp ứng yêu cầu quy định sẽ bị hạn chế đăng ký. Lưu ý rằng việc xác định IP có thể gây ra vấn đề do CDN hoặc proxy trước.",
+  "penaltyTime": "Thời Gian Phạt (phút)",
+  "penaltyTimeDescription": "Người dùng phải chờ cho thời gian phạt trôi qua trước khi họ có thể đăng ký lại.",
+  "registrationLimitCount": "Số Lần Đăng ký Giới Hạn",
+  "registrationLimitCountDescription": "Kích hoạt phạt sau khi đạt đến giới hạn đăng ký.",
+  "saveSuccess": "Lưu thành công",
+  "stopNewUserRegistration": "Dừng Đăng ký Người Dùng Mới",
+  "stopNewUserRegistrationDescription": "Khi được kích hoạt, không ai sẽ có thể đăng ký.",
+  "trialRegistration": "Đăng ký Thử nghiệm",
+  "trialRegistrationDescription": "Kích hoạt đăng ký thử nghiệm. Vui lòng chỉnh sửa gói thử nghiệm trong quản lý sản phẩm trước.",
+  "whitelistSuffixes": "Danh sách Hậu tố Được Phép",
+  "whitelistSuffixesDescription": "Được sử dụng cho xác minh email đăng ký, mỗi dòng một hậu tố.",
+  "whitelistSuffixesPlaceholder": "Vui lòng nhập các hậu tố email, mỗi dòng một hậu tố."
+}

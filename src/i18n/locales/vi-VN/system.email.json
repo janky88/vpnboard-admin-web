@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Mẫu Email",
+  "emailTemplateDescription": "Bạn có thể kiểm tra tài liệu hướng dẫn về cách tùy chỉnh mẫu email",
+  "inputPlaceholder": "Vui lòng nhập",
+  "saveSuccess": "Lưu thành công",
+  "selectPlaceholder": "Vui lòng chọn",
+  "sendTestEmail": "Gửi Email Thử",
+  "sendTestEmailDescription": "Email sẽ được gửi đến địa chỉ email của người dùng đang đăng nhập hiện tại",
+  "senderAddress": "Địa chỉ Người gửi",
+  "senderAddressDescription": "Địa chỉ người gửi được cung cấp bởi nhà cung cấp dịch vụ email",
+  "smtpAccount": "Tài khoản SMTP",
+  "smtpAccountDescription": "Tài khoản được cung cấp bởi nhà cung cấp dịch vụ email",
+  "smtpEncryptionMethod": "Phương pháp Mã hóa SMTP",
+  "smtpEncryptionMethodDescription": "Phương pháp mã hóa cho cổng 465 thường là SSL, và cho cổng 587 thường là TLS",
+  "smtpPassword": "Mật khẩu SMTP",
+  "smtpPasswordDescription": "Mật khẩu được cung cấp bởi nhà cung cấp dịch vụ email",
+  "smtpServerAddress": "Địa chỉ Máy chủ SMTP",
+  "smtpServerAddressDescription": "Địa chỉ dịch vụ được cung cấp bởi nhà cung cấp dịch vụ email",
+  "smtpServerPort": "Cổng Máy chủ SMTP",
+  "smtpServerPortDescription": "Các cổng phổ biến là 25, 465, 587"
+}

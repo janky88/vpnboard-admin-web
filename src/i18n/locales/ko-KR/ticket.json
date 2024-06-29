@@ -1,0 +1,18 @@
+{
+  "actions": "동작",
+  "cancel": "취소",
+  "close": "닫기",
+  "closeSuccess": "닫기 성공",
+  "closeWarning": "한 번 닫히면 티켓을 조작할 수 없습니다. 주의해서 진행하십시오.",
+  "closed": "닫힘",
+  "confirm": "확인",
+  "confirmClose": "닫으시겠습니까?",
+  "createdAt": "생성 날짜",
+  "inputPlaceholder": "여기에 궁금한 사항을 입력하고 빠르게 답변해 드리겠습니다.",
+  "open": "열기",
+  "reply": "답장",
+  "send": "보내기",
+  "ticketList": "티켓 목록",
+  "title": "제목",
+  "updatedAt": "업데이트 날짜"
+}

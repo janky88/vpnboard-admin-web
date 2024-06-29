@@ -1,0 +1,23 @@
+{
+  "add": "Añadir",
+  "app": "APP",
+  "appDescription": "Configura la dirección de descarga e importa las reglas de la APP. Recuerda guardar después de la modificación.",
+  "appDownloadURL": "URL de Descarga de la APP",
+  "appIcon": "Ícono de la APP",
+  "appName": "Nombre de la APP",
+  "delete": "Eliminar",
+  "reset": "Restablecer",
+  "save": "Guardar",
+  "saveSuccess": "Guardado exitoso",
+  "singleSubscriptionMode": "Modo de Suscripción Única",
+  "singleSubscriptionModeDescription": "Habilita el modo de suscripción única. Una vez habilitado, no se puede deshabilitar. Todos los usuarios conservarán solo el primer paquete válido, y los demás paquetes se convertirán en saldo.",
+  "subscriptionPath": "Ruta de Suscripción",
+  "subscriptionPathDescription": "Utilizado para la suscripción.",
+  "subscriptionPathPlaceholder": "Por favor, introduce",
+  "subscriptionProtocol": "Protocolo de Suscripción",
+  "subscriptionURL": "URL de Suscripción",
+  "subscriptionURLDescription": "Utilizado para la suscripción. Deja en blanco para usar la URL del sitio. Si se necesitan múltiples URL de suscripción, por favor introduce una por línea.",
+  "subscriptionURLPlaceholder": "Por favor, introduce la URL de suscripción, no termines con '/'. Una por línea para múltiples dominios.",
+  "wildcardResolution": "Resolución de Comodín",
+  "wildcardResolutionDescription": "Utilizado para la suscripción."
+}

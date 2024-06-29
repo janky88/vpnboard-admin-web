@@ -1,0 +1,28 @@
+{
+  "actions": "작업",
+  "announcementList": "공지 목록",
+  "cancel": "취소",
+  "confirm": "확인",
+  "confirmDelete": "삭제하시겠습니까?",
+  "content": "콘텐츠",
+  "create": "생성",
+  "createAnnouncement": "공지 생성",
+  "createSuccess": "생성 성공",
+  "delete": "삭제",
+  "deleteDescription": "한 번 삭제하면 데이터를 복구할 수 없습니다. 주의하여 진행하십시오.",
+  "deleteSuccess": "삭제 성공",
+  "edit": "편집",
+  "editAnnouncement": "공지 편집",
+  "enable": "활성화",
+  "form": {
+    "cancel": "취소",
+    "confirm": "확인",
+    "content": "콘텐츠",
+    "contentPlaceholder": "공지 내용을 입력해주세요 (마크다운 지원)",
+    "title": "제목",
+    "titlePlaceholder": "입력해주세요"
+  },
+  "title": "제목",
+  "updateSuccess": "업데이트 성공",
+  "updatedAt": "업데이트 날짜"
+}

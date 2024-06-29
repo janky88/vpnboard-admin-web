@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Comision doar la prima achiziție",
+  "commissionFirstTimeOnlyDescription": "Odată activat, comisionul va fi generat doar la prima plată a persoanei invitate. Puteți configura utilizatorii individuali în gestionarea utilizatorilor.",
+  "enableForcedInvite": "Activare Invitație Forțată",
+  "enableForcedInviteDescription": "Odată activat, doar utilizatorii invitați pot să se înregistreze.",
+  "inputPlaceholder": "Vă rugăm să introduceți",
+  "inviteCommissionPercentage": "Procent Comision Invitație",
+  "inviteCommissionPercentageDescription": "Raportul implicit global de distribuție a comisionului, puteți configura rapoartele individuale în gestionarea utilizatorilor.",
+  "saveSuccess": "Salvare reușită"
+}

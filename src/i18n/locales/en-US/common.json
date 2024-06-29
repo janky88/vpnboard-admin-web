@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Batch delete",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "confirmDelete": "Are you sure you want to delete these items?",
+    "deleteDescription": "Once deleted, data cannot be recovered. Please proceed with caution.",
+    "goToFirstPage": "Go to first page",
+    "goToLastPage": "Go to last page",
+    "goToNextPage": "Go to next page",
+    "goToPreviousPage": "Go to previous page",
+    "noResults": "No results.",
+    "of": "of",
+    "page": "Page",
+    "selectAll": "Select all",
+    "selectRow": "Select row",
+    "selectedItems": "Selected items",
+    "totalItems": "Total items"
+  },
+  "request.error": {
+    "40000": "Client Error",
+    "40001": "Client Validation Failed",
+    "41001": "Account Authentication Failed",
+    "41010": "This Account Does Not Exist",
+    "41011": "Account has been Banned",
+    "41012": "Incorrect Password",
+    "50000": "Server Error",
+    "default": "Unknown Error",
+    "no.manager": "This account manager is logged in illegally"
+  }
+}

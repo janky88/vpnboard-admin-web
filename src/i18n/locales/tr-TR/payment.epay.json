@@ -1,0 +1,19 @@
+{
+  "enable": "Etkinleştir",
+  "enableDescription": "Bu ödeme yöntemini etkinleştir",
+  "feePercent": "Yüzde Ücreti (isteğe bağlı)",
+  "feePercentDescription": "Sipariş tutarına ek ücret ekleyin",
+  "fixedFee": "Sabit Ücret (isteğe bağlı)",
+  "fixedFeeDescription": "Sipariş tutarına sabit bir ücret ekleyin",
+  "iconUrl": "Simge URL'si (isteğe bağlı)",
+  "iconUrlDescription": "Ön uç görüntülemede kullanılır",
+  "inputPlaceholder": "Lütfen girin",
+  "key": "ANAHTAR",
+  "notifyUrl": "Özel Bildirim Alanı (isteğe bağlı)",
+  "notifyUrlDescription": "Ağ geçidi bildirimleri bu alan adına gönderilecektir",
+  "pid": "PID",
+  "saveSuccess": "Başarıyla Kaydedildi",
+  "showName": "Görüntüleme Adı",
+  "showNameDescription": "Ön uç görüntülemede kullanılır",
+  "url": "URL"
+}

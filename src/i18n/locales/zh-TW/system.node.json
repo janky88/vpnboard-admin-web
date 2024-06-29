@@ -1,0 +1,10 @@
+{
+  "communicationKey": "通訊金鑰",
+  "communicationKeyDescription": "節點通訊的金鑰，以確保數據不會被他人截取。",
+  "inputPlaceholder": "請輸入",
+  "nodePullInterval": "節點拉取間隔",
+  "nodePullIntervalDescription": "節點從面板檢索數據的頻率。（以秒為單位）",
+  "nodePushInterval": "節點推送間隔",
+  "nodePushIntervalDescription": "節點將數據推送到面板的頻率。",
+  "saveSuccess": "保存成功"
+}

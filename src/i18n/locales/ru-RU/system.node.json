@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Ключ связи",
+  "communicationKeyDescription": "Ключ для обеспечения безопасности передачи данных между узлами.",
+  "inputPlaceholder": "Пожалуйста, введите",
+  "nodePullInterval": "Интервал запросов узла",
+  "nodePullIntervalDescription": "Частота, с которой узел извлекает данные с панели. (в секундах)",
+  "nodePushInterval": "Интервал отправки узла",
+  "nodePushIntervalDescription": "Частота, с которой узел отправляет данные на панель.",
+  "saveSuccess": "Сохранение успешно"
+}

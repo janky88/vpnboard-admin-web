@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Used to display where the logo is needed.",
+  "logoPlaceholder": "Please enter the LOGO URL, do not end with '/'",
+  "saveSuccess": "Save successful",
+  "siteDesc": "Site Description",
+  "siteDescDescription": "Used to display where the site description is needed.",
+  "siteDescPlaceholder": "Please enter the site description",
+  "siteName": "Site Name",
+  "siteNameDescription": "Used to display where the site name is needed.",
+  "siteNamePlaceholder": "Please enter the site name",
+  "siteURL": "Site URL",
+  "siteURLDescription": "Current website URL, will be used in places like emails.",
+  "siteURLPlaceholder": "Please enter the site URL, do not end with '/'"
+}

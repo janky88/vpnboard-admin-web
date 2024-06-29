@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Pouze provize z prvního nákupu",
+  "commissionFirstTimeOnlyDescription": "Po aktivaci se provize vygeneruje pouze z první platby pozvané osoby. Můžete konfigurovat jednotlivé uživatele v uživatelském řízení.",
+  "enableForcedInvite": "Povolit nucené pozvání",
+  "enableForcedInviteDescription": "Po aktivaci se mohou registrovat pouze pozvaní uživatelé.",
+  "inputPlaceholder": "Prosím zadejte",
+  "inviteCommissionPercentage": "Procento provize za pozvání",
+  "inviteCommissionPercentageDescription": "Výchozí globální poměr distribuce provize, můžete konfigurovat individuální poměry v uživatelském řízení.",
+  "saveSuccess": "Uložení úspěšné"
+}

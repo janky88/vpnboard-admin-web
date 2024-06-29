@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "이메일 템플릿",
+  "emailTemplateDescription": "이메일 템플릿을 사용자 정의하는 방법에 대한 문서를 확인할 수 있습니다",
+  "inputPlaceholder": "입력해주세요",
+  "saveSuccess": "저장 성공",
+  "selectPlaceholder": "선택해주세요",
+  "sendTestEmail": "테스트 이메일 보내기",
+  "sendTestEmailDescription": "이메일이 현재 로그인한 사용자의 이메일로 전송됩니다",
+  "senderAddress": "발신자 주소",
+  "senderAddressDescription": "이메일 서비스 제공업체가 제공한 발신자 주소",
+  "smtpAccount": "SMTP 계정",
+  "smtpAccountDescription": "이메일 서비스 제공업체가 제공한 계정",
+  "smtpEncryptionMethod": "SMTP 암호화 방법",
+  "smtpEncryptionMethodDescription": "포트 465의 경우 일반적으로 SSL이고, 포트 587의 경우 일반적으로 TLS입니다",
+  "smtpPassword": "SMTP 비밀번호",
+  "smtpPasswordDescription": "이메일 서비스 제공업체가 제공한 비밀번호",
+  "smtpServerAddress": "SMTP 서버 주소",
+  "smtpServerAddressDescription": "이메일 서비스 제공업체가 제공한 서비스 주소",
+  "smtpServerPort": "SMTP 서버 포트",
+  "smtpServerPortDescription": "일반적으로 사용되는 포트는 25, 465, 587입니다"
+}

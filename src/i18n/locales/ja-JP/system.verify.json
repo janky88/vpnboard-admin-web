@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "入力してください",
+  "loginVerificationCode": "ログイン検証コード",
+  "loginVerificationCodeDescription": "ログインのための人間検証",
+  "registrationVerificationCode": "登録検証コード",
+  "registrationVerificationCodeDescription": "登録のための人間検証",
+  "resetPasswordVerificationCode": "パスワードリセット検証コード",
+  "resetPasswordVerificationCodeDescription": "パスワードリセットのための人間検証",
+  "saveSuccess": "保存が成功しました",
+  "turnstileSecret": "ターンスタイルシークレット",
+  "turnstileSecretDescription": "Cloudflareが提供するターンスタイルシークレット",
+  "turnstileSiteKey": "ターンスタイルサイトキー",
+  "turnstileSiteKeyDescription": "Cloudflareが提供するターンスタイルサイトキー"
+}

@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "Email",
+    "invite": "Invite",
+    "node": "Node",
+    "register": "Register",
+    "site": "Site",
+    "subscription": "Subscription",
+    "telegram": "Telegram",
+    "tos": "Terms of Service",
+    "verify": "Verify"
+  }
+}

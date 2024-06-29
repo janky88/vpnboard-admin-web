@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Ilmoituksen hallinta",
+  "couponManagement": "Kuponginhallinta",
+  "dashboard": "Hallintapaneeli",
+  "documentManagement": "Asiakirjojen hallinta",
+  "errorNoManager": "Virhe pyynnössä: Ei manageria",
+  "finance": "Rahoitus",
+  "logout": "Kirjaudu ulos",
+  "nodeManagement": "Solmun hallinta",
+  "orderManagement": "Tilauksen hallinta",
+  "paymentConfig": "Maksuasetukset",
+  "productManagement": "Tuotteen hallinta",
+  "server": "Palvelin",
+  "settings": "Asetukset",
+  "systemConfig": "Järjestelmän asetukset",
+  "ticketManagement": "Lippujen hallinta",
+  "toggleNavigationMenu": "Vaihda navigointivalikkoa",
+  "toggleUserMenu": "Vaihda käyttäjävalikkoa",
+  "user": "Käyttäjä",
+  "userManagement": "Käyttäjähallinta"
+}

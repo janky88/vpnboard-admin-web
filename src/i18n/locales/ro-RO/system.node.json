@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Cheie de comunicare",
+  "communicationKeyDescription": "Cheia pentru comunicarea nodului pentru a asigura că datele nu sunt interceptate de alții.",
+  "inputPlaceholder": "Vă rugăm să introduceți",
+  "nodePullInterval": "Interval de extragere a nodului",
+  "nodePullIntervalDescription": "Frecvența la care nodul preia date de la panou. (în secunde)",
+  "nodePushInterval": "Interval de împingere a nodului",
+  "nodePushIntervalDescription": "Frecvența la care nodul trimite date către panou.",
+  "saveSuccess": "Salvare reușită"
+}

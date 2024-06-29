@@ -1,0 +1,18 @@
+{
+  "actions": "Akce",
+  "cancel": "Zrušit",
+  "close": "Zavřít",
+  "closeSuccess": "Úspěšně uzavřeno",
+  "closeWarning": "Po uzavření nelze s lístkem manipulovat. Postupujte prosím opatrně.",
+  "closed": "Uzavřeno",
+  "confirm": "Potvrdit",
+  "confirmClose": "Opravdu chcete zavřít?",
+  "createdAt": "Vytvořeno",
+  "inputPlaceholder": "Zadejte svou otázku zde a my vám co nejdříve odpovíme.",
+  "open": "Otevřít",
+  "reply": "Odpovědět",
+  "send": "Odeslat",
+  "ticketList": "Seznam lístků",
+  "title": "Název",
+  "updatedAt": "Aktualizováno"
+}

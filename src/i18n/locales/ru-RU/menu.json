@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Управление объявлениями",
+  "couponManagement": "Управление купонами",
+  "dashboard": "Панель управления",
+  "documentManagement": "Управление документами",
+  "errorNoManager": "Ошибка запроса: отсутствует менеджер",
+  "finance": "Финансы",
+  "logout": "Выйти",
+  "nodeManagement": "Управление узлами",
+  "orderManagement": "Управление заказами",
+  "paymentConfig": "Настройка оплаты",
+  "productManagement": "Управление продуктами",
+  "server": "Сервер",
+  "settings": "Настройки",
+  "systemConfig": "Настройка системы",
+  "ticketManagement": "Управление заявками",
+  "toggleNavigationMenu": "Переключить меню навигации",
+  "toggleUserMenu": "Переключить меню пользователя",
+  "user": "Пользователь",
+  "userManagement": "Управление пользователями"
+}

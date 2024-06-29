@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Vui lòng nhập",
+  "loginVerificationCode": "Mã Xác Minh Đăng Nhập",
+  "loginVerificationCodeDescription": "Xác minh con người để đăng nhập",
+  "registrationVerificationCode": "Mã Xác Minh Đăng Ký",
+  "registrationVerificationCodeDescription": "Xác minh con người để đăng ký",
+  "resetPasswordVerificationCode": "Mã Xác Minh Đặt Lại Mật Khẩu",
+  "resetPasswordVerificationCodeDescription": "Xác minh con người để đặt lại mật khẩu",
+  "saveSuccess": "Lưu thành công",
+  "turnstileSecret": "Mã Bí Mật Turnstile",
+  "turnstileSecretDescription": "Mã Bí Mật Turnstile do Cloudflare cung cấp",
+  "turnstileSiteKey": "Khóa Trang Turnstile",
+  "turnstileSiteKeyDescription": "Khóa Trang Turnstile do Cloudflare cung cấp"
+}

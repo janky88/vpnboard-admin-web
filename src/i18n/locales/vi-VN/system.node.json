@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Khóa Giao tiếp",
+  "communicationKeyDescription": "Khóa để giao tiếp giữa các nút để đảm bảo dữ liệu không bị người khác chặn lại.",
+  "inputPlaceholder": "Vui lòng nhập",
+  "nodePullInterval": "Khoảng thời gian Nút kéo",
+  "nodePullIntervalDescription": "Tần suất mà nút lấy dữ liệu từ bảng điều khiển. (theo giây)",
+  "nodePushInterval": "Khoảng thời gian Nút đẩy",
+  "nodePushIntervalDescription": "Tần suất mà nút đẩy dữ liệu đến bảng điều khiển.",
+  "saveSuccess": "Lưu thành công"
+}

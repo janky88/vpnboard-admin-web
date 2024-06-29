@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Будь ласка, введіть",
+  "loginVerificationCode": "Код перевірки входу",
+  "loginVerificationCodeDescription": "Перевірка людини для входу",
+  "registrationVerificationCode": "Код перевірки реєстрації",
+  "registrationVerificationCodeDescription": "Перевірка людини для реєстрації",
+  "resetPasswordVerificationCode": "Код перевірки скидання пароля",
+  "resetPasswordVerificationCodeDescription": "Перевірка людини для скидання пароля",
+  "saveSuccess": "Успішно збережено",
+  "turnstileSecret": "Секрет обертової кілочки",
+  "turnstileSecretDescription": "Секрет обертової кілочки, наданий Cloudflare",
+  "turnstileSiteKey": "Ключ сайту обертової кілочки",
+  "turnstileSiteKeyDescription": "Ключ сайту обертової кілочки, наданий Cloudflare"
+}

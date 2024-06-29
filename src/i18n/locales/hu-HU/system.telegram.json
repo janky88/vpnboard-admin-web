@@ -1,0 +1,11 @@
+{
+  "botToken": "Bot Token",
+  "botTokenDescription": "Kérjük, add meg a Botfather által szolgáltatott token-t.",
+  "enableBotNotifications": "Bot Értesítések Engedélyezése",
+  "enableBotNotificationsDescription": "Amint engedélyezve van, a bot alapvető értesítéseket küld az adminisztrátoroknak és a Telegrammal összekapcsolt felhasználóknak.",
+  "groupURL": "Csoport URL",
+  "groupURLDescription": "Miután kitöltötted, megjelenik a felhasználói oldalon vagy ott lesz használva, ahol szükséges.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Sikeres mentés"
+}

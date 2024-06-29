@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay ID Aplikace",
+  "alipayPrivateKey": "Alipay Soukromý Klíč",
+  "alipayPublicKey": "Alipay Veřejný Klíč",
+  "enable": "Povolit",
+  "enableDescription": "Povolit tento platební způsob",
+  "feePercent": "Procentuální Poplatek (volitelný)",
+  "feePercentDescription": "Přidejte poplatek na vrchol částky objednávky",
+  "fixedFee": "Fixní Poplatek (volitelný)",
+  "fixedFeeDescription": "Přidejte fixní poplatek na vrchol částky objednávky",
+  "goodsName": "Vlastní Název Produktu",
+  "goodsNamePlaceholder": "Toto se objeví v Alipay účtu",
+  "iconUrl": "URL Ikony (volitelný)",
+  "iconUrlDescription": "Použito pro zobrazení na frontendu",
+  "inputPlaceholder": "Prosím zadejte",
+  "notifyUrl": "Vlastní Doména Pro Oznámení (volitelná)",
+  "notifyUrlDescription": "Oznámení brány budou odeslána na tuto doménu",
+  "saveSuccess": "Uložení Úspěšné",
+  "showName": "Zobrazit Název",
+  "showNameDescription": "Použito pro zobrazení na frontendu"
+}

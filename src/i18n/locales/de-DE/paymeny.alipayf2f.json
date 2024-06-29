@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay-App-ID",
+  "alipayPrivateKey": "Alipay-Privater Schlüssel",
+  "alipayPublicKey": "Alipay-Öffentlicher Schlüssel",
+  "enable": "Aktivieren",
+  "enableDescription": "Aktivieren Sie diese Zahlungsmethode",
+  "feePercent": "Prozentuale Gebühr (optional)",
+  "feePercentDescription": "Fügen Sie eine Gebühr zum Bestellbetrag hinzu",
+  "fixedFee": "Feste Gebühr (optional)",
+  "fixedFeeDescription": "Fügen Sie eine feste Gebühr zum Bestellbetrag hinzu",
+  "goodsName": "Benutzerdefinierter Produktname",
+  "goodsNamePlaceholder": "Dieser wird auf der Alipay-Rechnung angezeigt",
+  "iconUrl": "Icon-URL (optional)",
+  "iconUrlDescription": "Wird für die Anzeige im Frontend verwendet",
+  "inputPlaceholder": "Bitte eingeben",
+  "notifyUrl": "Benutzerdefinierte Benachrichtigungsdomäne (optional)",
+  "notifyUrlDescription": "Gateway-Benachrichtigungen werden an diese Domäne gesendet",
+  "saveSuccess": "Speichern erfolgreich",
+  "showName": "Anzeigename",
+  "showNameDescription": "Wird für die Anzeige im Frontend verwendet"
+}

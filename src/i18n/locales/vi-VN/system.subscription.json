@@ -1,0 +1,23 @@
+{
+  "add": "Thêm",
+  "app": "Ứng dụng",
+  "appDescription": "Cấu hình địa chỉ tải xuống và quy tắc nhập của Ứng dụng. Nhớ lưu sau khi chỉnh sửa.",
+  "appDownloadURL": "Địa chỉ Tải Ứng dụng",
+  "appIcon": "Biểu tượng Ứng dụng",
+  "appName": "Tên Ứng dụng",
+  "delete": "Xóa",
+  "reset": "Đặt lại",
+  "save": "Lưu",
+  "saveSuccess": "Lưu thành công",
+  "singleSubscriptionMode": "Chế Độ Đăng Ký Đơn",
+  "singleSubscriptionModeDescription": "Bật chế độ đăng ký đơn. Khi đã bật, không thể tắt. Tất cả người dùng sẽ giữ lại chỉ gói đầu tiên hợp lệ, và các gói khác sẽ được chuyển đổi thành số dư.",
+  "subscriptionPath": "Đường Dẫn Đăng Ký",
+  "subscriptionPathDescription": "Được sử dụng cho việc đăng ký.",
+  "subscriptionPathPlaceholder": "Vui lòng nhập",
+  "subscriptionProtocol": "Giao Thức Đăng Ký",
+  "subscriptionURL": "Địa chỉ URL Đăng Ký",
+  "subscriptionURLDescription": "Được sử dụng cho việc đăng ký. Để trống để sử dụng URL của trang web. Nếu cần nhiều địa chỉ URL đăng ký, vui lòng nhập mỗi địa chỉ trên một dòng.",
+  "subscriptionURLPlaceholder": "Vui lòng nhập địa chỉ URL đăng ký, không kết thúc bằng '/'. Mỗi dòng cho mỗi miền.",
+  "wildcardResolution": "Giải Quyết Wildcard",
+  "wildcardResolutionDescription": "Được sử dụng cho việc đăng ký."
+}

@@ -1,0 +1,28 @@
+{
+  "actions": "Aktionen",
+  "cancel": "Abbrechen",
+  "category": "Kategorie",
+  "confirm": "Bestätigen",
+  "confirmDelete": "Sind Sie sicher, dass Sie löschen möchten?",
+  "create": "Erstellen",
+  "createKnowledge": "Wissen erstellen",
+  "createSuccess": "Erstellen erfolgreich",
+  "delete": "Löschen",
+  "deleteDescription": "Einmal gelöscht, können Daten nicht wiederhergestellt werden. Bitte gehen Sie vorsichtig vor.",
+  "deleteSuccess": "Löschen erfolgreich",
+  "edit": "Bearbeiten",
+  "editKnowledge": "Wissen bearbeiten",
+  "form": {
+    "cancel": "Abbrechen",
+    "category": "Kategorie",
+    "confirm": "Bestätigen",
+    "content": "Inhalt",
+    "title": "Titel",
+    "titlePlaceholder": "Bitte eingeben"
+  },
+  "knowledgeList": "Wissensliste",
+  "show": "Anzeigen",
+  "title": "Titel",
+  "updateSuccess": "Aktualisierung erfolgreich",
+  "updatedAt": "Aktualisiert am"
+}

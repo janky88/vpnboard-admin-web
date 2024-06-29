@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Ідентифікатор додатку Alipay",
+  "alipayPrivateKey": "Приватний ключ Alipay",
+  "alipayPublicKey": "Публічний ключ Alipay",
+  "enable": "Увімкнути",
+  "enableDescription": "Увімкнути цей спосіб оплати",
+  "feePercent": "Відсоткова комісія (необов'язково)",
+  "feePercentDescription": "Додати комісію до суми замовлення",
+  "fixedFee": "Фіксована комісія (необов'язково)",
+  "fixedFeeDescription": "Додати фіксовану комісію до суми замовлення",
+  "goodsName": "Назва власного товару",
+  "goodsNamePlaceholder": "Це буде відображатися в рахунку Alipay",
+  "iconUrl": "URL значка (необов'язково)",
+  "iconUrlDescription": "Використовується для відображення на фронтенді",
+  "inputPlaceholder": "Будь ласка, введіть",
+  "notifyUrl": "Спеціальний домен для сповіщень (необов'язково)",
+  "notifyUrlDescription": "Сповіщення шлюзу будуть відправлені на цей домен",
+  "saveSuccess": "Успішно збережено",
+  "showName": "Відображувана назва",
+  "showNameDescription": "Використовується для відображення на фронтенді"
+}

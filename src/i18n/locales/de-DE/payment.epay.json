@@ -1,0 +1,19 @@
+{
+  "enable": "Aktivieren",
+  "enableDescription": "Aktivieren Sie diese Zahlungsmethode",
+  "feePercent": "Prozentsatzgebühr (optional)",
+  "feePercentDescription": "Fügen Sie eine Gebühr zum Bestellbetrag hinzu",
+  "fixedFee": "Feste Gebühr (optional)",
+  "fixedFeeDescription": "Fügen Sie eine feste Gebühr zum Bestellbetrag hinzu",
+  "iconUrl": "Icon-URL (optional)",
+  "iconUrlDescription": "Wird für die Anzeige im Frontend verwendet",
+  "inputPlaceholder": "Bitte eingeben",
+  "key": "SCHLÜSSEL",
+  "notifyUrl": "Benutzerdefinierte Benachrichtigungsdomäne (optional)",
+  "notifyUrlDescription": "Gateway-Benachrichtigungen werden an diese Domäne gesendet",
+  "pid": "PID",
+  "saveSuccess": "Speichern erfolgreich",
+  "showName": "Anzeigename",
+  "showNameDescription": "Wird für die Anzeige im Frontend verwendet",
+  "url": "URL"
+}

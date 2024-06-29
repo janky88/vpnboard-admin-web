@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "請輸入",
+  "loginVerificationCode": "登入驗證碼",
+  "loginVerificationCodeDescription": "登入的人類驗證",
+  "registrationVerificationCode": "註冊驗證碼",
+  "registrationVerificationCodeDescription": "註冊的人類驗證",
+  "resetPasswordVerificationCode": "重設密碼驗證碼",
+  "resetPasswordVerificationCodeDescription": "重設密碼的人類驗證",
+  "saveSuccess": "保存成功",
+  "turnstileSecret": "旋轉閘道秘密",
+  "turnstileSecretDescription": "Cloudflare提供的旋轉閘道秘密",
+  "turnstileSiteKey": "旋轉閘道網站金鑰",
+  "turnstileSiteKeyDescription": "Cloudflare提供的旋轉閘道網站金鑰"
+}

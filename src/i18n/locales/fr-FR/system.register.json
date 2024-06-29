@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "Liste blanche des suffixes d'e-mail",
+  "emailSuffixWhitelistDescription": "Une fois activée, seuls les e-mails avec les suffixes de la liste seront autorisés à s'inscrire.",
+  "emailVerification": "Vérification de l'e-mail",
+  "emailVerificationDescription": "Une fois activée, les utilisateurs devront vérifier leur e-mail.",
+  "ipRegistrationLimit": "Limite d'inscription IP",
+  "ipRegistrationLimitDescription": "Une fois activée, les adresses IP qui répondent aux critères de la règle seront restreintes à l'inscription. Veuillez noter que la détermination de l'IP peut poser des problèmes en raison des CDN ou des proxies frontaux.",
+  "penaltyTime": "Temps de pénalité (minutes)",
+  "penaltyTimeDescription": "Les utilisateurs doivent attendre que le temps de pénalité s'écoule avant de pouvoir s'inscrire à nouveau.",
+  "registrationLimitCount": "Nombre limite d'inscriptions",
+  "registrationLimitCountDescription": "Activer la pénalité après avoir atteint la limite d'inscriptions.",
+  "saveSuccess": "Enregistrement réussi",
+  "stopNewUserRegistration": "Arrêter les nouvelles inscriptions d'utilisateurs",
+  "stopNewUserRegistrationDescription": "Une fois activée, personne ne pourra s'inscrire.",
+  "trialRegistration": "Inscription d'essai",
+  "trialRegistrationDescription": "Activer l'inscription d'essai. Veuillez d'abord modifier le package d'essai dans la gestion des produits.",
+  "whitelistSuffixes": "Suffixes en liste blanche",
+  "whitelistSuffixesDescription": "Utilisé pour la vérification de l'e-mail d'inscription, un par ligne.",
+  "whitelistSuffixesPlaceholder": "Veuillez saisir les suffixes d'e-mail, un par ligne."
+}

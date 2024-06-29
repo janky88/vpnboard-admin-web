@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Prowizja tylko za pierwsze zakupy",
+  "commissionFirstTimeOnlyDescription": "Po włączeniu, prowizja będzie generowana tylko przy pierwszej płatności zaproszonej osoby. Możesz skonfigurować poszczególnych użytkowników w zarządzaniu użytkownikami.",
+  "enableForcedInvite": "Włącz wymuszone zaproszenie",
+  "enableForcedInviteDescription": "Po włączeniu, tylko zaproszeni użytkownicy mogą się zarejestrować.",
+  "inputPlaceholder": "Proszę wprowadź",
+  "inviteCommissionPercentage": "Procent prowizji za zaproszenie",
+  "inviteCommissionPercentageDescription": "Domyślny globalny stosunek dystrybucji prowizji, możesz skonfigurować poszczególne proporcje w zarządzaniu użytkownikami.",
+  "saveSuccess": "Zapisano pomyślnie"
+}

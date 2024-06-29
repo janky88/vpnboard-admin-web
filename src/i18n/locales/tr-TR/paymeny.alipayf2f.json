@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Alipay Uygulama Kimliği",
+  "alipayPrivateKey": "Alipay Özel Anahtarı",
+  "alipayPublicKey": "Alipay Genel Anahtarı",
+  "enable": "Etkinleştir",
+  "enableDescription": "Bu ödeme yöntemini etkinleştir",
+  "feePercent": "Yüzde Ücreti (isteğe bağlı)",
+  "feePercentDescription": "Sipariş tutarına ek ücret ekleyin",
+  "fixedFee": "Sabit Ücret (isteğe bağlı)",
+  "fixedFeeDescription": "Sipariş tutarına sabit bir ücret ekleyin",
+  "goodsName": "Özel Ürün Adı",
+  "goodsNamePlaceholder": "Bu Alipay faturasında görünecektir",
+  "iconUrl": "Simge URL'si (isteğe bağlı)",
+  "iconUrlDescription": "Ön uç görüntüleme için kullanılır",
+  "inputPlaceholder": "Lütfen girin",
+  "notifyUrl": "Özel Bildirim Alanı (isteğe bağlı)",
+  "notifyUrlDescription": "Gateway bildirimleri bu alanı kullanarak gönderilecektir",
+  "saveSuccess": "Başarıyla Kaydedildi",
+  "showName": "Görüntüleme Adı",
+  "showNameDescription": "Ön uç görüntüleme için kullanılır"
+}

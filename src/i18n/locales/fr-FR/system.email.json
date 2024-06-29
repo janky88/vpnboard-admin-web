@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Modèle d'email",
+  "emailTemplateDescription": "Vous pouvez consulter la documentation sur la personnalisation des modèles d'email",
+  "inputPlaceholder": "Veuillez entrer",
+  "saveSuccess": "Enregistrement réussi",
+  "selectPlaceholder": "Veuillez sélectionner",
+  "sendTestEmail": "Envoyer un email de test",
+  "sendTestEmailDescription": "L'email sera envoyé à l'adresse email de l'utilisateur actuellement connecté",
+  "senderAddress": "Adresse de l'expéditeur",
+  "senderAddressDescription": "Adresse de l'expéditeur fournie par le fournisseur de services email",
+  "smtpAccount": "Compte SMTP",
+  "smtpAccountDescription": "Compte fourni par le fournisseur de services email",
+  "smtpEncryptionMethod": "Méthode de chiffrement SMTP",
+  "smtpEncryptionMethodDescription": "La méthode de chiffrement pour le port 465 est généralement SSL, et pour le port 587 est généralement TLS",
+  "smtpPassword": "Mot de passe SMTP",
+  "smtpPasswordDescription": "Mot de passe fourni par le fournisseur de services email",
+  "smtpServerAddress": "Adresse du serveur SMTP",
+  "smtpServerAddressDescription": "Adresse du service fournie par le fournisseur de services email",
+  "smtpServerPort": "Port du serveur SMTP",
+  "smtpServerPortDescription": "Les ports courants sont 25, 465, 587"
+}

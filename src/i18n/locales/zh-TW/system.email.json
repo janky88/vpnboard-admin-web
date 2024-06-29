@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "郵件模板",
+  "emailTemplateDescription": "您可以查看如何自定義郵件模板的文檔",
+  "inputPlaceholder": "請輸入",
+  "saveSuccess": "保存成功",
+  "selectPlaceholder": "請選擇",
+  "sendTestEmail": "發送測試郵件",
+  "sendTestEmailDescription": "郵件將發送到當前登錄用戶的郵箱",
+  "senderAddress": "寄件人地址",
+  "senderAddressDescription": "由電子郵件服務提供商提供的寄件人地址",
+  "smtpAccount": "SMTP 帳戶",
+  "smtpAccountDescription": "由電子郵件服務提供商提供的帳戶",
+  "smtpEncryptionMethod": "SMTP 加密方法",
+  "smtpEncryptionMethodDescription": "端口465的加密方法通常為SSL，端口587的加密方法通常為TLS",
+  "smtpPassword": "SMTP 密碼",
+  "smtpPasswordDescription": "由電子郵件服務提供商提供的密碼",
+  "smtpServerAddress": "SMTP 伺服器地址",
+  "smtpServerAddressDescription": "由電子郵件服務提供商提供的服務地址",
+  "smtpServerPort": "SMTP 伺服器端口",
+  "smtpServerPortDescription": "常見端口為25、465、587"
+}

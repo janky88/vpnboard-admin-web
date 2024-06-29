@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Commission Only on First Purchase",
+  "commissionFirstTimeOnlyDescription": "Once enabled, commission will only be generated on the first payment of the invited person. You can configure individual users in user management.",
+  "enableForcedInvite": "Enable Forced Invite",
+  "enableForcedInviteDescription": "Once enabled, only invited users can register.",
+  "inputPlaceholder": "Please enter",
+  "inviteCommissionPercentage": "Invite Commission Percentage",
+  "inviteCommissionPercentageDescription": "Default global commission distribution ratio, you can configure individual ratios in user management.",
+  "saveSuccess": "Save successful"
+}

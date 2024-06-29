@@ -1,0 +1,28 @@
+{
+  "actions": "Akcje",
+  "cancel": "Anuluj",
+  "category": "Kategoria",
+  "confirm": "Potwierdź",
+  "confirmDelete": "Czy na pewno chcesz usunąć?",
+  "create": "Utwórz",
+  "createKnowledge": "Utwórz wiedzę",
+  "createSuccess": "Utworzenie udane",
+  "delete": "Usuń",
+  "deleteDescription": "Po usunięciu danych nie można ich odzyskać. Proszę postępować ostrożnie.",
+  "deleteSuccess": "Usunięcie udane",
+  "edit": "Edytuj",
+  "editKnowledge": "Edytuj wiedzę",
+  "form": {
+    "cancel": "Anuluj",
+    "category": "Kategoria",
+    "confirm": "Potwierdź",
+    "content": "Zawartość",
+    "title": "Tytuł",
+    "titlePlaceholder": "Proszę wprowadzić"
+  },
+  "knowledgeList": "Lista wiedzy",
+  "show": "Pokaż",
+  "title": "Tytuł",
+  "updateSuccess": "Aktualizacja udana",
+  "updatedAt": "Zaktualizowano o"
+}

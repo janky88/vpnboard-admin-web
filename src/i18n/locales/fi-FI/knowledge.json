@@ -1,0 +1,28 @@
+{
+  "actions": "Toiminnot",
+  "cancel": "Peruuta",
+  "category": "Kategoria",
+  "confirm": "Vahvista",
+  "confirmDelete": "Oletko varma, että haluat poistaa?",
+  "create": "Luoda",
+  "createKnowledge": "Luo tietoa",
+  "createSuccess": "Luonti onnistui",
+  "delete": "Poista",
+  "deleteDescription": "Kun tieto on poistettu, sitä ei voi palauttaa. Jatka varovasti.",
+  "deleteSuccess": "Poisto onnistui",
+  "edit": "Muokkaa",
+  "editKnowledge": "Muokkaa tietoa",
+  "form": {
+    "cancel": "Peruuta",
+    "category": "Kategoria",
+    "confirm": "Vahvista",
+    "content": "Sisältö",
+    "title": "Otsikko",
+    "titlePlaceholder": "Ole hyvä ja kirjoita"
+  },
+  "knowledgeList": "Tiedon lista",
+  "show": "Näytä",
+  "title": "Otsikko",
+  "updateSuccess": "Päivitys onnistui",
+  "updatedAt": "Päivitetty"
+}

@@ -1,0 +1,28 @@
+{
+  "actions": "การดำเนินการ",
+  "announcementList": "รายการประกาศ",
+  "cancel": "ยกเลิก",
+  "confirm": "ยืนยัน",
+  "confirmDelete": "คุณแน่ใจหรือไม่ว่าต้องการลบ?",
+  "content": "เนื้อหา",
+  "create": "สร้าง",
+  "createAnnouncement": "สร้างประกาศ",
+  "createSuccess": "สร้างสำเร็จ",
+  "delete": "ลบ",
+  "deleteDescription": "หลังจากลบแล้ว ข้อมูลจะไม่สามารถกู้คืนได้ กรุณาดำเนินการอย่างระมัดระวัง",
+  "deleteSuccess": "ลบสำเร็จ",
+  "edit": "แก้ไข",
+  "editAnnouncement": "แก้ไขประกาศ",
+  "enable": "เปิดใช้งาน",
+  "form": {
+    "cancel": "ยกเลิก",
+    "confirm": "ยืนยัน",
+    "content": "เนื้อหา",
+    "contentPlaceholder": "โปรดระบุเนื้อหาประกาศ (รองรับ Markdown)",
+    "title": "หัวข้อ",
+    "titlePlaceholder": "โปรดระบุ"
+  },
+  "title": "หัวข้อ",
+  "updateSuccess": "อัปเดตสำเร็จ",
+  "updatedAt": "อัปเดตเมื่อ"
+}

@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Chỉ Hoa Hồng Khi Mua Lần Đầu",
+  "commissionFirstTimeOnlyDescription": "Khi được kích hoạt, hoa hồng chỉ được tạo ra trong lần thanh toán đầu tiên của người được mời. Bạn có thể cấu hình người dùng cá nhân trong quản lý người dùng.",
+  "enableForcedInvite": "Kích Hoạt Mời Bắt Buộc",
+  "enableForcedInviteDescription": "Khi được kích hoạt, chỉ người dùng được mời mới có thể đăng ký.",
+  "inputPlaceholder": "Vui lòng nhập",
+  "inviteCommissionPercentage": "Tỷ Lệ Hoa Hồng Mời",
+  "inviteCommissionPercentageDescription": "Tỷ lệ phân phối hoa hồng toàn cầu mặc định, bạn có thể cấu hình các tỷ lệ cá nhân trong quản lý người dùng.",
+  "saveSuccess": "Lưu thành công"
+}

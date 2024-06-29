@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "公告管理",
+  "couponManagement": "优惠券管理",
+  "dashboard": "仪表板",
+  "documentManagement": "文档管理",
+  "errorNoManager": "请求错误：无管理员",
+  "finance": "财务",
+  "logout": "登出",
+  "nodeManagement": "节点管理",
+  "orderManagement": "订单管理",
+  "paymentConfig": "支付配置",
+  "productManagement": "产品管理",
+  "server": "服务器",
+  "settings": "设置",
+  "systemConfig": "系统配置",
+  "ticketManagement": "工单管理",
+  "toggleNavigationMenu": "切换导航菜单",
+  "toggleUserMenu": "切换用户菜单",
+  "user": "用户",
+  "userManagement": "用户管理"
+}

@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "E-mail",
+    "invite": "Pozvat",
+    "node": "Uzel",
+    "register": "Registrovat",
+    "site": "Stránka",
+    "subscription": "Předplatné",
+    "telegram": "Telegram",
+    "tos": "Podmínky služby",
+    "verify": "Ověřit"
+  }
+}

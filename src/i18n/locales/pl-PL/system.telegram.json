@@ -1,0 +1,11 @@
+{
+  "botToken": "Token bota",
+  "botTokenDescription": "Proszę wprowadzić token dostarczony przez Botfathera.",
+  "enableBotNotifications": "Włącz powiadomienia bota",
+  "enableBotNotificationsDescription": "Po włączeniu bot będzie wysyłał podstawowe powiadomienia do administratorów i użytkowników, którzy połączyli się z Telegramem.",
+  "groupURL": "URL grupy",
+  "groupURLDescription": "Po wypełnieniu będzie wyświetlane po stronie użytkownika lub używane tam, gdzie jest to potrzebne.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Zapisano pomyślnie"
+}

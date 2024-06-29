@@ -1,0 +1,28 @@
+{
+  "actions": "क्रियाएँ",
+  "announcementList": "घोषणा सूची",
+  "cancel": "रद्द करें",
+  "confirm": "पुष्टि करें",
+  "confirmDelete": "क्या आप वाकई हटाना चाहते हैं?",
+  "content": "सामग्री",
+  "create": "बनाएं",
+  "createAnnouncement": "घोषणा बनाएं",
+  "createSuccess": "सफलतापूर्वक बनाया गया",
+  "delete": "हटाएं",
+  "deleteDescription": "एक बार हटाने के बाद, डेटा को पुनः प्राप्त नहीं किया जा सकता। कृपया सावधानी से आगे बढ़ें।",
+  "deleteSuccess": "हटाने में सफल",
+  "edit": "संपादित करें",
+  "editAnnouncement": "घोषणा संपादित करें",
+  "enable": "सक्षम करें",
+  "form": {
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "content": "सामग्री",
+    "contentPlaceholder": "कृपया घोषणा सामग्री दर्ज करें (मार्कडाउन का समर्थन करता है)",
+    "title": "शीर्षक",
+    "titlePlaceholder": "कृपया दर्ज करें"
+  },
+  "title": "शीर्षक",
+  "updateSuccess": "अपडेट सफल",
+  "updatedAt": "अपडेट किया गया"
+}

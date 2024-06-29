@@ -1,0 +1,19 @@
+{
+  "enable": "Włącz",
+  "enableDescription": "Włącz tę metodę płatności",
+  "feePercent": "Opłata procentowa (opcjonalnie)",
+  "feePercentDescription": "Dodaj opłatę do kwoty zamówienia",
+  "fixedFee": "Opłata stała (opcjonalnie)",
+  "fixedFeeDescription": "Dodaj opłatę stałą do kwoty zamówienia",
+  "iconUrl": "Adres URL ikony (opcjonalnie)",
+  "iconUrlDescription": "Używane do wyświetlania na froncie",
+  "inputPlaceholder": "Proszę wprowadzić",
+  "key": "KLUCZ",
+  "notifyUrl": "Domena powiadomień niestandardowych (opcjonalnie)",
+  "notifyUrlDescription": "Powiadomienia bramki będą wysyłane na tę domenę",
+  "pid": "PID",
+  "saveSuccess": "Zapisano pomyślnie",
+  "showName": "Nazwa wyświetlana",
+  "showNameDescription": "Używane do wyświetlania na froncie",
+  "url": "URL"
+}

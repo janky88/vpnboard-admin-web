@@ -1,0 +1,18 @@
+{
+  "actions": "操作",
+  "cancel": "取消",
+  "close": "关闭",
+  "closeSuccess": "关闭成功",
+  "closeWarning": "一旦关闭，将无法操作该工单。请谨慎操作。",
+  "closed": "已关闭",
+  "confirm": "确认",
+  "confirmClose": "确定要关闭吗？",
+  "createdAt": "创建时间",
+  "inputPlaceholder": "请输入您的问题，我们会尽快回复。",
+  "open": "打开",
+  "reply": "回复",
+  "send": "发送",
+  "ticketList": "工单列表",
+  "title": "标题",
+  "updatedAt": "更新时间"
+}

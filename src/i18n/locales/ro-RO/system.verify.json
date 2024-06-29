@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Vă rugăm să introduceți",
+  "loginVerificationCode": "Cod de verificare pentru autentificare",
+  "loginVerificationCodeDescription": "Verificare umană pentru autentificare",
+  "registrationVerificationCode": "Cod de verificare pentru înregistrare",
+  "registrationVerificationCodeDescription": "Verificare umană pentru înregistrare",
+  "resetPasswordVerificationCode": "Cod de verificare pentru resetarea parolei",
+  "resetPasswordVerificationCodeDescription": "Verificare umană pentru resetarea parolei",
+  "saveSuccess": "Salvare reușită",
+  "turnstileSecret": "Secret Turnstile",
+  "turnstileSecretDescription": "Secret Turnstile furnizat de Cloudflare",
+  "turnstileSiteKey": "Cheie site Turnstile",
+  "turnstileSiteKeyDescription": "Cheie site Turnstile furnizată de Cloudflare"
+}

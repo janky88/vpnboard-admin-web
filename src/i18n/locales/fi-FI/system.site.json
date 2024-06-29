@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Käytetään näyttämään, missä logo tarvitaan.",
+  "logoPlaceholder": "Syötä LOGO URL, älä lopeta '/'-merkillä",
+  "saveSuccess": "Tallennus onnistui",
+  "siteDesc": "Sivuston kuvaus",
+  "siteDescDescription": "Käytetään näyttämään, missä sivuston kuvaus tarvitaan.",
+  "siteDescPlaceholder": "Syötä sivuston kuvaus",
+  "siteName": "Sivuston nimi",
+  "siteNameDescription": "Käytetään näyttämään, missä sivuston nimi tarvitaan.",
+  "siteNamePlaceholder": "Syötä sivuston nimi",
+  "siteURL": "Sivuston URL",
+  "siteURLDescription": "Nykyinen verkkosivuston URL, käytetään esimerkiksi sähköposteissa.",
+  "siteURLPlaceholder": "Syötä sivuston URL, älä lopeta '/'-merkillä"
+}

@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "รายการท้ายอีเมลที่ยินยอม",
+  "emailSuffixWhitelistDescription": "เมื่อเปิดใช้งานแล้ว จะอนุญาตให้ลงทะเบียนเฉพาะอีเมลที่มีท้ายอีเมลในรายการ",
+  "emailVerification": "การตรวจสอบอีเมล",
+  "emailVerificationDescription": "เมื่อเปิดใช้งานแล้ว ผู้ใช้จะต้องตรวจสอบอีเมลของตน",
+  "ipRegistrationLimit": "ขีดจำกัดการลงทะเบียน IP",
+  "ipRegistrationLimitDescription": "เมื่อเปิดใช้งานแล้ว  IP ที่ตรงตามเงื่อนไขกฎจะถูกจำกัดไม่ให้ลงทะเบียน โปรดทราบว่าการกำหนด IP อาจทำให้เกิดปัญหาเนื่องจาก CDN หรือพร็อกซี่ด้านหน้า",
+  "penaltyTime": "เวลาลงโทษ (นาที)",
+  "penaltyTimeDescription": "ผู้ใช้ต้องรอให้เวลาลงโทษผ่านไปก่อนที่จะสามารถลงทะเบียนอีกครั้ง",
+  "registrationLimitCount": "จำกัดจำนวนการลงทะเบียน",
+  "registrationLimitCountDescription": "เปิดใช้งานการลงโทษหลังจากถึงขีดจำกัดการลงทะเบียน",
+  "saveSuccess": "บันทึกสำเร็จ",
+  "stopNewUserRegistration": "หยุดการลงทะเบียนผู้ใช้ใหม่",
+  "stopNewUserRegistrationDescription": "เมื่อเปิดใช้งานแล้ว ไม่มีใครจะสามารถลงทะเบียน",
+  "trialRegistration": "การลงทะเบียนทดลอง",
+  "trialRegistrationDescription": "เปิดใช้งานการลงทะเบียนทดลอง โปรดแก้ไขแพ็คเกจทดลองในการจัดการผลิตภัณฑ์ก่อน",
+  "whitelistSuffixes": "รายการท้ายอีเมลที่ยินยอม",
+  "whitelistSuffixesDescription": "ใช้สำหรับการตรวจสอบอีเมลของการลงทะเบียน หนึ่งบรรทัดต่อหนึ่งรายการ",
+  "whitelistSuffixesPlaceholder": "โปรดใส่ท้ายอีเมลที่ยินยอม หนึ่งบรรทัดต่อหนึ่งรายการ"
+}

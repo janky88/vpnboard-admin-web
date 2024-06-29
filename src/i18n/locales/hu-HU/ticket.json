@@ -1,0 +1,18 @@
+{
+  "actions": "Műveletek",
+  "cancel": "Mégse",
+  "close": "Bezárás",
+  "closeSuccess": "Bezárás sikeres",
+  "closeWarning": "Miután bezártad, a jegyen már nem lehet módosítani. Kérlek, légy óvatos.",
+  "closed": "Bezárt",
+  "confirm": "Megerősítés",
+  "confirmClose": "Biztosan be akarod zárni?",
+  "createdAt": "Létrehozva",
+  "inputPlaceholder": "Kérlek írd ide a kérdésed, és mihamarabb válaszolunk.",
+  "open": "Megnyitás",
+  "reply": "Válasz",
+  "send": "Küldés",
+  "ticketList": "Jegylista",
+  "title": "Cím",
+  "updatedAt": "Frissítve"
+}

@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Por favor, introduce",
+  "loginVerificationCode": "Código de Verificación de Inicio de Sesión",
+  "loginVerificationCodeDescription": "Verificación humana para iniciar sesión",
+  "registrationVerificationCode": "Código de Verificación de Registro",
+  "registrationVerificationCodeDescription": "Verificación humana para registro",
+  "resetPasswordVerificationCode": "Código de Verificación de Restablecimiento de Contraseña",
+  "resetPasswordVerificationCodeDescription": "Verificación humana para restablecer la contraseña",
+  "saveSuccess": "Guardado exitoso",
+  "turnstileSecret": "Secreto de Turnstile",
+  "turnstileSecretDescription": "Secreto de Turnstile proporcionado por Cloudflare",
+  "turnstileSiteKey": "Clave del Sitio de Turnstile",
+  "turnstileSiteKeyDescription": "Clave del Sitio de Turnstile proporcionada por Cloudflare"
+}

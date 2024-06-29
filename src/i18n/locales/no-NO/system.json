@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "email": "E-post",
+    "invite": "Inviter",
+    "node": "Node",
+    "register": "Registrer",
+    "site": "Nettsted",
+    "subscription": "Abonnement",
+    "telegram": "Telegram",
+    "tos": "Vilkår for bruk",
+    "verify": "Verifiser"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Vain ensimmäisestä ostosta perittävä palkkio",
+  "commissionFirstTimeOnlyDescription": "Kun tämä on otettu käyttöön, palkkio kertyy vain kutsutun henkilön ensimmäisestä maksusta. Voit määrittää yksittäiset käyttäjät käyttäjien hallinnassa.",
+  "enableForcedInvite": "Ota pakotettu kutsu käyttöön",
+  "enableForcedInviteDescription": "Kun tämä on otettu käyttöön, vain kutsutut käyttäjät voivat rekisteröityä.",
+  "inputPlaceholder": "Syötä",
+  "inviteCommissionPercentage": "Kutsupalkkion prosenttiosuus",
+  "inviteCommissionPercentageDescription": "Oletusarvoinen maailmanlaajuinen palkkionjakosuhde, voit määrittää yksittäiset suhteet käyttäjien hallinnassa.",
+  "saveSuccess": "Tallennus onnistui"
+}

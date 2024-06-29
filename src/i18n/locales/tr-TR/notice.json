@@ -1,0 +1,28 @@
+{
+  "actions": "Eylemler",
+  "announcementList": "Duyuru Listesi",
+  "cancel": "İptal",
+  "confirm": "Onayla",
+  "confirmDelete": "Silmek istediğinizden emin misiniz?",
+  "content": "İçerik",
+  "create": "Oluştur",
+  "createAnnouncement": "Duyuru Oluştur",
+  "createSuccess": "Oluşturma başarılı",
+  "delete": "Sil",
+  "deleteDescription": "Bir kez silindiğinde, veriler kurtarılamaz. Lütfen dikkatli olun.",
+  "deleteSuccess": "Silme başarılı",
+  "edit": "Düzenle",
+  "editAnnouncement": "Duyuruyu Düzenle",
+  "enable": "Etkinleştir",
+  "form": {
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "content": "İçerik",
+    "contentPlaceholder": "Duyuru içeriğini girin (Markdown destekler)",
+    "title": "Başlık",
+    "titlePlaceholder": "Lütfen girin"
+  },
+  "title": "Başlık",
+  "updateSuccess": "Güncelleme başarılı",
+  "updatedAt": "Güncelleme Tarihi"
+}

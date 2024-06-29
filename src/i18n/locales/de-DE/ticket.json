@@ -1,0 +1,18 @@
+{
+  "actions": "Aktionen",
+  "cancel": "Abbrechen",
+  "close": "Schließen",
+  "closeSuccess": "Erfolgreich geschlossen",
+  "closeWarning": "Nach dem Schließen kann das Ticket nicht mehr bearbeitet werden. Bitte gehen Sie vorsichtig vor.",
+  "closed": "Geschlossen",
+  "confirm": "Bestätigen",
+  "confirmClose": "Möchten Sie wirklich schließen?",
+  "createdAt": "Erstellt am",
+  "inputPlaceholder": "Bitte geben Sie hier Ihre Frage ein, wir werden so schnell wie möglich antworten.",
+  "open": "Öffnen",
+  "reply": "Antworten",
+  "send": "Senden",
+  "ticketList": "Ticketliste",
+  "title": "Titel",
+  "updatedAt": "Aktualisiert am"
+}

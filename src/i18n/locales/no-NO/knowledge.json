@@ -1,0 +1,28 @@
+{
+  "actions": "Handlinger",
+  "cancel": "Avbryt",
+  "category": "Kategori",
+  "confirm": "Bekreft",
+  "confirmDelete": "Er du sikker på at du vil slette?",
+  "create": "Opprett",
+  "createKnowledge": "Opprett Kunnskap",
+  "createSuccess": "Opprettelse vellykket",
+  "delete": "Slett",
+  "deleteDescription": "Når det er slettet, kan data ikke gjenopprettes. Vennligst fortsett forsiktig.",
+  "deleteSuccess": "Sletting vellykket",
+  "edit": "Rediger",
+  "editKnowledge": "Rediger Kunnskap",
+  "form": {
+    "cancel": "Avbryt",
+    "category": "Kategori",
+    "confirm": "Bekreft",
+    "content": "Innhold",
+    "title": "Tittel",
+    "titlePlaceholder": "Vennligst skriv inn"
+  },
+  "knowledgeList": "Kunnskapsliste",
+  "show": "Vis",
+  "title": "Tittel",
+  "updateSuccess": "Oppdatering vellykket",
+  "updatedAt": "Oppdatert kl."
+}

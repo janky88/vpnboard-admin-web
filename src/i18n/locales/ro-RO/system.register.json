@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "Listă Albă Sufix Email",
+  "emailSuffixWhitelistDescription": "Odată activată, doar emailurile cu sufixele din listă vor fi permise să se înregistreze.",
+  "emailVerification": "Verificare Email",
+  "emailVerificationDescription": "Odată activată, utilizatorii vor trebui să-și verifice emailul.",
+  "ipRegistrationLimit": "Limită Înregistrare IP",
+  "ipRegistrationLimitDescription": "Odată activată, IP-urile care îndeplinesc cerințele regulii vor fi restricționate de la înregistrare. Vă rugăm să rețineți că determinarea IP-ului poate cauza probleme din cauza CDN-ului sau a proxy-urilor front-end.",
+  "penaltyTime": "Timp Penalizare (minute)",
+  "penaltyTimeDescription": "Utilizatorii trebuie să aștepte ca timpul de penalizare să expire înainte de a se putea înregistra din nou.",
+  "registrationLimitCount": "Număr Limită Înregistrare",
+  "registrationLimitCountDescription": "Activează penalizarea după atingerea limitei de înregistrare.",
+  "saveSuccess": "Salvare cu Succes",
+  "stopNewUserRegistration": "Oprire Înregistrare Utilizatori Noi",
+  "stopNewUserRegistrationDescription": "Odată activată, nimeni nu va putea să se înregistreze.",
+  "trialRegistration": "Înregistrare Încercare",
+  "trialRegistrationDescription": "Activează înregistrarea de încercare. Vă rugăm să modificați pachetul de încercare în gestionarea produsului mai întâi.",
+  "whitelistSuffixes": "Sufixe Listă Albă",
+  "whitelistSuffixesDescription": "Folosit pentru verificarea emailului la înregistrare, câte unul pe linie.",
+  "whitelistSuffixesPlaceholder": "Vă rugăm să introduceți sufixele emailului, câte unul pe linie."
+}

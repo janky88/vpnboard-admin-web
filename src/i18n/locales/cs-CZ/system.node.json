@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Komunikační klíč",
+  "communicationKeyDescription": "Klíč pro komunikaci uzlů k zajištění, že data nejsou zachycena ostatními.",
+  "inputPlaceholder": "Prosím zadejte",
+  "nodePullInterval": "Interval získávání uzlu",
+  "nodePullIntervalDescription": "Frekvence, s jakou uzl získává data z panelu. (v sekundách)",
+  "nodePushInterval": "Interval odesílání uzlu",
+  "nodePushIntervalDescription": "Frekvence, s jakou uzl odesílá data na panel.",
+  "saveSuccess": "Uložení úspěšné"
+}

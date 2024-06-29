@@ -1,0 +1,11 @@
+{
+  "botToken": "Bot Token",
+  "botTokenDescription": "Vennligst skriv inn tokenet som er gitt av Botfather.",
+  "enableBotNotifications": "Aktiver Bot-varsler",
+  "enableBotNotificationsDescription": "Når dette er aktivert, vil boten sende grunnleggende varsler til administratorer og brukere som har knyttet Telegram.",
+  "groupURL": "Gruppe-URL",
+  "groupURLDescription": "Etter utfylling vil den vises på brukersiden eller brukes der det er nødvendig.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Lagring vellykket"
+}

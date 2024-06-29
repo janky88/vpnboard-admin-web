@@ -1,0 +1,28 @@
+{
+  "actions": "การดำเนินการ",
+  "cancel": "ยกเลิก",
+  "category": "หมวดหมู่",
+  "confirm": "ยืนยัน",
+  "confirmDelete": "คุณแน่ใจหรือว่าต้องการลบ?",
+  "create": "สร้าง",
+  "createKnowledge": "สร้างความรู้",
+  "createSuccess": "สร้างสำเร็จ",
+  "delete": "ลบ",
+  "deleteDescription": "หลังจากลบแล้ว ข้อมูลจะไม่สามารถกู้คืนได้ กรุณาดำเนินการอย่างระมัดระวัง",
+  "deleteSuccess": "ลบสำเร็จ",
+  "edit": "แก้ไข",
+  "editKnowledge": "แก้ไขความรู้",
+  "form": {
+    "cancel": "ยกเลิก",
+    "category": "หมวดหมู่",
+    "confirm": "ยืนยัน",
+    "content": "เนื้อหา",
+    "title": "หัวข้อ",
+    "titlePlaceholder": "โปรดกรอก"
+  },
+  "knowledgeList": "รายการความรู้",
+  "show": "แสดง",
+  "title": "หัวข้อ",
+  "updateSuccess": "อัปเดตสำเร็จ",
+  "updatedAt": "อัปเดตเมื่อ"
+}

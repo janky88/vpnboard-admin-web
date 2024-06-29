@@ -1,0 +1,23 @@
+{
+  "add": "Adicionar",
+  "app": "APLICATIVO",
+  "appDescription": "Configure o endereço de download e as regras de importação do APLICATIVO. Lembre-se de salvar após a modificação.",
+  "appDownloadURL": "URL de Download do Aplicativo",
+  "appIcon": "Ícone do Aplicativo",
+  "appName": "Nome do Aplicativo",
+  "delete": "Excluir",
+  "reset": "Redefinir",
+  "save": "Salvar",
+  "saveSuccess": "Salvo com sucesso",
+  "singleSubscriptionMode": "Modo de Assinatura Única",
+  "singleSubscriptionModeDescription": "Ative o modo de assinatura única. Uma vez ativado, não pode ser desativado. Todos os usuários manterão apenas o primeiro pacote válido, e outros pacotes serão convertidos em saldo.",
+  "subscriptionPath": "Caminho da Assinatura",
+  "subscriptionPathDescription": "Usado para assinatura.",
+  "subscriptionPathPlaceholder": "Por favor, insira",
+  "subscriptionProtocol": "Protocolo de Assinatura",
+  "subscriptionURL": "URL de Assinatura",
+  "subscriptionURLDescription": "Usado para assinatura. Deixe em branco para usar a URL do site. Se forem necessárias várias URLs de assinatura, insira uma por linha.",
+  "subscriptionURLPlaceholder": "Por favor, insira a URL de assinatura, não termine com '/'. Uma por linha para vários domínios.",
+  "wildcardResolution": "Resolução de Wildcard",
+  "wildcardResolutionDescription": "Usado para assinatura."
+}

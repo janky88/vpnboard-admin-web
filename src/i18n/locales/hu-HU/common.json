@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Tömeges törlés",
+    "cancel": "Mégse",
+    "confirm": "Megerősít",
+    "confirmDelete": "Biztosan törölni szeretné ezeket az elemeket?",
+    "deleteDescription": "A törlés után az adatok nem állíthatók vissza. Kérjük, óvatosan folytassa.",
+    "goToFirstPage": "Ugrás az első oldalra",
+    "goToLastPage": "Ugrás az utolsó oldalra",
+    "goToNextPage": "Ugrás a következő oldalra",
+    "goToPreviousPage": "Ugrás az előző oldalra",
+    "noResults": "Nincs találat.",
+    "of": "összesen",
+    "page": "Oldal",
+    "selectAll": "Összes kiválasztása",
+    "selectRow": "Sor kiválasztása",
+    "selectedItems": "Kiválasztott elemek",
+    "totalItems": "Összes elem"
+  },
+  "request.error": {
+    "40000": "Ügyfél hiba",
+    "40001": "Ügyfél validációs hiba",
+    "41001": "Fiók hitelesítési hiba",
+    "41010": "Ez a fiók nem létezik",
+    "41011": "A fiókot letiltották",
+    "41012": "Helytelen jelszó",
+    "50000": "Szerverhiba",
+    "default": "Ismeretlen hiba",
+    "no.manager": "Ez a fiókkezelő jogtalanul van bejelentkezve"
+  }
+}

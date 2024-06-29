@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Se utiliza para mostrar dónde se necesita el logotipo.",
+  "logoPlaceholder": "Por favor ingresa la URL del LOGO, no termines con '/'",
+  "saveSuccess": "Guardado exitoso",
+  "siteDesc": "Descripción del Sitio",
+  "siteDescDescription": "Se utiliza para mostrar dónde se necesita la descripción del sitio.",
+  "siteDescPlaceholder": "Por favor ingresa la descripción del sitio",
+  "siteName": "Nombre del Sitio",
+  "siteNameDescription": "Se utiliza para mostrar dónde se necesita el nombre del sitio.",
+  "siteNamePlaceholder": "Por favor ingresa el nombre del sitio",
+  "siteURL": "URL del Sitio",
+  "siteURLDescription": "URL actual del sitio web, se utilizará en lugares como correos electrónicos.",
+  "siteURLPlaceholder": "Por favor ingresa la URL del sitio, no termines con '/'"
+}

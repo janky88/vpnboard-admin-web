@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "E-post Suffix Whitelist",
+  "emailSuffixWhitelistDescription": "Når aktivert, vil bare e-poster med suffikset på listen få lov til å registrere seg.",
+  "emailVerification": "E-postverifisering",
+  "emailVerificationDescription": "Når aktivert, vil brukere bli pålagt å verifisere e-posten sin.",
+  "ipRegistrationLimit": "IP Registreringsgrense",
+  "ipRegistrationLimitDescription": "Når aktivert, vil IP-er som oppfyller regelkravene, bli begrenset fra å registrere seg. Vær oppmerksom på at IP-determinasjon kan føre til problemer på grunn av CDN eller front-end-proksier.",
+  "penaltyTime": "Straffetid (minutter)",
+  "penaltyTimeDescription": "Brukere må vente til straffetiden er over før de kan registrere seg igjen.",
+  "registrationLimitCount": "Registreringsgrenseantall",
+  "registrationLimitCountDescription": "Aktiver straff etter å ha nådd registreringsgrensen.",
+  "saveSuccess": "Lagring vellykket",
+  "stopNewUserRegistration": "Stopp ny brukerregistrering",
+  "stopNewUserRegistrationDescription": "Når aktivert, vil ingen kunne registrere seg.",
+  "trialRegistration": "Prøveregistrering",
+  "trialRegistrationDescription": "Aktiver prøveregistrering. Vennligst endre prøvepakken i produktadministrasjonen først.",
+  "whitelistSuffixes": "Whitelist Suffixes",
+  "whitelistSuffixesDescription": "Brukes for registrering av e-postverifisering, en per linje.",
+  "whitelistSuffixesPlaceholder": "Vennligst skriv inn e-post suffikser, en per linje."
+}

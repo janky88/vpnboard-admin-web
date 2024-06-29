@@ -1,0 +1,19 @@
+{
+  "enable": "Habilitar",
+  "enableDescription": "Habilitar este método de pago",
+  "feePercent": "Tarifa en Porcentaje (opcional)",
+  "feePercentDescription": "Agregar una tarifa sobre el monto del pedido",
+  "fixedFee": "Tarifa Fija (opcional)",
+  "fixedFeeDescription": "Agregar una tarifa fija sobre el monto del pedido",
+  "iconUrl": "URL del Ícono (opcional)",
+  "iconUrlDescription": "Utilizado para la visualización en el frontend",
+  "inputPlaceholder": "Por favor ingresa",
+  "key": "CLAVE",
+  "notifyUrl": "Dominio de Notificación Personalizado (opcional)",
+  "notifyUrlDescription": "Las notificaciones de la pasarela se enviarán a este dominio",
+  "pid": "PID",
+  "saveSuccess": "Guardado Exitoso",
+  "showName": "Nombre a Mostrar",
+  "showNameDescription": "Utilizado para la visualización en el frontend",
+  "url": "URL"
+}

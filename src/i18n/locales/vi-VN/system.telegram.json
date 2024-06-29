@@ -1,0 +1,11 @@
+{
+  "botToken": "Mã Bot",
+  "botTokenDescription": "Vui lòng nhập mã được cung cấp bởi Botfather.",
+  "enableBotNotifications": "Bật Thông báo Bot",
+  "enableBotNotificationsDescription": "Khi được bật, bot sẽ gửi thông báo cơ bản cho các quản trị viên và người dùng đã liên kết với Telegram.",
+  "groupURL": "URL Nhóm",
+  "groupURLDescription": "Sau khi điền vào, nó sẽ được hiển thị ở phía người dùng hoặc được sử dụng khi cần thiết.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "Lưu thành công"
+}

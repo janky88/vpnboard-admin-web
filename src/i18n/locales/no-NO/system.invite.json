@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "Kun provisjon på første kjøp",
+  "commissionFirstTimeOnlyDescription": "Når dette er aktivert, vil provisjon bare genereres på den første betalingen fra den inviterte personen. Du kan konfigurere individuelle brukere i brukeradministrasjonen.",
+  "enableForcedInvite": "Aktiver tvungen invitasjon",
+  "enableForcedInviteDescription": "Når dette er aktivert, kan bare inviterte brukere registrere seg.",
+  "inputPlaceholder": "Vennligst skriv inn",
+  "inviteCommissionPercentage": "Inviter provisjonsprosent",
+  "inviteCommissionPercentageDescription": "Standard global provisjonsfordelingsratio, du kan konfigurere individuelle forhold i brukeradministrasjonen.",
+  "saveSuccess": "Lagring vellykket"
+}

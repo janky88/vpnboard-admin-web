@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Clé de communication",
+  "communicationKeyDescription": "La clé pour la communication entre les nœuds afin de garantir que les données ne soient pas interceptées par d'autres.",
+  "inputPlaceholder": "Veuillez entrer",
+  "nodePullInterval": "Intervalle de récupération du nœud",
+  "nodePullIntervalDescription": "La fréquence à laquelle le nœud récupère les données du panneau. (en secondes)",
+  "nodePushInterval": "Intervalle de poussée du nœud",
+  "nodePushIntervalDescription": "La fréquence à laquelle le nœud envoie les données au panneau.",
+  "saveSuccess": "Enregistrement réussi"
+}

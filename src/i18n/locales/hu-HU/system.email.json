@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Email sablon",
+  "emailTemplateDescription": "Ellenőrizheti a dokumentációt, hogyan szabhatja testre az email sablonokat",
+  "inputPlaceholder": "Kérem, adja meg",
+  "saveSuccess": "Sikeres mentés",
+  "selectPlaceholder": "Kérem, válasszon",
+  "sendTestEmail": "Teszt Email küldése",
+  "sendTestEmailDescription": "Az emailt a jelenleg bejelentkezett felhasználó email címére küldjük",
+  "senderAddress": "Küldő cím",
+  "senderAddressDescription": "Az email szolgáltató által biztosított küldő cím",
+  "smtpAccount": "SMTP fiók",
+  "smtpAccountDescription": "Az email szolgáltató által biztosított fiók",
+  "smtpEncryptionMethod": "SMTP titkosítási módszer",
+  "smtpEncryptionMethodDescription": "A 465-ös port esetén általában SSL, míg a 587-es port esetén általában TLS",
+  "smtpPassword": "SMTP jelszó",
+  "smtpPasswordDescription": "Az email szolgáltató által biztosított jelszó",
+  "smtpServerAddress": "SMTP szerver címe",
+  "smtpServerAddressDescription": "Az email szolgáltató által biztosított szolgáltatási cím",
+  "smtpServerPort": "SMTP szerver port",
+  "smtpServerPortDescription": "A gyakori portok: 25, 465, 587"
+}

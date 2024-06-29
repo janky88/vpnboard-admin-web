@@ -1,0 +1,23 @@
+{
+  "add": "Add",
+  "app": "APP",
+  "appDescription": "Configure the download address and import rules of the APP. Remember to save after modification.",
+  "appDownloadURL": "App Download URL",
+  "appIcon": "App Icon",
+  "appName": "App Name",
+  "delete": "Delete",
+  "reset": "Reset",
+  "save": "Save",
+  "saveSuccess": "Save successful",
+  "singleSubscriptionMode": "Single Subscription Mode",
+  "singleSubscriptionModeDescription": "Enable single subscription mode. Once enabled, it cannot be disabled. All users will retain only the first valid package, and other packages will be converted to balance.",
+  "subscriptionPath": "Subscription Path",
+  "subscriptionPathDescription": "Used for subscription.",
+  "subscriptionPathPlaceholder": "Please enter",
+  "subscriptionProtocol": "Subscription Protocol",
+  "subscriptionURL": "Subscription URL",
+  "subscriptionURLDescription": "Used for subscription. Leave blank to use the site URL. If multiple subscription URLs are needed, please enter one per line.",
+  "subscriptionURLPlaceholder": "Please enter the subscription URL, do not end with '/'. One per line for multiple domains.",
+  "wildcardResolution": "Wildcard Resolution",
+  "wildcardResolutionDescription": "Used for subscription."
+}

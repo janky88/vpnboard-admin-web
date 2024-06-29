@@ -1,0 +1,21 @@
+{
+  "announcementManagement": "Duyuru Yönetimi",
+  "couponManagement": "Kupon Yönetimi",
+  "dashboard": "Kontrol Paneli",
+  "documentManagement": "Belge Yönetimi",
+  "errorNoManager": "İstek hatası: Yönetici bulunamadı",
+  "finance": "Finans",
+  "logout": "Çıkış Yap",
+  "nodeManagement": "Düğüm Yönetimi",
+  "orderManagement": "Sipariş Yönetimi",
+  "paymentConfig": "Ödeme Yapılandırması",
+  "productManagement": "Ürün Yönetimi",
+  "server": "Sunucu",
+  "settings": "Ayarlar",
+  "systemConfig": "Sistem Yapılandırması",
+  "ticketManagement": "Bilet Yönetimi",
+  "toggleNavigationMenu": "Navigasyon menüsünü aç/kapat",
+  "toggleUserMenu": "Kullanıcı menüsünü aç/kapat",
+  "user": "Kullanıcı",
+  "userManagement": "Kullanıcı Yönetimi"
+}

@@ -1,0 +1,23 @@
+{
+  "add": "Hinzufügen",
+  "app": "APP",
+  "appDescription": "Konfigurieren Sie die Download-Adresse und Importregeln der APP. Denken Sie daran, nach der Änderung zu speichern.",
+  "appDownloadURL": "App-Download-URL",
+  "appIcon": "App-Symbol",
+  "appName": "App-Name",
+  "delete": "Löschen",
+  "reset": "Zurücksetzen",
+  "save": "Speichern",
+  "saveSuccess": "Erfolgreich gespeichert",
+  "singleSubscriptionMode": "Einzelabonnement-Modus",
+  "singleSubscriptionModeDescription": "Aktivieren Sie den Einzelabonnement-Modus. Sobald aktiviert, kann er nicht deaktiviert werden. Alle Benutzer behalten nur das erste gültige Paket bei, und andere Pakete werden in Guthaben umgewandelt.",
+  "subscriptionPath": "Abonnementpfad",
+  "subscriptionPathDescription": "Wird für das Abonnement verwendet.",
+  "subscriptionPathPlaceholder": "Bitte eingeben",
+  "subscriptionProtocol": "Abonnementprotokoll",
+  "subscriptionURL": "Abonnement-URL",
+  "subscriptionURLDescription": "Wird für das Abonnement verwendet. Lassen Sie es leer, um die Website-URL zu verwenden. Wenn mehrere Abonnement-URLs benötigt werden, geben Sie bitte eine pro Zeile ein.",
+  "subscriptionURLPlaceholder": "Bitte geben Sie die Abonnement-URL ein, enden Sie nicht mit '/'. Eine pro Zeile für mehrere Domains.",
+  "wildcardResolution": "Platzhalterauflösung",
+  "wildcardResolutionDescription": "Wird für das Abonnement verwendet."
+}

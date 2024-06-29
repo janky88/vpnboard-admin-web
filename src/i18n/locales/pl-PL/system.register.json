@@ -1,0 +1,20 @@
+{
+  "emailSuffixWhitelist": "Biała lista sufiksów e-mail",
+  "emailSuffixWhitelistDescription": "Po włączeniu do rejestracji będą dopuszczone tylko e-maile z sufiksami znajdującymi się na liście.",
+  "emailVerification": "Weryfikacja e-mail",
+  "emailVerificationDescription": "Po włączeniu użytkownicy będą zobowiązani do zweryfikowania swojego adresu e-mail.",
+  "ipRegistrationLimit": "Limit rejestracji IP",
+  "ipRegistrationLimitDescription": "Po włączeniu, adresy IP spełniające wymagania zostaną ograniczone od rejestracji. Należy pamiętać, że określenie adresu IP może powodować problemy związane z CDN lub proxy front-endowym.",
+  "penaltyTime": "Czas kary (minuty)",
+  "penaltyTimeDescription": "Użytkownicy muszą poczekać, aż minie czas kary, zanim będą mogli się zarejestrować ponownie.",
+  "registrationLimitCount": "Limit rejestracji",
+  "registrationLimitCountDescription": "Włącz karę po osiągnięciu limitu rejestracji.",
+  "saveSuccess": "Zapisano pomyślnie",
+  "stopNewUserRegistration": "Zatrzymaj rejestrację nowych użytkowników",
+  "stopNewUserRegistrationDescription": "Po włączeniu nikt nie będzie mógł się zarejestrować.",
+  "trialRegistration": "Rejestracja próbna",
+  "trialRegistrationDescription": "Włącz rejestrację próbną. Proszę najpierw zmodyfikować pakiet próbny w zarządzaniu produktem.",
+  "whitelistSuffixes": "Biała lista sufiksów",
+  "whitelistSuffixesDescription": "Używane do weryfikacji e-maili rejestracyjnych, po jednym w każdej linii.",
+  "whitelistSuffixesPlaceholder": "Proszę wprowadzić sufiksy e-maili, po jednym w każdej linii."
+}

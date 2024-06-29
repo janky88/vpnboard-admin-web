@@ -1,0 +1,10 @@
+{
+  "communicationKey": "Kommunikációs kulcs",
+  "communicationKeyDescription": "A csomópontok közötti kommunikáció kulcsa annak biztosítására, hogy az adatok ne kerüljenek illetéktelen kezekbe.",
+  "inputPlaceholder": "Kérlek add meg",
+  "nodePullInterval": "Csomópont lekérdezési időköz",
+  "nodePullIntervalDescription": "Az időköz, amikor a csomópont lekéri az adatokat a panelről. (másodpercben)",
+  "nodePushInterval": "Csomópont küldési időköz",
+  "nodePushIntervalDescription": "Az időköz, amikor a csomópont küldi az adatokat a panelnek.",
+  "saveSuccess": "Sikeres mentés"
+}

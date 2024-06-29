@@ -1,0 +1,21 @@
+{
+  "alipayAppId": "Идентификатор приложения Alipay",
+  "alipayPrivateKey": "Закрытый ключ Alipay",
+  "alipayPublicKey": "Открытый ключ Alipay",
+  "enable": "Включить",
+  "enableDescription": "Включить этот способ оплаты",
+  "feePercent": "Процентная комиссия (необязательно)",
+  "feePercentDescription": "Добавить комиссию к сумме заказа",
+  "fixedFee": "Фиксированная комиссия (необязательно)",
+  "fixedFeeDescription": "Добавить фиксированную комиссию к сумме заказа",
+  "goodsName": "Название товара",
+  "goodsNamePlaceholder": "Это будет отображаться в счете Alipay",
+  "iconUrl": "URL иконки (необязательно)",
+  "iconUrlDescription": "Используется для отображения на фронтенде",
+  "inputPlaceholder": "Пожалуйста, введите",
+  "notifyUrl": "Пользовательский домен уведомлений (необязательно)",
+  "notifyUrlDescription": "Уведомления шлюза будут отправлены на этот домен",
+  "saveSuccess": "Сохранение успешно",
+  "showName": "Отображаемое имя",
+  "showNameDescription": "Используется для отображения на фронтенде"
+}

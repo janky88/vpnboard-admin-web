@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "批次刪除",
+    "cancel": "取消",
+    "confirm": "確認",
+    "confirmDelete": "您確定要刪除這些項目嗎？",
+    "deleteDescription": "刪除後，數據將無法恢復。請謹慎操作。",
+    "goToFirstPage": "前往第一頁",
+    "goToLastPage": "前往最後一頁",
+    "goToNextPage": "前往下一頁",
+    "goToPreviousPage": "前往上一頁",
+    "noResults": "沒有結果",
+    "of": "的",
+    "page": "頁",
+    "selectAll": "全選",
+    "selectRow": "選擇行",
+    "selectedItems": "已選項目",
+    "totalItems": "總項目"
+  },
+  "request.error": {
+    "40000": "客戶端錯誤",
+    "40001": "客戶端驗證失敗",
+    "41001": "帳戶驗證失敗",
+    "41010": "此帳戶不存在",
+    "41011": "帳戶已被封鎖",
+    "41012": "密碼錯誤",
+    "50000": "伺服器錯誤",
+    "default": "未知錯誤",
+    "no.manager": "此帳戶管理員非法登入"
+  }
+}

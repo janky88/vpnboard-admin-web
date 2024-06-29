@@ -1,0 +1,10 @@
+{
+  "commissionFirstTimeOnly": "最初の購入時のみ手数料",
+  "commissionFirstTimeOnlyDescription": "有効にすると、招待された人の最初の支払い時のみ手数料が発生します。ユーザー管理で個々のユーザーを設定できます。",
+  "enableForcedInvite": "強制招待を有効にする",
+  "enableForcedInviteDescription": "有効にすると、招待されたユーザーのみ登録できます。",
+  "inputPlaceholder": "入力してください",
+  "inviteCommissionPercentage": "招待手数料の割合",
+  "inviteCommissionPercentageDescription": "デフォルトのグローバル手数料分配比率であり、ユーザー管理で個々の比率を設定できます。",
+  "saveSuccess": "保存に成功しました"
+}

@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Please enter",
+  "loginVerificationCode": "Login Verification Code",
+  "loginVerificationCodeDescription": "Human verification for login",
+  "registrationVerificationCode": "Registration Verification Code",
+  "registrationVerificationCodeDescription": "Human verification for registration",
+  "resetPasswordVerificationCode": "Reset Password Verification Code",
+  "resetPasswordVerificationCodeDescription": "Human verification for password reset",
+  "saveSuccess": "Save successful",
+  "turnstileSecret": "Turnstile Secret",
+  "turnstileSecretDescription": "Cloudflare provided Turnstile Secret",
+  "turnstileSiteKey": "Turnstile Site Key",
+  "turnstileSiteKeyDescription": "Cloudflare provided Turnstile Site Key"
+}

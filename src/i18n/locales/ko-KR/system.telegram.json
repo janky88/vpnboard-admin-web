@@ -1,0 +1,11 @@
+{
+  "botToken": "봇 토큰",
+  "botTokenDescription": "Botfather에서 제공한 토큰을 입력해주세요.",
+  "enableBotNotifications": "봇 알림 활성화",
+  "enableBotNotificationsDescription": "활성화하면 봇이 관리자 및 텔레그램에 연결된 사용자에게 기본 알림을 보냅니다.",
+  "groupURL": "그룹 URL",
+  "groupURLDescription": "입력한 후 사용자 측에 표시되거나 필요한 곳에서 사용됩니다.",
+  "inputPlaceholderBotToken": "0000000000:xxxxxxxxx_xxxxxxxxxxxxxxx",
+  "inputPlaceholderGroupURL": "https://t.me/xxxxxx",
+  "saveSuccess": "저장 성공"
+}

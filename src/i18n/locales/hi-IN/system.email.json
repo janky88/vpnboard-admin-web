@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "ईमेल टेम्पलेट",
+  "emailTemplateDescription": "आप ईमेल टेम्पलेट को कस्टमाइज़ करने के लिए दस्तावेज़ की जांच कर सकते हैं",
+  "inputPlaceholder": "कृपया दर्ज करें",
+  "saveSuccess": "सहेजें सफल",
+  "selectPlaceholder": "कृपया चुनें",
+  "sendTestEmail": "टेस्ट ईमेल भेजें",
+  "sendTestEmailDescription": "ईमेल वर्तमान में लॉग इन हुए उपयोगकर्ता के ईमेल पर भेजा जाएगा",
+  "senderAddress": "प्रेषक पता",
+  "senderAddressDescription": "ईमेल सेवा प्रदाता द्वारा प्रदान किया गया प्रेषक पता",
+  "smtpAccount": "SMTP खाता",
+  "smtpAccountDescription": "ईमेल सेवा प्रदाता द्वारा प्रदान किया गया खाता",
+  "smtpEncryptionMethod": "SMTP एन्क्रिप्शन विधि",
+  "smtpEncryptionMethodDescription": "पोर्ट 465 के लिए एन्क्रिप्शन विधि आम तौर पर SSL होती है, और पोर्ट 587 के लिए आम तौर पर TLS होती है",
+  "smtpPassword": "SMTP पासवर्ड",
+  "smtpPasswordDescription": "ईमेल सेवा प्रदाता द्वारा प्रदान किया गया पासवर्ड",
+  "smtpServerAddress": "SMTP सर्वर पता",
+  "smtpServerAddressDescription": "ईमेल सेवा प्रदाता द्वारा प्रदान किया गया सेवा पता",
+  "smtpServerPort": "SMTP सर्वर पोर्ट",
+  "smtpServerPortDescription": "सामान्य पोर्ट 25, 465, 587 होते हैं"
+}

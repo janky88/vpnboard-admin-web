@@ -1,0 +1,21 @@
+{
+  "emailTemplate": "Modelo de E-mail",
+  "emailTemplateDescription": "Você pode verificar a documentação sobre como personalizar modelos de e-mail",
+  "inputPlaceholder": "Por favor, insira",
+  "saveSuccess": "Salvo com sucesso",
+  "selectPlaceholder": "Por favor, selecione",
+  "sendTestEmail": "Enviar E-mail de Teste",
+  "sendTestEmailDescription": "O e-mail será enviado para o e-mail do usuário atualmente logado",
+  "senderAddress": "Endereço do Remetente",
+  "senderAddressDescription": "Endereço do remetente fornecido pelo provedor de serviços de e-mail",
+  "smtpAccount": "Conta SMTP",
+  "smtpAccountDescription": "Conta fornecida pelo provedor de serviços de e-mail",
+  "smtpEncryptionMethod": "Método de Criptografia SMTP",
+  "smtpEncryptionMethodDescription": "O método de criptografia para a porta 465 geralmente é SSL e para a porta 587 geralmente é TLS",
+  "smtpPassword": "Senha SMTP",
+  "smtpPasswordDescription": "Senha fornecida pelo provedor de serviços de e-mail",
+  "smtpServerAddress": "Endereço do Servidor SMTP",
+  "smtpServerAddressDescription": "Endereço de serviço fornecido pelo provedor de serviços de e-mail",
+  "smtpServerPort": "Porta do Servidor SMTP",
+  "smtpServerPortDescription": "As portas comuns são 25, 465, 587"
+}

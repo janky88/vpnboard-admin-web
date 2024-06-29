@@ -1,0 +1,14 @@
+{
+  "inputPlaceholder": "Пожалуйста, введите",
+  "loginVerificationCode": "Код верификации входа",
+  "loginVerificationCodeDescription": "Проверка на человеческое присутствие при входе",
+  "registrationVerificationCode": "Код верификации регистрации",
+  "registrationVerificationCodeDescription": "Проверка на человеческое присутствие при регистрации",
+  "resetPasswordVerificationCode": "Код верификации сброса пароля",
+  "resetPasswordVerificationCodeDescription": "Проверка на человеческое присутствие при сбросе пароля",
+  "saveSuccess": "Сохранение успешно",
+  "turnstileSecret": "Секрет Turnstile",
+  "turnstileSecretDescription": "Предоставленный Cloudflare секрет Turnstile",
+  "turnstileSiteKey": "Ключ сайта Turnstile",
+  "turnstileSiteKeyDescription": "Предоставленный Cloudflare ключ сайта Turnstile"
+}

@@ -1,0 +1,23 @@
+{
+  "add": "Lisää",
+  "app": "SOVELLUS",
+  "appDescription": "Määritä SOVELLUKSEN latausosoite ja tuontisäännöt. Muista tallentaa muutosten jälkeen.",
+  "appDownloadURL": "Sovelluksen latausosoite",
+  "appIcon": "Sovelluskuvake",
+  "appName": "Sovelluksen nimi",
+  "delete": "Poista",
+  "reset": "Palauta",
+  "save": "Tallenna",
+  "saveSuccess": "Tallennus onnistui",
+  "singleSubscriptionMode": "Yksittäisen tilauksen tila",
+  "singleSubscriptionModeDescription": "Ota käyttöön yksittäisen tilauksen tila. Kun tämä on otettu käyttöön, sitä ei voi poistaa. Kaikki käyttäjät säilyttävät vain ensimmäisen voimassa olevan paketin, ja muut paketit muunnetaan saldoksi.",
+  "subscriptionPath": "Tilauspolku",
+  "subscriptionPathDescription": "Käytetään tilaamiseen.",
+  "subscriptionPathPlaceholder": "Ole hyvä ja syötä",
+  "subscriptionProtocol": "Tilausprotokolla",
+  "subscriptionURL": "Tilausosoite",
+  "subscriptionURLDescription": "Käytetään tilaamiseen. Jätä tyhjäksi käyttääksesi sivuston URL-osoitetta. Jos tarvitaan useita tilausosoitteita, syötä ne yksi per rivi.",
+  "subscriptionURLPlaceholder": "Ole hyvä ja syötä tilausosoite ilman '/'. Yksi per rivi useita verkkotunnuksia varten.",
+  "wildcardResolution": "Jokerimerkin ratkaisu",
+  "wildcardResolutionDescription": "Käytetään tilaamiseen."
+}

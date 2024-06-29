@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "Folosit pentru afișarea locului în care este necesar logo-ul.",
+  "logoPlaceholder": "Vă rugăm să introduceți URL-ul LOGO-ului, fără a se termina cu '/'",
+  "saveSuccess": "Salvare reușită",
+  "siteDesc": "Descrierea site-ului",
+  "siteDescDescription": "Folosit pentru afișarea locului în care este necesar descrierea site-ului.",
+  "siteDescPlaceholder": "Vă rugăm să introduceți descrierea site-ului",
+  "siteName": "Numele site-ului",
+  "siteNameDescription": "Folosit pentru afișarea locului în care este necesar numele site-ului.",
+  "siteNamePlaceholder": "Vă rugăm să introduceți numele site-ului",
+  "siteURL": "URL-ul site-ului",
+  "siteURLDescription": "URL-ul actual al site-ului, va fi folosit în locuri precum emailurile.",
+  "siteURLPlaceholder": "Vă rugăm să introduceți URL-ul site-ului, fără a se termina cu '/'"
+}

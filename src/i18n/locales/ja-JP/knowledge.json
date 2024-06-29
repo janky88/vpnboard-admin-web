@@ -1,0 +1,28 @@
+{
+  "actions": "アクション",
+  "cancel": "キャンセル",
+  "category": "カテゴリー",
+  "confirm": "確認",
+  "confirmDelete": "削除してもよろしいですか？",
+  "create": "作成",
+  "createKnowledge": "ナレッジを作成",
+  "createSuccess": "作成が成功しました",
+  "delete": "削除",
+  "deleteDescription": "一度削除すると、データは復元できません。注意して続行してください。",
+  "deleteSuccess": "削除が成功しました",
+  "edit": "編集",
+  "editKnowledge": "ナレッジを編集",
+  "form": {
+    "cancel": "キャンセル",
+    "category": "カテゴリー",
+    "confirm": "確認",
+    "content": "コンテンツ",
+    "title": "タイトル",
+    "titlePlaceholder": "入力してください"
+  },
+  "knowledgeList": "ナレッジリスト",
+  "show": "表示",
+  "title": "タイトル",
+  "updateSuccess": "更新が成功しました",
+  "updatedAt": "更新日時"
+}

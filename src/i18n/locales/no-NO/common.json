@@ -1,0 +1,31 @@
+{
+  "data.table": {
+    "batchDelete": "Slett i batch",
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "confirmDelete": "Er du sikker på at du vil slette disse elementene?",
+    "deleteDescription": "Når det er slettet, kan data ikke gjenopprettes. Vennligst fortsett forsiktig.",
+    "goToFirstPage": "Gå til første side",
+    "goToLastPage": "Gå til siste side",
+    "goToNextPage": "Gå til neste side",
+    "goToPreviousPage": "Gå til forrige side",
+    "noResults": "Ingen resultater.",
+    "of": "av",
+    "page": "Side",
+    "selectAll": "Velg alle",
+    "selectRow": "Velg rad",
+    "selectedItems": "Valgte elementer",
+    "totalItems": "Totalt antall"
+  },
+  "request.error": {
+    "40000": "Klientfeil",
+    "40001": "Klientvalidering mislyktes",
+    "41001": "Autentisering av konto mislyktes",
+    "41010": "Denne kontoen eksisterer ikke",
+    "41011": "Kontoen har blitt utestengt",
+    "41012": "Feil passord",
+    "50000": "Serverfeil",
+    "default": "Ukjent feil",
+    "no.manager": "Denne kontosjefen er pålogget ulovlig"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "logo": "LOGO",
+  "logoDescription": "用於顯示需要標誌的位置。",
+  "logoPlaceholder": "請輸入 LOGO 網址，不要以 '/' 結尾",
+  "saveSuccess": "保存成功",
+  "siteDesc": "網站描述",
+  "siteDescDescription": "用於顯示需要網站描述的位置。",
+  "siteDescPlaceholder": "請輸入網站描述",
+  "siteName": "網站名稱",
+  "siteNameDescription": "用於顯示需要網站名稱的位置。",
+  "siteNamePlaceholder": "請輸入網站名稱",
+  "siteURL": "網站網址",
+  "siteURLDescription": "當前網站網址，將用於電子郵件等地方。",
+  "siteURLPlaceholder": "請輸入網站網址，不要以 '/' 結尾"
+}
